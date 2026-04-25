@@ -1,0 +1,45 @@
+Micro_Journal:: 1 week report
+	- Key_Measures::
+		- Mood
+		- Energy
+		- Cognitive ability
+		- Sleep
+			- Dose:: 3
+				- Date/Time:: [[Jan 11th, 2024]] 4:30
+				- DOSE_Size::
+				  .05 micro dose, with beneficials
+					- Stomach:: no food yet, only water
+						-
+							- **Report  - 16:34**
+								- Mood::
+									- Good, productive
+								- Energy::
+									- Good
+								- Cognitive_ability::
+									- No issues
+									- Got a good burst from 7-9 at work
+								- Sleep::
+									- Last night's sleep was good. Went to bed early, got up early
+	- Key_Measures::
+		- Mood
+		- Energy
+		- Cognitive ability
+		- Sleep
+			- Dose:: 2
+				- Date/Time:: [[Jan 10th, 2024]] 5:30
+				- DOSE_Size::
+				  .05 micro dose, with beneficials
+					- Stomach:: no food yet, only coffee and water
+						- General Note: Had some personal things to work out with family yesterday, this morning. It was not pleasant, but I feel like I was in a good mental and emotional space to cope with what came up. Moving on.... Letting go :)
+							- **Report 1 - 8:12**
+								- Mood::
+									- Good (considering the family issues ;) )
+								- Energy::
+									- ok - A little drained today, but better with mcrodose
+								- Cognitive_ability::
+									- A little tired and foggy today - but better with micro dose
+								- Sleep::
+									- Last night's sleep was good. No issues.
+									- Went to bed at 10 - woke at 5
+								- Digestion::
+									- Good

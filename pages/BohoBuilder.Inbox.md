@@ -1,0 +1,4607 @@
+# BohoBuilder Inbox
+- {{boho-entry}} Inbox #BohoBuilder #Note ^a7deb828-016a-495a-a1f6-0ada60ba5d70
+  - boho-id:: A7DEB828-016A-495A-A1F6-0ADA60BA5D70
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Inbox","subtitle":"Taking out The Noodle"}
+  - {{/boho-entry}}  - boho-id:: 4B9EB0FE-97B3-46D0-A263-70308560CB92
+  - boho-type:: food
+  - boho-created:: 2026-01-08T19:32:19Z
+  - boho-json:: {"text":"Food Log","items":[{"time":"2026-01-08T02:43:10Z","text":"celery"}]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-08T18:06:39Z
+  - boho-json:: {"items":[{"text":"celery","time":"2026-01-08T02:43:10Z"}],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^390f3cd7-863b-420a-aef4-bac4353dbfdd
+  - boho-id:: 390F3CD7-863B-420A-AEF4-BAC4353DBFDD
+  - boho-type:: note
+  - boho-created:: 2026-01-08T19:32:18Z
+  - boho-json:: {"subtitle":"Completed a 11 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4b9eb0fe-97b3-46d0-a263-70308560cb92
+  - boho-id:: 4B9EB0FE-97B3-46D0-A263-70308560CB92
+  - boho-type:: food
+  - boho-created:: 2026-01-08T18:13:40Z
+  - boho-json:: {"items":[{"time":"2026-01-08T02:43:10Z","text":"celery"}],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Grocery List All #BohoBuilder #Note ^98b07698-6351-47b0-a825-73bae7556884
+  - boho-id:: 98B07698-6351-47B0-A825-73BAE7556884
+  - boho-type:: note
+  - boho-created:: 2026-01-08T20:08:05Z
+  - boho-json:: {"subtitle":"1 items","text":"Grocery List All"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^17147940-1c24-43f8-a15f-4f085ac12011
+  - boho-id:: 17147940-1C24-43F8-A15F-4F085AC12011
+  - boho-type:: food
+  - boho-created:: 2026-01-08T19:32:18Z
+  - boho-json:: {"items":[{"time":"2026-01-08T14:28:59Z","text":"Water - 500 ml"},{"time":"2026-01-08T14:28:39Z","text":"Coffee - Black"},{"time":"2026-01-08T14:28:33Z","text":"Coffee - Black"},{"text":"Congi","time":"2026-01-08T14:28:14Z"}],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^dbe33023-a45a-4988-89ae-e5d5755a538c
+  - boho-id:: DBE33023-A45A-4988-89AE-E5D5755A538C
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-status:: open
+  - boho-date:: 2026-01-02
+  - {{/boho-entry}}  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b8d7fd37-c99e-423a-a97e-caf3a4293ff0
+  - boho-id:: B8D7FD37-C99E-423A-A97E-CAF3A4293FF0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:21Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Inbox #BohoBuilder #Note ^03c490af-ad41-4910-b70a-85b1c7617c39
+  - boho-id:: 03C490AF-AD41-4910-B70A-85B1C7617C39
+  - boho-type:: note
+  - boho-created:: 2026-01-12T18:18:17Z
+  - boho-json:: {"subtitle":"Abtronix apptronix Feral working robotics","text":"Inbox"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-created:: 2026-01-10T20:32:28Z
+  - boho-json:: {"subtitle":"Build amazing apps and expand your technical skills","text":"Coding Projects"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Social Events #BohoBuilder #Note ^0ac9748e-3c9c-4a73-b7cb-ec0605e9d042
+  - boho-id:: 0AC9748E-3C9C-4A73-B7CB-EC0605E9D042
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:56:29Z
+  - boho-json:: {"subtitle":"Connect with friends and attend exciting gatherings","text":"Social Events"}
+  - {{/boho-entry}}
+- {{boho-entry}} Creative Projects #BohoBuilder #Note ^91eba896-ca93-45c7-91ba-9525d27fcbb1
+  - boho-id:: 91EBA896-CA93-45C7-91BA-9525D27FCBB1
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:50:47Z
+  - boho-json:: {"text":"Creative Projects","subtitle":"Explore your latest creative endeavors and artistic projects"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Learning Path","subtitle":"Continue your educational journey with new courses"}
+  - {{/boho-entry}}
+- {{boho-entry}} Music Library #BohoBuilder #Note ^a74f8821-0196-41f6-b2c8-15a5662cc5f4
+  - boho-id:: A74F8821-0196-41F6-B2C8-15A5662CC5F4
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:45:09Z
+  - boho-json:: {"text":"Music Library","subtitle":"Dive into your favorite playlists and discover new sounds"}
+  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness #BohoBuilder #Note ^c91b7da0-0b1d-4419-8221-74d83d2cf2f7
+  - boho-id:: C91B7DA0-0B1D-4419-8221-74D83D2CF2F7
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:56:29Z
+  - boho-json:: {"subtitle":"Practice meditation and maintain mental well-being","text":"Mindfulness"}
+  - {{/boho-entry}}
+- {{boho-entry}} Coding Projects #BohoBuilder #Note ^dc8df41f-7c61-4bb6-9797-0249f50c23c9
+  - boho-id:: DC8DF41F-7C61-4BB6-9797-0249F50C23C9
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:45:09Z
+  - boho-json:: {"text":"Coding Projects","subtitle":"Build amazing apps and expand your technical skills"}
+  - {{/boho-entry}}
+- {{boho-entry}} Fitness Goals #BohoBuilder #Note ^fc3c9ff6-2325-4da9-836c-80cc4c595a84
+  - boho-id:: FC3C9FF6-2325-4DA9-836C-80CC4C595A84
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:56:28Z
+  - boho-json:: {"subtitle":"Track your workouts and achieve your fitness milestones","text":"Fitness Goals"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Fitness Goals","subtitle":"Track your workouts and achieve your fitness milestones"}
+  - {{/boho-entry}}
+- {{boho-entry}} Healthy Recipes #BohoBuilder #Note ^1908028b-767e-4deb-85bf-1c2794993330
+  - boho-id:: 1908028B-767E-4DEB-85BF-1C2794993330
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:56:29Z
+  - boho-json:: {"subtitle":"Cook delicious and nutritious meals for a better lifestyle","text":"Healthy Recipes"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Healthy Recipes","subtitle":"Cook delicious and nutritious meals for a better lifestyle"}
+  - {{/boho-entry}}
+- {{boho-entry}} Photography #BohoBuilder #Note ^81ab700e-a478-4211-ac29-192ea7fc1429
+  - boho-id:: 81AB700E-A478-4211-AC29-192EA7FC1429
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:56:29Z
+  - boho-json:: {"subtitle":"Capture moments and improve your photography skills","text":"Photography"}
+  - {{/boho-entry}}  - boho-type:: note
+  - boho-created:: 2026-01-10T20:32:28Z
+  - boho-json:: {"text":"Fitness Goals","subtitle":"Track your workouts and achieve your fitness milestones"}
+  - {{/boho-entry}}
+- {{boho-entry}} Healthy Recipes #BohoBuilder #Note ^1908028b-767e-4deb-85bf-1c2794993330
+  - boho-id:: 1908028B-767E-4DEB-85BF-1C2794993330
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:32:28Z
+  - boho-json:: {"text":"Healthy Recipes","subtitle":"Cook delicious and nutritious meals for a better lifestyle"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a7b61b2e-aa57-425e-92c6-67237c77d498
+  - boho-id:: A7B61B2E-AA57-425E-92C6-67237C77D498
+  - boho-type:: food
+  - boho-created:: 2026-01-10T20:56:25Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Travel Plans #BohoBuilder #Note ^16eff481-8ca1-4aed-a31d-44e33b60a06e
+  - boho-id:: 16EFF481-8CA1-4AED-A31D-44E33B60A06E
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:56:29Z
+  - boho-json:: {"subtitle":"Discover new destinations and plan your next adventure","text":"Travel Plans"}
+  - {{/boho-entry}}
+- {{boho-entry}} Learning Path #BohoBuilder #Note ^c3709ab3-407b-437b-bee9-583a613b23aa
+  - boho-id:: C3709AB3-407B-437B-BEE9-583A613B23AA
+  - boho-type:: note
+  - boho-created:: 2026-01-10T20:56:29Z
+  - boho-json:: {"subtitle":"Continue your educational journey with new courses","text":"Learning Path"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d8188737-550c-402e-830d-d8eaf067fe5b
+  - boho-id:: D8188737-550C-402E-830D-D8EAF067FE5B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:19Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^73e40c83-5ab1-4b60-be12-8e18bc993f03
+  - boho-id:: 73E40C83-5AB1-4B60-BE12-8E18BC993F03
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T14:27:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^9a89c384-78be-48ac-b1e5-07c5c1fc9e64
+  - boho-id:: 9A89C384-78BE-48AC-B1E5-07C5C1FC9E64
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[{"time":"2026-01-09T21:40:59Z","text":"Banana"},{"text":"Lentil Soup","time":"2026-01-09T18:49:24Z"},{"time":"2026-01-09T16:37:28Z","text":"Tylenol Muscle + Body x 2"},{"text":"Coffee - Black","time":"2026-01-09T16:36:46Z"},{"time":"2026-01-09T14:41:45Z","text":"Coffee - Black"},{"time":"2026-01-09T14:41:34Z","text":"Congi"},{"text":"Water 500 ml","time":"2026-01-09T14:41:22Z"}],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^23ca1cb5-2d9e-4c7b-8282-1dd3401fefb8
+  - boho-id:: 23CA1CB5-2D9E-4C7B-8282-1DD3401FEFB8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^efd9c322-499b-4865-b0c8-ef9e546633ce
+  - boho-id:: EFD9C322-499B-4865-B0C8-EF9E546633CE
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-status:: open
+  - boho-date:: 2026-01-11
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: F2AD7D4D-D956-4875-83F8-368B68115379
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:13Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3dc8cb6d-96a2-4a5d-89eb-b83c914fc517
+  - boho-id:: 3DC8CB6D-96A2-4A5D-89EB-B83C914FC517
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T15:13:52Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^9dd5c25a-8940-43b3-9866-26a72df16e7b
+  - boho-id:: 9DD5C25A-8940-43B3-9866-26A72DF16E7B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4a88a9c4-cb86-4fd3-89aa-29168b0803cd
+  - boho-id:: 4A88A9C4-CB86-4FD3-89AA-29168B0803CD
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-date:: 2026-01-07
+  - {{/boho-entry}}  - boho-date:: 2026-01-07
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^615de01a-2757-46c0-a3e9-44d51d74a078
+  - boho-id:: 615DE01A-2757-46C0-A3E9-44D51D74A078
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7e748c09-8f39-4656-9145-0f9e6d6b150e
+  - boho-id:: 7E748C09-8F39-4656-9145-0F9E6D6B150E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f4e82117-b2ff-4867-9701-416da73b860c
+  - boho-id:: F4E82117-B2FF-4867-9701-416DA73B860C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^e86303f6-03b0-434b-aa2a-e298b2b71822
+  - boho-id:: E86303F6-03B0-434B-AA2A-E298B2B71822
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-status:: open
+  - {{/boho-entry}}  - boho-type:: routine
+  - boho-created:: 2026-01-12T22:10:49Z
+  - boho-status:: open
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d6f31fe4-dd45-47a2-b5c0-854e43a7e021
+  - boho-id:: D6F31FE4-DD45-47A2-B5C0-854E43A7E021
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T16:19:07Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7345eacc-87a1-4812-8c83-c41a9311e620
+  - boho-id:: 7345EACC-87A1-4812-8C83-C41A9311E620
+  - boho-type:: food
+  - boho-created:: 2026-01-11T15:55:19Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^74e411c5-a886-4391-8af3-8f29c2422383
+  - boho-id:: 74E411C5-A886-4391-8AF3-8F29C2422383
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:05Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^80527295-d6d4-4310-b6ab-fcef5456b914
+  - boho-id:: 80527295-D6D4-4310-B6AB-FCEF5456B914
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"subtitle":"Completed a 20 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}  - boho-type:: note
+  - boho-created:: 2026-01-12T18:18:07Z
+  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^286bc54f-7196-4595-bbda-9a5859a96c31
+  - boho-id:: 286BC54F-7196-4595-BBDA-9A5859A96C31
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:27:04Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5454729d-9300-44d2-9da7-1334a1d49679
+  - boho-id:: 5454729D-9300-44D2-9DA7-1334A1D49679
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T16:30:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f9148f97-b382-4b0c-a7b7-067e7d72df30
+  - boho-id:: F9148F97-B382-4B0C-A7B7-067E7D72DF30
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:07Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^543fd4c1-2894-46fc-bb1d-bf77890c33a5
+  - boho-id:: 543FD4C1-2894-46FC-BB1D-BF77890C33A5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: routine
+  - boho-created:: 2026-01-11T20:47:55Z
+  - boho-status:: open
+  - boho-date:: 2026-01-04
+  - {{/boho-entry}}  - boho-date:: 2026-01-04
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^efd9c322-499b-4865-b0c8-ef9e546633ce
+  - boho-id:: EFD9C322-499B-4865-B0C8-EF9E546633CE
+  - boho-type:: routine
+  - boho-created:: 2026-01-11T23:40:50Z
+  - boho-status:: open
+  - boho-date:: 2026-01-11
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^52890c81-4a5f-4e67-a6fd-bdd5aa12e28f
+  - boho-id:: 52890C81-4A5F-4E67-A6FD-BDD5AA12E28F
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:36:58Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T20:39:48Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^10a026d5-af2a-4f71-a2d6-e1ee77c36fc1
+  - boho-id:: 10A026D5-AF2A-4F71-A2D6-E1EE77C36FC1
+  - boho-type:: food
+  - boho-created:: 2026-01-11T17:46:23Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7bf385bf-9832-4532-bbb5-5e22864d61fa
+  - boho-id:: 7BF385BF-9832-4532-BBB5-5E22864D61FA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T13:36:48Z
+  - boho-status:: open
+  - boho-date:: 2026-01-08
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:40:55Z
+  - boho-status:: open
+  - boho-date:: 2026-01-08
+  - {{/boho-entry}}  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e006de84-f83a-4751-978c-4ec585ee2fe4
+  - boho-id:: E006DE84-F83A-4751-978C-4EC585EE2FE4
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^980f379e-1300-4f99-9fae-78df787f278f
+  - boho-id:: 980F379E-1300-4F99-9FAE-78DF787F278F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^df515edd-85bb-4e55-a778-9557b11e8c77
+  - boho-id:: DF515EDD-85BB-4E55-A778-9557B11E8C77
+  - boho-type:: food
+  - boho-created:: 2026-01-11T15:55:20Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e5d26b0c-8b9e-473d-b867-4f3b61a7ca2b
+  - boho-id:: E5D26B0C-8B9E-473D-B867-4F3B61A7CA2B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f8d719d0-6a4f-4960-a1d8-790c4c3a3e72
+  - boho-id:: F8D719D0-6A4F-4960-A1D8-790C4C3A3E72
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:31Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Banana","time":"2026-01-09T21:40:59Z"},{"text":"Lentil Soup","time":"2026-01-09T18:49:24Z"},{"time":"2026-01-09T16:37:28Z","text":"Tylenol Muscle + Body x 2"},{"text":"Coffee - Black","time":"2026-01-09T16:36:46Z"},{"time":"2026-01-09T14:41:45Z","text":"Coffee - Black"},{"time":"2026-01-09T14:41:34Z","text":"Congi"},{"text":"Water 500 ml","time":"2026-01-09T14:41:22Z"}]}
+  - {{/boho-entry}}  - boho-date:: 2026-01-05
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0a01775c-7cba-47c0-9443-f9725da466e1
+  - boho-id:: 0A01775C-7CBA-47C0-9443-F9725DA466E1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:38:28Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^20c01287-d9d4-4d15-8ef6-d84f1c3da9c6
+  - boho-id:: 20C01287-D9D4-4D15-8EF6-D84F1C3DA9C6
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ad3089e0-927c-4132-97e2-aecb41d74bc0
+  - boho-id:: AD3089E0-927C-4132-97E2-AECB41D74BC0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Grocery List All #BohoBuilder #Note ^4dc47792-0f5e-4fcd-bb92-c78c94d91389
+  - boho-id:: 4DC47792-0F5E-4FCD-BB92-C78C94D91389
+  - boho-type:: note
+  - boho-created:: 2026-01-11T20:47:46Z
+  - boho-json:: {"text":"Grocery List All","subtitle":"1 items"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^89eaebfc-0d25-4622-a9ce-354bf4ec7cef
+  - boho-id:: 89EAEBFC-0D25-4622-A9CE-354BF4EC7CEF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ad2fb8c7-a681-4de6-a2bc-543c873cbf57
+  - boho-id:: AD2FB8C7-A681-4DE6-A2BC-543C873CBF57
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:50Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Yoga #BohoBuilder #Note ^f3543d3c-1430-4ce2-8db9-7c30e50a3dc8
+  - boho-id:: F3543D3C-1430-4CE2-8DB9-7C30E50A3DC8
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"subtitle":"Mathew Rosenberg 10 min","text":"Yoga"}
+  - {{/boho-entry}}  - boho-status:: open
+  - boho-date:: 2026-01-11
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^9a89c384-78be-48ac-b1e5-07c5c1fc9e64
+  - boho-id:: 9A89C384-78BE-48AC-B1E5-07C5C1FC9E64
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:32:17Z
+  - boho-json:: {"items":[{"text":"Banana","time":"2026-01-09T21:40:59Z"},{"time":"2026-01-09T18:49:24Z","text":"Lentil Soup"},{"time":"2026-01-09T16:37:28Z","text":"Tylenol Muscle + Body x 2"},{"text":"Coffee - Black","time":"2026-01-09T16:36:46Z"},{"text":"Coffee - Black","time":"2026-01-09T14:41:45Z"},{"text":"Congi","time":"2026-01-09T14:41:34Z"},{"time":"2026-01-09T14:41:22Z","text":"Water 500 ml"}],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Bug - Day Closer Component  #BohoBuilder #Note ^e5791c9b-047e-40af-ba25-6fbe74ebb97d
+  - boho-id:: E5791C9B-047E-40AF-BA25-6FBE74EBB97D
+  - boho-type:: note
+  - boho-created:: 2026-01-11T22:32:12Z
+  - boho-json:: {"subtitle":"Top page title - sub header should include daily intentions, derived from early days entry \n\nReagan idea ","text":"Bug - Day Closer Component "}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T17:46:22Z
+  - boho-json:: {"subtitle":"Completed a 20 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^33fc310f-aede-4bb1-8a35-1f30c06720a8
+  - boho-id:: 33FC310F-AEDE-4BB1-8A35-1F30C06720A8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^028cc94c-19c8-46ae-ad9c-28f4b46455af
+  - boho-id:: 028CC94C-19C8-46AE-AD9C-28F4B46455AF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^695d6335-ac9c-4b66-91a8-266943c3b251
+  - boho-id:: 695D6335-AC9C-4B66-91A8-266943C3B251
+  - boho-type:: food
+  - boho-created:: 2026-01-11T18:45:58Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f4e82117-b2ff-4867-9701-416da73b860c
+  - boho-id:: F4E82117-B2FF-4867-9701-416DA73B860C
+  - boho-type:: food
+  - boho-created:: 2026-01-11T17:46:30Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^14bee3d0-a376-47b6-86ba-79a6e3276baa
+  - boho-id:: 14BEE3D0-A376-47B6-86BA-79A6E3276BAA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}- {{boho-entry}} Inbox #BohoBuilder #Note ^c2694611-0c5f-435a-a2b4-b634640a78b1
+  - boho-id:: C2694611-0C5F-435A-A2B4-B634640A78B1
+  - boho-type:: note
+  - boho-created:: 2026-01-11T17:46:26Z
+  - boho-json:: {"text":"Inbox","subtitle":"Impact Kitchen Mexican Bowl\nGF #FoodLog"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7317ca40-fcd5-4fa6-9868-d5c5c09a3f3b
+  - boho-id:: 7317CA40-FCD5-4FA6-9868-D5C5C09A3F3B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4d16d70e-d4d3-4df9-a3c9-17db350835b0
+  - boho-id:: 4D16D70E-D4D3-4DF9-A3C9-17DB350835B0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:47Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T21:35:49Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^71e2e27b-91b5-4f03-879d-77369ef6545c
+  - boho-id:: 71E2E27B-91B5-4F03-879D-77369EF6545C
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-date:: 2026-01-12
+  - boho-json:: {"text":"Inbox","subtitle":"T8000S - Amazon.ca\n\n3-in-1 Dog Training Bark Collar\nwith 3300ft Remote - Bark\nControl, Dog Status Display, FSK\nTech for Reliable Signal, IPX7\nWaterproof, Adjustable for\nSmall, Medium & Large Dogs,\nControl Up to 3 Dogs\nBrand: Generic\n5.0 1\nV (4)\nSearch this page\n$9900 ($99.00\/count)\n00g\n3 IN 1\nClick to see full view\nOr $1798 \/mo (6 mo). Select from 1 plan\nvprime Tomorrow\nColour\nBlack\nMaterial\nNylon\nBrand\nGeneric\nClosure type\nHook & Loop\nBreed\nSmall, Medium, Large\nrecommendation\nIncluded\nAsk Rufus\nProduct Manual, Receiver Collar,\ny See more\nIs the collar rechargeable?\nCan it be used In the rain?\nDoes it come with a training guide?\nAsk something else\nAbout this item\nâ€¢ [3-In-1 Versatile Functionalityl: Combine remote\ndog training, auto bark control, and real-time dog\nstatue dienlau in a cinale nowerful evetam - norfart\nPa\nAd"}
+  - {{/boho-entry}}  - boho-type:: note
+  - boho-created:: 2026-01-12T00:46:57Z
+  - boho-date:: 2026-01-12
+  - boho-json:: {"subtitle":"T8000S - Amazon.ca\n\n3-in-1 Dog Training Bark Collar\nwith 3300ft Remote - Bark\nControl, Dog Status Display, FSK\nTech for Reliable Signal, IPX7\nWaterproof, Adjustable for\nSmall, Medium & Large Dogs,\nControl Up to 3 Dogs\nBrand: Generic\n5.0 1\nV (4)\nSearch this page\n$9900 ($99.00\/count)\n00g\n3 IN 1\nClick to see full view\nOr $1798 \/mo (6 mo). Select from 1 plan\nvprime Tomorrow\nColour\nBlack\nMaterial\nNylon\nBrand\nGeneric\nClosure type\nHook & Loop\nBreed\nSmall, Medium, Large\nrecommendation\nIncluded\nAsk Rufus\nProduct Manual, Receiver Collar,\ny See more\nIs the collar rechargeable?\nCan it be used In the rain?\nDoes it come with a training guide?\nAsk something else\nAbout this item\nâ€¢ [3-In-1 Versatile Functionalityl: Combine remote\ndog training, auto bark control, and real-time dog\nstatue dienlau in a cinale nowerful evetam - norfart\nPa\nAd","text":"Inbox"}
+  - {{/boho-entry}}  - boho-date:: 2026-01-12
+  - boho-json:: {"text":"Inbox","subtitle":"T8000S - Amazon.ca\n\n3-in-1 Dog Training Bark Collar\nwith 3300ft Remote - Bark\nControl, Dog Status Display, FSK\nTech for Reliable Signal, IPX7\nWaterproof, Adjustable for\nSmall, Medium & Large Dogs,\nControl Up to 3 Dogs\nBrand: Generic\n5.0 1\nV (4)\nSearch this page\n$9900 ($99.00\/count)\n00g\n3 IN 1\nClick to see full view\nOr $1798 \/mo (6 mo). Select from 1 plan\nvprime Tomorrow\nColour\nBlack\nMaterial\nNylon\nBrand\nGeneric\nClosure type\nHook & Loop\nBreed\nSmall, Medium, Large\nrecommendation\nIncluded\nAsk Rufus\nProduct Manual, Receiver Collar,\ny See more\nIs the collar rechargeable?\nCan it be used In the rain?\nDoes it come with a training guide?\nAsk something else\nAbout this item\nâ€¢ [3-In-1 Versatile Functionalityl: Combine remote\ndog training, auto bark control, and real-time dog\nstatue dienlau in a cinale nowerful evetam - norfart\nPa\nAd"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Inbox","subtitle":"T8000S - Amazon.ca\n\n3-in-1 Dog Training Bark Collar\nwith 3300ft Remote - Bark\nControl, Dog Status Display, FSK\nTech for Reliable Signal, IPX7\nWaterproof, Adjustable for\nSmall, Medium & Large Dogs,\nControl Up to 3 Dogs\nBrand: Generic\n5.0 1\nV (4)\nSearch this page\n$9900 ($99.00\/count)\n00g\n3 IN 1\nClick to see full view\nOr $1798 \/mo (6 mo). Select from 1 plan\nvprime Tomorrow\nColour\nBlack\nMaterial\nNylon\nBrand\nGeneric\nClosure type\nHook & Loop\nBreed\nSmall, Medium, Large\nrecommendation\nIncluded\nAsk Rufus\nProduct Manual, Receiver Collar,\ny See more\nIs the collar rechargeable?\nCan it be used In the rain?\nDoes it come with a training guide?\nAsk something else\nAbout this item\nâ€¢ [3-In-1 Versatile Functionalityl: Combine remote\ndog training, auto bark control, and real-time dog\nstatue dienlau in a cinale nowerful evetam - norfart\nPa\nAd"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1b3018b1-d02d-437f-aa8b-317d8fdc362e
+  - boho-id:: 1B3018B1-D02D-437F-AA8B-317D8FDC362E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8ea9bc7b-2422-4c13-8d85-c1cb27e70240
+  - boho-id:: 8EA9BC7B-2422-4C13-8D85-C1CB27E70240
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:15Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T18:45:56Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^81f0778f-c10f-4da6-b325-4bc62634dcc7
+  - boho-id:: 81F0778F-C10F-4DA6-B325-4BC62634DCC7
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:04Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"subtitle":"Groceries coconut oil","text":"Groceries coconut oil"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^aa288130-927e-4a07-9e83-756cddf9a55f
+  - boho-id:: AA288130-927E-4A07-9E83-756CDDF9A55F
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T21:35:48Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3b358154-1af8-4d30-a72e-b4bf7b8c3532
+  - boho-id:: 3B358154-1AF8-4D30-A72E-B4BF7B8C3532
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: BF1F01A2-63BE-4350-AE43-2E2612899898
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:09Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:38:23Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^16c9fa6b-e388-4b38-aec4-1fb0e626fb6f
+  - boho-id:: 16C9FA6B-E388-4B38-AEC4-1FB0E626FB6F
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:32:20Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T18:46:02Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^76b7a652-e314-4804-92a3-8c1922757cd8
+  - boho-id:: 76B7A652-E314-4804-92A3-8C1922757CD8
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-status:: open
+  - {{/boho-entry}}  - boho-type:: priority
+  - boho-created:: 2026-01-12T22:10:52Z
+  - boho-status:: open
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T22:59:09Z
+  - boho-status:: open
+  - {{/boho-entry}}  - boho-date:: 2026-01-12
+  - boho-json:: {"subtitle":"T8000S - Amazon.ca\n\n3-in-1 Dog Training Bark Collar\nwith 3300ft Remote - Bark\nControl, Dog Status Display, FSK\nTech for Reliable Signal, IPX7\nWaterproof, Adjustable for\nSmall, Medium & Large Dogs,\nControl Up to 3 Dogs\nBrand: Generic\n5.0 1\nV (4)\nSearch this page\n$9900 ($99.00\/count)\n00g\n3 IN 1\nClick to see full view\nOr $1798 \/mo (6 mo). Select from 1 plan\nvprime Tomorrow\nColour\nBlack\nMaterial\nNylon\nBrand\nGeneric\nClosure type\nHook & Loop\nBreed\nSmall, Medium, Large\nrecommendation\nIncluded\nAsk Rufus\nProduct Manual, Receiver Collar,\ny See more\nIs the collar rechargeable?\nCan it be used In the rain?\nDoes it come with a training guide?\nAsk something else\nAbout this item\nâ€¢ [3-In-1 Versatile Functionalityl: Combine remote\ndog training, auto bark control, and real-time dog\nstatue dienlau in a cinale nowerful evetam - norfart\nPa\nAd","text":"Inbox"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^765abde3-359a-4c42-8f64-1743e669921a
+  - boho-id:: 765ABDE3-359A-4C42-8F64-1743E669921A
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}  - boho-type:: routine
+  - boho-created:: 2026-01-11T23:27:01Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T20:39:48Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^fd4eff5e-a3fc-4fd3-9ed1-9866e73ea89d
+  - boho-id:: FD4EFF5E-A3FC-4FD3-9ED1-9866E73EA89D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2fd903a1-4d05-4d66-ba8b-f1d4adb659cb
+  - boho-id:: 2FD903A1-4D05-4D66-BA8B-F1D4ADB659CB
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-created:: 2026-01-11T22:32:14Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T22:08:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2dd99d90-b9cd-45f3-8157-c75ff1376647
+  - boho-id:: 2DD99D90-B9CD-45F3-8157-C75FF1376647
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:53:16Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:40:59Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:37:01Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6c762faa-e346-40a4-bbf6-e36831c83600
+  - boho-id:: 6C762FAA-E346-40A4-BBF6-E36831C83600
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:24Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T22:16:14Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^08316500-cf2c-4188-b38c-4841159f980a
+  - boho-id:: 08316500-CF2C-4188-B38C-4841159F980A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:22Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^703b26bf-c4bc-460a-bea5-b4642d21ceda
+  - boho-id:: 703B26BF-C4BC-460A-BEA5-B4642D21CEDA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Mouthwash #BohoBuilder #Note ^bd2a176e-20b1-4591-9e95-91dc81f704f4
+  - boho-id:: BD2A176E-20B1-4591-9E95-91DC81F704F4
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"subtitle":"Mouthwash","text":"Mouthwash"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:24Z
+  - boho-json:: {"text":"Mouthwash","subtitle":"Mouthwash"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3ecda43d-c7a3-4fcf-89cc-1b9ea9546628
+  - boho-id:: 3ECDA43D-C7A3-4FCF-89CC-1B9EA9546628
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T13:36:48Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:01Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 10A026D5-AF2A-4F71-A2D6-E1EE77C36FC1
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:32:18Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5d889e25-0563-47ce-a7b9-6e5864b520fc
+  - boho-id:: 5D889E25-0563-47CE-A7B9-6E5864B520FC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:44:22Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^358c6ab2-81fe-482d-84c1-207adf5246da
+  - boho-id:: 358C6AB2-81FE-482D-84C1-207ADF5246DA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:09Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^21cfc73e-3d46-46f8-b956-47fc158539ff
+  - boho-id:: 21CFC73E-3D46-46F8-B956-47FC158539FF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:48Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:04Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^3f6f1611-c69c-49b6-a15b-17585a3beca4
+  - boho-id:: 3F6F1611-C69C-49B6-A15B-17585A3BECA4
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^49d2d09c-a7a3-455f-9f4c-43d906152c30
+  - boho-id:: 49D2D09C-A7A3-455F-9F4C-43D906152C30
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:53Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:56Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ddeccbe4-0579-4626-9c02-84848e4fc995
+  - boho-id:: DDECCBE4-0579-4626-9C02-84848E4FC995
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:51Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T22:59:06Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ebbad8d7-9e38-4a04-8402-45d01f64f26d
+  - boho-id:: EBBAD8D7-9E38-4A04-8402-45D01F64F26D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3fab8def-5183-4062-93ad-d1ec9e16a164
+  - boho-id:: 3FAB8DEF-5183-4062-93AD-D1EC9E16A164
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2dd3baa3-ed4e-4b93-81b0-5e3743a4fa9f
+  - boho-id:: 2DD3BAA3-ED4E-4B93-81B0-5E3743A4FA9F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^73e40c83-5ab1-4b60-be12-8e18bc993f03
+  - boho-id:: 73E40C83-5AB1-4B60-BE12-8E18BC993F03
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:53Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:19Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T22:59:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e191274c-6387-4928-ad95-8f2f63e17852
+  - boho-id:: E191274C-6387-4928-AD95-8F2F63E17852
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^dd2b2064-b4ba-4e49-911c-8e73b9248f4d
+  - boho-id:: DD2B2064-B4BA-4E49-911C-8E73B9248F4D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^30c64f3b-a353-4526-aa27-6f8cf2d12ba6
+  - boho-id:: 30C64F3B-A353-4526-AA27-6F8CF2D12BA6
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:17Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^0a132eef-5d76-4218-8f53-a2df04d81763
+  - boho-id:: 0A132EEF-5D76-4218-8F53-A2DF04D81763
+  - boho-type:: priority
+  - boho-created:: 2026-01-11T23:53:13Z
+  - boho-status:: done
+  - boho-json:: {"text":"Today's Priorities","items":["Reagan","Buda","Self"]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:36:57Z
+  - boho-status:: done
+  - boho-json:: {"text":"Today's Priorities","items":["Reagan","Buda","Self"]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^e9e18c15-f79b-4d93-8c47-fe0571e78cd1
+  - boho-id:: E9E18C15-F79B-4D93-8C47-FE0571E78CD1
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"subtitle":"Completed a 20 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}  - boho-id:: 38F03285-DDB8-4ED3-A06A-D7E68492199A
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:59:05Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e1ce2915-452f-4aff-8b3c-283cea9bf1cf
+  - boho-id:: E1CE2915-452F-4AFF-8B3C-283CEA9BF1CF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T22:08:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8f4ad7c4-ade0-4b16-a6c0-f9dc87f9aa14
+  - boho-id:: 8F4AD7C4-ADE0-4B16-A6C0-F9DC87F9AA14
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7bf385bf-9832-4532-bbb5-5e22864d61fa
+  - boho-id:: 7BF385BF-9832-4532-BBB5-5E22864D61FA
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:52Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T22:32:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f8d719d0-6a4f-4960-a1d8-790c4c3a3e72
+  - boho-id:: F8D719D0-6A4F-4960-A1D8-790C4C3A3E72
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0d4ffc7c-1511-4563-9950-639c3d38e6a3
+  - boho-id:: 0D4FFC7C-1511-4563-9950-639C3D38E6A3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^22c318a4-6170-4fa5-b0c7-9f3dab78123f
+  - boho-id:: 22C318A4-6170-4FA5-B0C7-9F3DAB78123F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"subtitle":"Thank you for your order!\nOrder #: 164244438 | Est. Delivery time: 50 - 60 min\nStatus\nText Updates: On\n0\nText Update. You'll receive a text message when your order\nis out for delivery!\nYour order has been sent to the dispensary.\nYour order is being prepared.\nYour order is on its way!\nYour order has arrived! Time to enjoy!\nFOGTOWN\n- flower shop -\nFogtown Midtown\n2152 Yonge St, Toronto, ON\nM4S 2A8, Canada\nÂ© Item\nBC OZ\nBC OZ - Chrome Cake -\nIndica\n28g\nORDER: 164244438\nQty: 1 $135.00\nSubtotal:\nSales Taxes:\nTip:\nORDER TOTAL:\n$135.00\n$17.55\n$3.00\n$155.55","text":"Fogtown Purchase"}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^d051ad26-8196-4950-9467-0c0400bf0a9e
+  - boho-id:: D051AD26-8196-4950-9467-0C0400BF0A9E
+  - boho-type:: note
+  - boho-created:: 2026-01-12T00:59:06Z
+  - boho-json:: {"text":"Inbox","subtitle":"Nespresso - Breville - serial number\n\nNESPRESSO.\n25260CV1h119192E0Ke\nSerial number | NÂ° de sÃ©rie | Serienummer |\nNumero di serie | NÃºmero de serie\nnespresso.com"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Walk Buddha","subtitle":"Walk Buddha"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1b3018b1-d02d-437f-aa8b-317d8fdc362e
+  - boho-id:: 1B3018B1-D02D-437F-AA8B-317D8FDC362E
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:13Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:40:56Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^468fa1ba-a8b6-43fa-984b-302eb9c020f1
+  - boho-id:: 468FA1BA-A8B6-43FA-984B-302EB9C020F1
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:08:39Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^531ac9fc-d264-48c5-a5a1-4b5e6333d684
+  - boho-id:: 531AC9FC-D264-48C5-A5A1-4B5E6333D684
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^87e2a66d-d09e-457f-abab-b6335769326c
+  - boho-id:: 87E2A66D-D09E-457F-ABAB-B6335769326C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0a7dfd78-8557-473e-8ef9-cd1a5a4eb6d5
+  - boho-id:: 0A7DFD78-8557-473E-8EF9-CD1A5A4EB6D5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8d04e20f-c61b-41d3-9b24-a5e6b4bff189
+  - boho-id:: 8D04E20F-C61B-41D3-9B24-A5E6B4BFF189
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:16:16Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^60fb668f-d69e-493c-bf01-969622c27592
+  - boho-id:: 60FB668F-D69E-493C-BF01-969622C27592
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5adf0916-3581-4d3d-b8a7-d9e8d22f4c6e
+  - boho-id:: 5ADF0916-3581-4D3D-B8A7-D9E8D22F4C6E
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:08:42Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^76b7a652-e314-4804-92a3-8c1922757cd8
+  - boho-id:: 76B7A652-E314-4804-92A3-8C1922757CD8
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T14:40:16Z
+  - boho-status:: open
+  - {{/boho-entry}}  - boho-type:: routine
+  - boho-created:: 2026-01-11T22:08:43Z
+  - boho-status:: open
+  - boho-date:: 2026-01-03
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^401ea2f4-72cb-48a5-9697-f3c882bc41b1
+  - boho-id:: 401EA2F4-72CB-48A5-9697-F3C882BC41B1
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-status:: open
+  - boho-json:: {"items":["10k steps","Watch Mr Mercedes "],"text":"Today's Priorities"}
+  - {{/boho-entry}}  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^61f88cbc-8c88-4952-8507-3b284c0a7194
+  - boho-id:: 61F88CBC-8C88-4952-8507-3B284C0A7194
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:49Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3a55e1ac-8cb0-4686-8a12-08edce693125
+  - boho-id:: 3A55E1AC-8CB0-4686-8A12-08EDCE693125
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:36:58Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f9df5c26-68f8-4c57-a857-83e2f9b2542f
+  - boho-id:: F9DF5C26-68F8-4C57-A857-83E2F9B2542F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 10B6235E-5E2D-45F1-A6B5-4EE572172261
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:14Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 615DE01A-2757-46C0-A3E9-44D51D74A078
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:56Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^982e7217-349a-4ca3-b3a6-981c6c11f91f
+  - boho-id:: 982E7217-349A-4CA3-B3A6-981C6C11F91F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:37:00Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^40d0035e-c139-4f99-87a4-c13e229a65d4
+  - boho-id:: 40D0035E-C139-4F99-87A4-C13E229A65D4
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:10Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f1679808-0899-4c07-b8ac-a05cd5bc9e30
+  - boho-id:: F1679808-0899-4C07-B8AC-A05CD5BC9E30
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:02Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-id:: B8F18A52-A1D9-4749-92E7-FAE8A6B975E1
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:37:01Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^246a5a89-6ddf-4426-9902-22bcf51343da
+  - boho-id:: 246A5A89-6DDF-4426-9902-22BCF51343DA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a7a6c633-2ecb-4f1e-aab3-54c1d29d3f97
+  - boho-id:: A7A6C633-2ECB-4F1E-AAB3-54C1D29D3F97
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Water 500 ml","time":"2026-01-10T21:28:39Z"},{"time":"2026-01-10T21:26:19Z","text":"Mum's Tomato Soup"},{"time":"2026-01-10T21:26:06Z","text":"Coffee w Honey - Starbucks"},{"text":"Sausage Egg and Savoury Oats - Fantastic Breakfast by Reagan!","time":"2026-01-10T21:25:46Z"},{"time":"2026-01-10T11:58:59Z","text":"Coffee black"},{"text":"Water 500 ml","time":"2026-01-10T11:58:46Z"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^6ddd782c-a758-4a9d-8b00-365e79f3de69
+  - boho-id:: 6DDD782C-A758-4A9D-8B00-365E79F3DE69
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-status:: open
+  - boho-date:: 2026-01-09
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-status:: open
+  - boho-date:: 2026-01-07
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^14bb36c8-5a3b-43a8-941c-e12dfd3942ee
+  - boho-id:: 14BB36C8-5A3B-43A8-941C-E12DFD3942EE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^362620a7-54dd-415b-9569-4d694d18421e
+  - boho-id:: 362620A7-54DD-415B-9569-4D694D18421E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:11Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T22:32:13Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c73b170d-812a-4670-bfcf-fb3c1ed5af81
+  - boho-id:: C73B170D-812A-4670-BFCF-FB3C1ED5AF81
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a6d50e9c-1c91-4366-98ee-f18629dff133
+  - boho-id:: A6D50E9C-1C91-4366-98EE-F18629DFF133
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 92294FCC-6B14-4A86-8A69-441DFDD9684A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:53:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c0ea6fc5-bba3-4c3c-b6f3-3ff9517f6156
+  - boho-id:: C0EA6FC5-BBA3-4C3C-B6F3-3FF9517F6156
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T22:59:08Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^16c9fa6b-e388-4b38-aec4-1fb0e626fb6f
+  - boho-id:: 16C9FA6B-E388-4B38-AEC4-1FB0E626FB6F
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:32:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^575750ff-50a3-49e6-bf3d-010792c50cab
+  - boho-id:: 575750FF-50A3-49E6-BF3D-010792C50CAB
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a5822d19-19ab-459c-885d-973edcea054d
+  - boho-id:: A5822D19-19AB-459C-885D-973EDCEA054D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:16Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4664c67c-543a-4841-90f9-f06880ef74d9
+  - boho-id:: 4664C67C-543A-4841-90F9-F06880EF74D9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^889a66c1-18c8-4e79-b5d4-4c08a7cc2284
+  - boho-id:: 889A66C1-18C8-4E79-B5D4-4C08A7CC2284
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:46:58Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^21cfc73e-3d46-46f8-b956-47fc158539ff
+  - boho-id:: 21CFC73E-3D46-46F8-B956-47FC158539FF
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:27:05Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Mouthwash #BohoBuilder #Note ^bd2a176e-20b1-4591-9e95-91dc81f704f4
+  - boho-id:: BD2A176E-20B1-4591-9E95-91DC81F704F4
+  - boho-type:: note
+  - boho-created:: 2026-01-12T00:47:02Z
+  - boho-json:: {"text":"Mouthwash","subtitle":"Mouthwash"}
+  - {{/boho-entry}}- {{boho-entry}} Outdoor walk with Buddha #BohoBuilder #Note ^0ca9ea20-66b0-469b-bb2c-a84a4d4ef2ae
+  - boho-id:: 0CA9EA20-66B0-469B-BB2C-A84A4D4EF2AE
+  - boho-type:: note
+  - boho-created:: 2026-01-12T00:38:29Z
+  - boho-json:: {"subtitle":"Outdoor walk with Buddha","text":"Outdoor walk with Buddha"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Grocery History #BohoBuilder #Note ^b4dd2f80-b5e8-48cb-a157-7ced3737eb15
+  - boho-id:: B4DD2F80-B5E8-48CB-A157-7CED3737EB15
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Grocery History","subtitle":"Purchased items"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Bug - Day Closer Component  #BohoBuilder #Note ^e5791c9b-047e-40af-ba25-6fbe74ebb97d
+  - boho-id:: E5791C9B-047E-40AF-BA25-6FBE74EBB97D
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Bug - Day Closer Component ","subtitle":"Top page title - sub header should include daily intentions, derived from early days entry \n\nReagan idea "}
+  - {{/boho-entry}}  - boho-json:: {"text":"Bug - Day Closer Component ","subtitle":"Top page title - sub header should include daily intentions, derived from early days entry \n\nReagan idea "}
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^40b9acf5-7aee-4d12-9828-cc5d02ccfdf3
+  - boho-id:: 40B9ACF5-7AEE-4D12-9828-CC5D02CCFDF3
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-status:: open
+  - boho-json:: {"items":["Teksavvy Router","Eat well","Drink water"],"text":"Today's Priorities"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^fc2f7374-a44d-4191-b157-dc99f699fbaf
+  - boho-id:: FC2F7374-A44D-4191-B157-DC99F699FBAF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d08f41a7-7545-4ef2-bc41-328282543746
+  - boho-id:: D08F41A7-7545-4EF2-BC41-328282543746
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:01Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0c8848b1-9765-4f12-ae73-8b9f438c36d6
+  - boho-id:: 0C8848B1-9765-4F12-AE73-8B9F438C36D6
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:27:02Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^40449439-ae64-4b79-bf87-09dc7c0db990
+  - boho-id:: 40449439-AE64-4B79-BF87-09DC7C0DB990
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:59:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e006de84-f83a-4751-978c-4ec585ee2fe4
+  - boho-id:: E006DE84-F83A-4751-978C-4EC585EE2FE4
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:14Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:57Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3bca03a0-4376-45cf-b7eb-1e450f097202
+  - boho-id:: 3BCA03A0-4376-45CF-B7EB-1E450F097202
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c50a595f-e0cc-404d-8e77-1ba1c4b2666e
+  - boho-id:: C50A595F-E0CC-404D-8E77-1BA1C4B2666E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^212781fd-8c9f-40d5-8f2a-2fa828affc71
+  - boho-id:: 212781FD-8C9F-40D5-8F2A-2FA828AFFC71
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8ce8c717-9b1f-40c4-ab55-4e858c4a72fe
+  - boho-id:: 8CE8C717-9B1F-40C4-AB55-4E858C4A72FE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: F1679808-0899-4C07-B8AC-A05CD5BC9E30
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:32:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^20c01287-d9d4-4d15-8ef6-d84f1c3da9c6
+  - boho-id:: 20C01287-D9D4-4D15-8EF6-D84F1C3DA9C6
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:16Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^91736841-5476-4b9f-aae0-2b09dad382ef
+  - boho-id:: 91736841-5476-4B9F-AAE0-2B09DAD382EF
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:32:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^36fccdac-69fb-4511-b05a-9ca1b28bf149
+  - boho-id:: 36FCCDAC-69FB-4511-B05A-9CA1B28BF149
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-created:: 2026-01-11T22:32:21Z
+  - boho-json:: {"text":"Personal","subtitle":"Breakfast "}
+  - {{/boho-entry}}
+- {{boho-entry}} Brunch #BohoBuilder #Note ^8753ffd3-4a17-4737-a6e0-20b2ef03bef7
+  - boho-id:: 8753FFD3-4A17-4737-A6E0-20B2EF03BEF7
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"subtitle":"Brunch with Reagan â¤ï¸âœŠðŸ˜ŽðŸ™ðŸ™ŒðŸ˜˜ðŸ”¥ðŸš€","text":"Brunch"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}- {{boho-entry}} Test Logseq #BohoBuilder #Note ^e1ee6ed4-dcb0-4e55-9f23-138a6830d603
+  - boho-id:: E1EE6ED4-DCB0-4E55-9F23-138A6830D603
+  - boho-type:: note
+  - boho-created:: 2026-01-11T23:44:32Z
+  - boho-json:: {"text":"Test Logseq","subtitle":"Test"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e26afdd3-c07b-45fc-add7-dfc8b3f18836
+  - boho-id:: E26AFDD3-C07B-45FC-ADD7-DFC8B3F18836
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 89EAEBFC-0D25-4622-A9CE-354BF4EC7CEF
+  - boho-type:: food
+  - boho-created:: 2026-01-11T22:59:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6b4080ff-3c95-4fa6-b25a-3f24a8720ef9
+  - boho-id:: 6B4080FF-3C95-4FA6-B25A-3F24A8720EF9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T13:36:53Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7caa511f-6bf7-4957-a25b-6ac69c0e2012
+  - boho-id:: 7CAA511F-6BF7-4957-A25B-6AC69C0E2012
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:20Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^71a6ba0e-df64-44a0-bd3a-b2f722cfa15a
+  - boho-id:: 71A6BA0E-DF64-44A0-BD3A-B2F722CFA15A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^85a7bf77-e180-49a1-8d25-c0d3d6a206e1
+  - boho-id:: 85A7BF77-E180-49A1-8D25-C0D3D6A206E1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T22:59:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^41b23ed4-13a1-4767-9af8-cb910011d118
+  - boho-id:: 41B23ED4-13A1-4767-9AF8-CB910011D118
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T22:59:09Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2e9d7a38-0e0d-4023-a735-b76bdd27beca
+  - boho-id:: 2E9D7A38-0E0D-4023-A735-B76BDD27BECA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Inbox #BohoBuilder #Note ^5a56daa6-f0c0-40f9-8d25-c050faba015e
+  - boho-id:: 5A56DAA6-F0C0-40F9-8D25-C050FABA015E
+  - boho-type:: note
+  - boho-created:: 2026-01-12T22:10:50Z
+  - boho-json:: {"text":"Inbox","subtitle":"test\n"}
+  - {{/boho-entry}}  - boho-json:: {"subtitle":"test\n","text":"Inbox"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:59:09Z
+  - boho-json:: {"text":"Inbox","subtitle":"test\n"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:53:13Z
+  - boho-json:: {"text":"Bedtime Buda Walk","subtitle":"Buda and I went out and came across our neighbour getting out of the elevator with her dog. Unfortunately I wasnâ€™t holding onto Budas leash and he reacted at dog barking. Luckily the woman had control of her dog. And I grabbed Buda. The door closed as she was saying jesus fuckâ€¦ We waited in the garbage chute room, until they had safely returned to their home. "}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Test #BohoBuilder #Note ^e09139d3-71e2-4112-937b-af3f2c736c89
+  - boho-id:: E09139D3-71E2-4112-937B-AF3F2C736C89
+  - boho-type:: note
+  - boho-created:: 2026-01-11T23:27:01Z
+  - boho-json:: {"text":"Test","subtitle":"Test"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^cd3164eb-329d-437e-a6df-f0c3561d3012
+  - boho-id:: CD3164EB-329D-437E-A6DF-F0C3561D3012
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4fb359c1-ee08-4cc6-b3a2-eb0314d791d4
+  - boho-id:: 4FB359C1-EE08-4CC6-B3A2-EB0314D791D4
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^75fd0e71-4ee3-4504-8407-1f821db20ecb
+  - boho-id:: 75FD0E71-4EE3-4504-8407-1F821DB20ECB
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:14Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^40449439-ae64-4b79-bf87-09dc7c0db990
+  - boho-id:: 40449439-AE64-4B79-BF87-09DC7C0DB990
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ebbad8d7-9e38-4a04-8402-45d01f64f26d
+  - boho-id:: EBBAD8D7-9E38-4A04-8402-45D01F64F26D
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c27311ac-cfb0-4c88-9fbb-215001847228
+  - boho-id:: C27311AC-CFB0-4C88-9FBB-215001847228
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:27:02Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b1e1319d-a31c-4225-b372-c5533c175253
+  - boho-id:: B1E1319D-A31C-4225-B372-C5533C175253
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5d889e25-0563-47ce-a7b9-6e5864b520fc
+  - boho-id:: 5D889E25-0563-47CE-A7B9-6E5864B520FC
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:15Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a82e89ff-198a-4a87-bb1e-7b77a02c7914
+  - boho-id:: A82E89FF-198A-4A87-BB1E-7B77A02C7914
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ab2e62a3-64fc-4b25-879c-03b01558b075
+  - boho-id:: AB2E62A3-64FC-4B25-879C-03B01558B075
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:22:44Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0a01775c-7cba-47c0-9443-f9725da466e1
+  - boho-id:: 0A01775C-7CBA-47C0-9443-F9725DA466E1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:09Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:27:03Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^497d358d-d528-4224-a761-4887b416c9df
+  - boho-id:: 497D358D-D528-4224-A761-4887B416C9DF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3d466ced-b44f-45ec-b44b-681c8c22abfe
+  - boho-id:: 3D466CED-B44F-45EC-B44B-681C8C22ABFE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:17Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^d4a9679c-ec63-4fca-ae3c-5c49076ea9b6
+  - boho-id:: D4A9679C-EC63-4FCA-AE3C-5C49076EA9B6
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-date:: 2026-01-09
+  - boho-json:: {"text":"Inbox","subtitle":"boho-builder-secret-key-2024\n\nAPI key: boho-builder-secret-key-2024\n\nDataboho.ca\n\n\nName (\"medi\nchitecture\nice migrati\nâ€¢ Mu Aneni\nSupreme Torren\nphp?o=marty-\noi http:\/foca\nTH ONASETEL 0080\nNew Tab\nBohoBuilder Dashboard\nG Google\ndataboho.ca\nbohobuilder\nSolaris v21 (Rich)\nToday's Sunlight\nFOCUS\nToday's Priorities\nBe kind and remember to remember that all is well...\nRHYTHM\nG\nDaily Tasks\nNOURISH\nPANTRY\nIndoor Run\nMindfulness Session\nInbox\nÐ²Ð¾Ñ€Ð¾Ð½Ñƒ Ð”Ð¾Ñ€Ð¾Ð´\n....\n.....\nInbox\nFood Log\nâ€¢ 07:34 PM"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Inbox","subtitle":"boho-builder-secret-key-2024\n\nAPI key: boho-builder-secret-key-2024\n\nDataboho.ca\n\n\nName (\"medi\nchitecture\nice migrati\nâ€¢ Mu Aneni\nSupreme Torren\nphp?o=marty-\noi http:\/foca\nTH ONASETEL 0080\nNew Tab\nBohoBuilder Dashboard\nG Google\ndataboho.ca\nbohobuilder\nSolaris v21 (Rich)\nToday's Sunlight\nFOCUS\nToday's Priorities\nBe kind and remember to remember that all is well...\nRHYTHM\nG\nDaily Tasks\nNOURISH\nPANTRY\nIndoor Run\nMindfulness Session\nInbox\nÐ²Ð¾Ñ€Ð¾Ð½Ñƒ Ð”Ð¾Ñ€Ð¾Ð´\n....\n.....\nInbox\nFood Log\nâ€¢ 07:34 PM"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:38:22Z
+  - boho-date:: 2026-01-09
+  - boho-json:: {"text":"Inbox","subtitle":"boho-builder-secret-key-2024\n\nAPI key: boho-builder-secret-key-2024\n\nDataboho.ca\n\n\nName (\"medi\nchitecture\nice migrati\nâ€¢ Mu Aneni\nSupreme Torren\nphp?o=marty-\noi http:\/foca\nTH ONASETEL 0080\nNew Tab\nBohoBuilder Dashboard\nG Google\ndataboho.ca\nbohobuilder\nSolaris v21 (Rich)\nToday's Sunlight\nFOCUS\nToday's Priorities\nBe kind and remember to remember that all is well...\nRHYTHM\nG\nDaily Tasks\nNOURISH\nPANTRY\nIndoor Run\nMindfulness Session\nInbox\nÐ²Ð¾Ñ€Ð¾Ð½Ñƒ Ð”Ð¾Ñ€Ð¾Ð´\n....\n.....\nInbox\nFood Log\nâ€¢ 07:34 PM"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Today's Priorities","items":["Regan","Buda","Work"]}
+  - {{/boho-entry}}
+- {{boho-entry}} Grocery List All #BohoBuilder #Note ^4dc47792-0f5e-4fcd-bb92-c78c94d91389
+  - boho-id:: 4DC47792-0F5E-4FCD-BB92-C78C94D91389
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"subtitle":"1 items","text":"Grocery List All"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^3f6f1611-c69c-49b6-a15b-17585a3beca4
+  - boho-id:: 3F6F1611-C69C-49B6-A15B-17585A3BECA4
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T00:47:01Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f084a366-37ec-456a-973a-e98e7692fa1d
+  - boho-id:: F084A366-37EC-456A-973A-E98E7692FA1D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:46:58Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:53:13Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:36:58Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6c762faa-e346-40a4-bbf6-e36831c83600
+  - boho-id:: 6C762FAA-E346-40A4-BBF6-E36831C83600
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:22Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:46:59Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e26afdd3-c07b-45fc-add7-dfc8b3f18836
+  - boho-id:: E26AFDD3-C07B-45FC-ADD7-DFC8B3F18836
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:11Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d0e6d42b-a245-4399-9ed1-74c7dcdf7e71
+  - boho-id:: D0E6D42B-A245-4399-9ED1-74C7DCDF7E71
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5f9db1b1-3b50-45c1-8498-c9c46cab5df5
+  - boho-id:: 5F9DB1B1-3B50-45C1-8498-C9C46CAB5DF5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:15Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^703b26bf-c4bc-460a-bea5-b4642d21ceda
+  - boho-id:: 703B26BF-C4BC-460A-BEA5-B4642D21CEDA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:09Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^89b52ac5-c49c-4991-a40c-c3a5e4373055
+  - boho-id:: 89B52AC5-C49C-4991-A40C-C3A5E4373055
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:10Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:47:03Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4b842333-0d82-4d5e-90ac-d1dc06f7b4f0
+  - boho-id:: 4B842333-0D82-4D5E-90AC-D1DC06F7B4F0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:22Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^85a7bf77-e180-49a1-8d25-c0d3d6a206e1
+  - boho-id:: 85A7BF77-E180-49A1-8D25-C0D3D6A206E1
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:16Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8e685436-50b2-4c41-aab9-0542a08c52df
+  - boho-id:: 8E685436-50B2-4C41-AAB9-0542A08C52DF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:37:02Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^5a56daa6-f0c0-40f9-8d25-c050faba015e
+  - boho-id:: 5A56DAA6-F0C0-40F9-8D25-C050FABA015E
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Inbox","subtitle":"test\n"}
+  - {{/boho-entry}}  - boho-type:: note
+  - boho-created:: 2026-01-11T23:40:50Z
+  - boho-json:: {"text":"Inbox","subtitle":"test\n"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b84b275a-d43a-44ac-86cf-ad0e3d26a034
+  - boho-id:: B84B275A-D43A-44AC-86CF-AD0E3D26A034
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:22:44Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: B3F3E8B8-0E57-4994-A424-F31EB6A3E09A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:23Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^00680824-ed11-41d0-a136-4aa7228e0ce9
+  - boho-id:: 00680824-ED11-41D0-A136-4AA7228E0CE9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:23Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4fb359c1-ee08-4cc6-b3a2-eb0314d791d4
+  - boho-id:: 4FB359C1-EE08-4CC6-B3A2-EB0314D791D4
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:18Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:40:51Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c5c4fcc9-b117-45a4-a77d-a5fc0878bc5c
+  - boho-id:: C5C4FCC9-B117-45A4-A77D-A5FC0878BC5C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:15Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e5d100ce-96c1-4e3d-81aa-d9663eae87f2
+  - boho-id:: E5D100CE-96C1-4E3D-81AA-D9663EAE87F2
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d6f31fe4-dd45-47a2-b5c0-854e43a7e021
+  - boho-id:: D6F31FE4-DD45-47A2-B5C0-854E43A7E021
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:47Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a82e89ff-198a-4a87-bb1e-7b77a02c7914
+  - boho-id:: A82E89FF-198A-4A87-BB1E-7B77A02C7914
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:27Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: C5E1C26F-4CEF-4AA8-9FB5-B0D160A3EDC0
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:52Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ab2e62a3-64fc-4b25-879c-03b01558b075
+  - boho-id:: AB2E62A3-64FC-4B25-879C-03B01558B075
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:23Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b8bab3dc-f9f6-48c4-84b6-57b7a3e18238
+  - boho-id:: B8BAB3DC-F9F6-48C4-84B6-57B7A3E18238
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:52Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8f4ad7c4-ade0-4b16-a6c0-f9dc87f9aa14
+  - boho-id:: 8F4AD7C4-ADE0-4B16-A6C0-F9DC87F9AA14
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e191274c-6387-4928-ad95-8f2f63e17852
+  - boho-id:: E191274C-6387-4928-AD95-8F2F63E17852
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^980f379e-1300-4f99-9fae-78df787f278f
+  - boho-id:: 980F379E-1300-4F99-9FAE-78DF787F278F
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:23Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2bd27e6e-cfb1-493f-b46e-9bae8a78355f
+  - boho-id:: 2BD27E6E-CFB1-493F-B46E-9BAE8A78355F
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:58Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^497d358d-d528-4224-a761-4887b416c9df
+  - boho-id:: 497D358D-D528-4224-A761-4887B416C9DF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:53:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^88e2b6bb-7a67-4f51-b332-046d9ba0da75
+  - boho-id:: 88E2B6BB-7A67-4F51-B332-046D9BA0DA75
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^36e38f07-8cae-4583-837d-f3bf7b1d7158
+  - boho-id:: 36E38F07-8CAE-4583-837D-F3BF7B1D7158
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d968e530-1ceb-4391-af29-41d53fbd3562
+  - boho-id:: D968E530-1CEB-4391-AF29-41D53FBD3562
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7f4b17ed-0902-4988-a610-0f1d1e34fb69
+  - boho-id:: 7F4B17ED-0902-4988-A610-0F1D1E34FB69
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:01Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3cc2bbed-2240-4c4c-8fb9-6f216b86ec72
+  - boho-id:: 3CC2BBED-2240-4C4C-8FB9-6F216B86EC72
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-status:: open
+  - {{/boho-entry}}  - boho-type:: routine
+  - boho-created:: 2026-01-11T23:40:54Z
+  - boho-status:: open
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ff503aeb-bd87-4038-a021-d4f63b39ce01
+  - boho-id:: FF503AEB-BD87-4038-A021-D4F63B39CE01
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-06T01:09:33Z"},{"text":"Chicken rice raw vegetables","time":"2026-01-06T01:08:58Z"},{"text":"Electrolytes Water 500 ml","time":"2026-01-05T20:39:33Z"},{"time":"2026-01-05T20:39:05Z","text":"Water 500ml"},{"text":"Water 500 ml","time":"2026-01-05T15:24:11Z"},{"time":"2026-01-05T15:23:59Z","text":"Black Coffee"},{"time":"2026-01-05T15:23:30Z","text":"Oatmeal Berries Apple and Ginger"},{"time":"2026-01-05T15:22:57Z","text":"Banana"}]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:20Z
+  - boho-json:: {"items":[{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-06T01:09:33Z"},{"time":"2026-01-06T01:08:58Z","text":"Chicken rice raw vegetables"},{"text":"Electrolytes Water 500 ml","time":"2026-01-05T20:39:33Z"},{"text":"Water 500ml","time":"2026-01-05T20:39:05Z"},{"time":"2026-01-05T15:24:11Z","text":"Water 500 ml"},{"text":"Black Coffee","time":"2026-01-05T15:23:59Z"},{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-05T15:23:30Z"},{"text":"Banana","time":"2026-01-05T15:22:57Z"}],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:23:07Z
+  - boho-json:: {"items":[{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-06T01:09:33Z"},{"text":"Chicken rice raw vegetables","time":"2026-01-06T01:08:58Z"},{"text":"Electrolytes Water 500 ml","time":"2026-01-05T20:39:33Z"},{"text":"Water 500ml","time":"2026-01-05T20:39:05Z"},{"text":"Water 500 ml","time":"2026-01-05T15:24:11Z"},{"text":"Black Coffee","time":"2026-01-05T15:23:59Z"},{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-05T15:23:30Z"},{"text":"Banana","time":"2026-01-05T15:22:57Z"}],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:05Z
+  - boho-json:: {"items":[{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-06T01:09:33Z"},{"text":"Chicken rice raw vegetables","time":"2026-01-06T01:08:58Z"},{"text":"Electrolytes Water 500 ml","time":"2026-01-05T20:39:33Z"},{"time":"2026-01-05T20:39:05Z","text":"Water 500ml"},{"time":"2026-01-05T15:24:11Z","text":"Water 500 ml"},{"time":"2026-01-05T15:23:59Z","text":"Black Coffee"},{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-05T15:23:30Z"},{"text":"Banana","time":"2026-01-05T15:22:57Z"}],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7f1c0dd9-8df7-47d9-b82a-1a1dbee4f55b
+  - boho-id:: 7F1C0DD9-8DF7-47D9-B82A-1A1DBEE4F55B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:02Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^eca555d5-27c2-47e3-a145-f2bdd25c944d
+  - boho-id:: ECA555D5-27C2-47E3-A145-F2BDD25C944D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:05Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b802ad33-f528-46e4-a3ad-cc8f957a2526
+  - boho-id:: B802AD33-F528-46E4-A3AD-CC8F957A2526
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:06Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^86c6101d-ff41-4560-a13a-556406ae2b4c
+  - boho-id:: 86C6101D-FF41-4560-A13A-556406AE2B4C
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:57Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^34e8738b-0239-4d6c-919b-51ea89effc69
+  - boho-id:: 34E8738B-0239-4D6C-919B-51EA89EFFC69
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bb21a812-ebff-4c7f-8b96-bfb3e93bce1a
+  - boho-id:: BB21A812-EBFF-4C7F-8B96-BFB3E93BCE1A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4d16d70e-d4d3-4df9-a3c9-17db350835b0
+  - boho-id:: 4D16D70E-D4D3-4DF9-A3C9-17DB350835B0
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:57Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c031754d-6702-49e8-8a5e-bfd944547a6b
+  - boho-id:: C031754D-6702-49E8-8A5E-BFD944547A6B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0108d160-715e-4809-a807-f2da285969a9
+  - boho-id:: 0108D160-715E-4809-A807-F2DA285969A9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 703B26BF-C4BC-460A-BEA5-B4642D21CEDA
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:40:58Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^16c9fa6b-e388-4b38-aec4-1fb0e626fb6f
+  - boho-id:: 16C9FA6B-E388-4B38-AEC4-1FB0E626FB6F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 358C6AB2-81FE-482D-84C1-207ADF5246DA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:50Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7bc5de63-b0aa-43f5-ba09-4698c8e68d71
+  - boho-id:: 7BC5DE63-B0AA-43F5-BA09-4698C8E68D71
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:23Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e90020e4-1e32-4440-837a-875c00c3ed46
+  - boho-id:: E90020E4-1E32-4440-837A-875C00C3ED46
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^543fd4c1-2894-46fc-bb1d-bf77890c33a5
+  - boho-id:: 543FD4C1-2894-46FC-BB1D-BF77890C33A5
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:16Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4c353b82-44ea-48d5-b533-89add8da7395
+  - boho-id:: 4C353B82-44EA-48D5-B533-89ADD8DA7395
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T13:36:55Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Water plants to do #BohoBuilder #Note ^a0bbeaac-773f-4fdf-bc8d-bb3c6573d4e0
+  - boho-id:: A0BBEAAC-773F-4FDF-BC8D-BB3C6573D4E0
+  - boho-type:: note
+  - boho-created:: 2026-01-12T13:36:49Z
+  - boho-json:: {"subtitle":"Water plants to do","text":"Water plants to do"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:59:05Z
+  - boho-json:: {"subtitle":"Water plants to do","text":"Water plants to do"}
+  - {{/boho-entry}}- {{boho-entry}} Inbox #BohoBuilder #Note ^dd8c0c26-da91-4628-b44c-6b1a65ff1432
+  - boho-id:: DD8C0C26-DA91-4628-B44C-6B1A65FF1432
+  - boho-type:: note
+  - boho-created:: 2026-01-12T00:47:00Z
+  - boho-json:: {"text":"Inbox","subtitle":"Happy New Year !!ðŸš€ðŸ¥³â¤ï¸ðŸ™âœŠâœ…"}
+  - {{/boho-entry}}  - boho-status:: open
+  - {{/boho-entry}}
+- {{boho-entry}} Indoor Run #BohoBuilder #Note ^1d305251-fda8-429a-99b4-f48fed9a4675
+  - boho-id:: 1D305251-FDA8-429A-99B4-F48FED9A4675
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"subtitle":"2 mins on treadmill","text":"Indoor Run"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^6ddd782c-a758-4a9d-8b00-365e79f3de69
+  - boho-id:: 6DDD782C-A758-4A9D-8B00-365E79F3DE69
+  - boho-type:: routine
+  - boho-created:: 2026-01-11T23:44:20Z
+  - boho-status:: open
+  - boho-date:: 2026-01-09
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4c02d6f0-7c70-4a1e-9ba5-6033287a5714
+  - boho-id:: 4C02D6F0-7C70-4A1E-9BA5-6033287A5714
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1b3018b1-d02d-437f-aa8b-317d8fdc362e
+  - boho-id:: 1B3018B1-D02D-437F-AA8B-317D8FDC362E
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7e748c09-8f39-4656-9145-0f9e6d6b150e
+  - boho-id:: 7E748C09-8F39-4656-9145-0F9E6D6B150E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:13Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^61f88cbc-8c88-4952-8507-3b284c0a7194
+  - boho-id:: 61F88CBC-8C88-4952-8507-3B284C0A7194
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:09Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ee0b2d66-9cda-4f59-bb72-c0660184feab
+  - boho-id:: EE0B2D66-9CDA-4F59-BB72-C0660184FEAB
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b9e9cbf3-18af-47c9-bbac-d2f99f62c04b
+  - boho-id:: B9E9CBF3-18AF-47C9-BBAC-D2F99F62C04B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4117f605-23d2-4d1d-b4ec-fa0cb7ac015f
+  - boho-id:: 4117F605-23D2-4D1D-B4EC-FA0CB7AC015F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:09Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7345eacc-87a1-4812-8c83-c41a9311e620
+  - boho-id:: 7345EACC-87A1-4812-8C83-C41A9311E620
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a6d50e9c-1c91-4366-98ee-f18629dff133
+  - boho-id:: A6D50E9C-1C91-4366-98EE-F18629DFF133
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:22Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^82ead0b4-0b6b-4ec1-bde5-87a835c5a9d4
+  - boho-id:: 82EAD0B4-0B6B-4EC1-BDE5-87A835C5A9D4
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:10Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:22:49Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2bd27e6e-cfb1-493f-b46e-9bae8a78355f
+  - boho-id:: 2BD27E6E-CFB1-493F-B46E-9BAE8A78355F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:11Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ce0c3010-8b98-48e9-bed9-c29d82027198
+  - boho-id:: CE0C3010-8B98-48E9-BED9-C29D82027198
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0590e9df-b8eb-4709-98a2-c2315fa0314d
+  - boho-id:: 0590E9DF-B8EB-4709-98A2-C2315FA0314D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:48Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 60FB668F-D69E-493C-BF01-969622C27592
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:21Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:44:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0535cbc9-9c5d-4b86-961d-87cd135583a1
+  - boho-id:: 0535CBC9-9C5D-4B86-961D-87CD135583A1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0d4ffc7c-1511-4563-9950-639c3d38e6a3
+  - boho-id:: 0D4FFC7C-1511-4563-9950-639C3D38E6A3
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:24Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d9d785bf-d8ed-49cc-aa08-c2c51ff9001f
+  - boho-id:: D9D785BF-D8ED-49CC-AA08-C2C51FF9001F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} 30 minute outdoor play with Buda #BohoBuilder #Note ^4b8cd422-34b0-4334-b1ea-7fbef4ba3de2
+  - boho-id:: 4B8CD422-34B0-4334-B1EA-7FBEF4BA3DE2
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-date:: 2026-01-02
+  - boho-json:: {"text":"30 minute outdoor play with Buda","subtitle":"Went to the park with buda for about half and hour for the third time today to throw frisby â€¦ he should be tired tonight ;) "}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:12Z
+  - boho-date:: 2026-01-02
+  - boho-json:: {"subtitle":"Went to the park with buda for about half and hour for the third time today to throw frisby â€¦ he should be tired tonight ;) ","text":"30 minute outdoor play with Buda"}
+  - {{/boho-entry}}- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^9e1ee89d-2867-49be-b5bb-a7011fe454d3
+  - boho-id:: 9E1EE89D-2867-49BE-B5BB-A7011FE454D3
+  - boho-type:: routine
+  - boho-created:: 2026-01-11T23:44:31Z
+  - boho-status:: open
+  - boho-date:: 2026-01-10
+  - {{/boho-entry}}
+- {{boho-entry}} Walk Buddha #BohoBuilder #Note ^3327c158-15d9-4a51-99ef-4576bcbc16ce
+  - boho-id:: 3327C158-15D9-4A51-99EF-4576BCBC16CE
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"subtitle":"Walk Buddha","text":"Walk Buddha"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T13:36:55Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-06T01:09:33Z"},{"text":"Chicken rice raw vegetables","time":"2026-01-06T01:08:58Z"},{"text":"Electrolytes Water 500 ml","time":"2026-01-05T20:39:33Z"},{"text":"Water 500ml","time":"2026-01-05T20:39:05Z"},{"text":"Water 500 ml","time":"2026-01-05T15:24:11Z"},{"time":"2026-01-05T15:23:59Z","text":"Black Coffee"},{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-05T15:23:30Z"},{"time":"2026-01-05T15:22:57Z","text":"Banana"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a366c3b5-c8ea-436d-bbb2-1263cbe3e3db
+  - boho-id:: A366C3B5-C8EA-436D-BBB2-1263CBE3E3DB
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:22Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ffaf474b-eba3-42e0-978b-60d815ddf30a
+  - boho-id:: FFAF474B-EBA3-42E0-978B-60D815DDF30A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:05Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^efccd22b-d428-4976-bf1c-03a190db04d7
+  - boho-id:: EFCCD22B-D428-4976-BF1C-03A190DB04D7
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:47Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:12Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^456b4729-bc67-412f-afcf-a0270e94e7c3
+  - boho-id:: 456B4729-BC67-412F-AFCF-A0270E94E7C3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c8a4a1bd-4eec-4561-b3f4-0f726b174a48
+  - boho-id:: C8A4A1BD-4EEC-4561-B3F4-0F726B174A48
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:25Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 23065B5B-A8F3-42CF-8974-7E3EEF1D2B67
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:51Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5f9db1b1-3b50-45c1-8498-c9c46cab5df5
+  - boho-id:: 5F9DB1B1-3B50-45C1-8498-C9C46CAB5DF5
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0108d160-715e-4809-a807-f2da285969a9
+  - boho-id:: 0108D160-715E-4809-A807-F2DA285969A9
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6212c6aa-084e-42ab-a2b9-a308790d366f
+  - boho-id:: 6212C6AA-084E-42AB-A2B9-A308790D366F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:10Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^358c6ab2-81fe-482d-84c1-207adf5246da
+  - boho-id:: 358C6AB2-81FE-482D-84C1-207ADF5246DA
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f1679808-0899-4c07-b8ac-a05cd5bc9e30
+  - boho-id:: F1679808-0899-4C07-B8AC-A05CD5BC9E30
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 8BC2ED1D-BD40-4101-BA7A-7466CFE2643C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:50Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^246a5a89-6ddf-4426-9902-22bcf51343da
+  - boho-id:: 246A5A89-6DDF-4426-9902-22BCF51343DA
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a2fb4340-1b18-49ba-a3d5-c126bcb3bea2
+  - boho-id:: A2FB4340-1B18-49BA-A3D5-C126BCB3BEA2
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-11T23:44:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Water plants to do #BohoBuilder #Note ^a0bbeaac-773f-4fdf-bc8d-bb3c6573d4e0
+  - boho-id:: A0BBEAAC-773F-4FDF-BC8D-BB3C6573D4E0
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"subtitle":"Water plants to do","text":"Water plants to do"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:44:36Z
+  - boho-json:: {"text":"Water plants to do","subtitle":"Water plants to do"}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^071a8212-b96b-47cb-9756-92e9db48fb5b
+  - boho-id:: 071A8212-B96B-47CB-9756-92E9DB48FB5B
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"subtitle":"Brunch with Reagan ðŸ™â¤ï¸âœŠðŸ”¥ðŸš€","text":"Inbox"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:53:13Z
+  - boho-json:: {"text":"Indoor Run","subtitle":"2 mins on treadmill"}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^a470faa4-9993-4446-bf8b-0142a24d33a4
+  - boho-id:: A470FAA4-9993-4446-BF8B-0142A24D33A4
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"subtitle":"#Todo\nOpen RPMS ticket for sink leak","text":"Inbox"}
+  - {{/boho-entry}}  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e9bec46d-eb86-4681-bd85-ea46babac5e9
+  - boho-id:: E9BEC46D-EB86-4681-BD85-EA46BABAC5E9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:50Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^fc2f7374-a44d-4191-b157-dc99f699fbaf
+  - boho-id:: FC2F7374-A44D-4191-B157-DC99F699FBAF
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:13Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^57a86834-6aed-4e8d-ba4f-2660005e8949
+  - boho-id:: 57A86834-6AED-4E8D-BA4F-2660005E8949
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:51Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 707CE873-8367-43E2-BD4B-0AA5071736B4
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:13Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bcac45a0-d0c5-4aa5-8c77-7439c7da0ef8
+  - boho-id:: BCAC45A0-D0C5-4AA5-8C77-7439C7DA0EF8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b8d7fd37-c99e-423a-a97e-caf3a4293ff0
+  - boho-id:: B8D7FD37-C99E-423A-A97E-CAF3A4293FF0
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:14Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d08f41a7-7545-4ef2-bc41-328282543746
+  - boho-id:: D08F41A7-7545-4EF2-BC41-328282543746
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: B9E9CBF3-18AF-47C9-BBAC-D2F99F62C04B
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:14Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^30ded280-d617-4310-81a6-9ccb4c99d207
+  - boho-id:: 30DED280-D617-4310-81A6-9CCB4C99D207
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 346F4E18-B856-4583-9655-31101594E25B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:14Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1d2e341d-0f95-4687-97b6-53bbcfd0614b
+  - boho-id:: 1D2E341D-0F95-4687-97B6-53BBCFD0614B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:08Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^14145f66-1a70-402f-8f88-141e847a4471
+  - boho-id:: 14145F66-1A70-402F-8F88-141E847A4471
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:13Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8fd50c3a-1833-4adc-baec-df72b9af1cfe
+  - boho-id:: 8FD50C3A-1833-4ADC-BAEC-DF72B9AF1CFE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7345eacc-87a1-4812-8c83-c41a9311e620
+  - boho-id:: 7345EACC-87A1-4812-8C83-C41A9311E620
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f4f5c9a0-6c8e-4353-bb0d-a623d7be8f11
+  - boho-id:: F4F5C9A0-6C8E-4353-BB0D-A623D7BE8F11
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^905c8349-e573-4d8d-b8cf-6606f9e63942
+  - boho-id:: 905C8349-E573-4D8D-B8CF-6606F9E63942
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 824C8EB6-77DD-4892-8F75-5D1776B051A4
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:25Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^192fa483-e157-4fdc-9c83-c7ec84d16fd8
+  - boho-id:: 192FA483-E157-4FDC-9C83-C7EC84D16FD8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:17Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 2BD27E6E-CFB1-493F-B46E-9BAE8A78355F
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7b7cdc7b-a367-45c9-a379-eb1674996659
+  - boho-id:: 7B7CDC7B-A367-45C9-A379-EB1674996659
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:53:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8c94dcc0-74fd-428a-a422-c964f8e6bab0
+  - boho-id:: 8C94DCC0-74FD-428A-A422-C964F8E6BAB0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: E568B8E9-AFBC-4DA2-BF66-E169B02E4D1C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^60fb668f-d69e-493c-bf01-969622c27592
+  - boho-id:: 60FB668F-D69E-493C-BF01-969622C27592
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:55Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0535cbc9-9c5d-4b86-961d-87cd135583a1
+  - boho-id:: 0535CBC9-9C5D-4B86-961D-87CD135583A1
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:16Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2dd3baa3-ed4e-4b93-81b0-5e3743a4fa9f
+  - boho-id:: 2DD3BAA3-ED4E-4B93-81B0-5E3743A4FA9F
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:16Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^c2694611-0c5f-435a-a2b4-b634640a78b1
+  - boho-id:: C2694611-0C5F-435A-A2B4-B634640A78B1
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Inbox","subtitle":"Impact Kitchen Mexican Bowl\nGF #FoodLog"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Inbox","subtitle":"Impact Kitchen Mexican Bowl\nGF #FoodLog"}
+  - {{/boho-entry}}  - boho-json:: {"subtitle":"Frisbee at the park","text":"Walk Buda"}
+  - {{/boho-entry}}
+- {{boho-entry}} Drive Reagan to union #BohoBuilder #Note ^38e03614-0f9d-4c79-b761-c8a10bbab297
+  - boho-id:: 38E03614-0F9D-4C79-B761-C8A10BBAB297
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-date:: 2026-01-01
+  - boho-json:: {"subtitle":"Drive Reagan to union at 9:30 AM","text":"Drive Reagan to union"}
+  - {{/boho-entry}}  - boho-id:: E6B7BC5C-E5FD-4EDE-9DEB-9BB9CF8A7539
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Edamame Salad","time":"2026-01-09T00:06:01Z"},{"text":"Congi","time":"2026-01-09T00:05:43Z"},{"time":"2026-01-09T00:05:32Z","text":"Chicken rice broccoli carrots snow peas"}]}
+  - {{/boho-entry}}  - boho-id:: 3A7DFBE3-ADD1-469A-8797-97124066AF68
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T00:38:25Z
+  - boho-status:: open
+  - boho-date:: 2026-01-07
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^920976d6-5918-4b96-976f-32ac1b789adc
+  - boho-id:: 920976D6-5918-4B96-976F-32AC1B789ADC
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f084a366-37ec-456a-973a-e98e7692fa1d
+  - boho-id:: F084A366-37EC-456A-973A-E98E7692FA1D
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:18Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^cd3164eb-329d-437e-a6df-f0c3561d3012
+  - boho-id:: CD3164EB-329D-437E-A6DF-F0C3561D3012
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:18Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^9147434e-4b3c-4e59-bc81-f7337ba04080
+  - boho-id:: 9147434E-4B3C-4E59-BC81-F7337BA04080
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^746d792c-32b0-4c9c-b5c8-eb4e1369ac13
+  - boho-id:: 746D792C-32B0-4C9C-B5C8-EB4E1369AC13
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:24Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7317ca40-fcd5-4fa6-9868-d5c5c09a3f3b
+  - boho-id:: 7317CA40-FCD5-4FA6-9868-D5C5C09A3F3B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:23Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0c8848b1-9765-4f12-ae73-8b9f438c36d6
+  - boho-id:: 0C8848B1-9765-4F12-AE73-8B9F438C36D6
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:25Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^516a844d-61a9-46e6-a709-a4a0a4c9cf9d
+  - boho-id:: 516A844D-61A9-46E6-A709-A4A0A4C9CF9D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3f460b6e-8ecf-43eb-842d-368d3cd539a7
+  - boho-id:: 3F460B6E-8ECF-43EB-842D-368D3CD539A7
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^080a7735-a0ff-4ba2-bdfa-e191198630a5
+  - boho-id:: 080A7735-A0FF-4BA2-BDFA-E191198630A5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:46:57Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7fb17d51-4fb3-4141-9c12-cee6ffcc006e
+  - boho-id:: 7FB17D51-4FB3-4141-9C12-CEE6FFCC006E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:46:56Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bec42714-6c94-4c21-ad2a-ec1235370a90
+  - boho-id:: BEC42714-6C94-4C21-AD2A-EC1235370A90
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:38:26Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0a7dfd78-8557-473e-8ef9-cd1a5a4eb6d5
+  - boho-id:: 0A7DFD78-8557-473E-8EF9-CD1A5A4EB6D5
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:19Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^543a69a0-1c4f-470e-bafe-8db9ed59e367
+  - boho-id:: 543A69A0-1C4F-470E-BAFE-8DB9ED59E367
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^92e4c32b-94c0-434f-891a-5d8f0ccdd634
+  - boho-id:: 92E4C32B-94C0-434F-891A-5D8F0CCDD634
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-11T23:53:20Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0537462d-3afe-46c7-82fd-a0876ba04615
+  - boho-id:: 0537462D-3AFE-46C7-82FD-A0876BA04615
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:25Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7e215519-954d-49e3-971a-be73105b7238
+  - boho-id:: 7E215519-954D-49E3-971A-BE73105B7238
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a5c1b5d5-97bc-497d-9346-c0917d713d88
+  - boho-id:: A5C1B5D5-97BC-497D-9346-C0917D713D88
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:38:25Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^df515edd-85bb-4e55-a778-9557b11e8c77
+  - boho-id:: DF515EDD-85BB-4E55-A778-9557B11E8C77
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:21Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^dd2b2064-b4ba-4e49-911c-8e73b9248f4d
+  - boho-id:: DD2B2064-B4BA-4E49-911C-8E73B9248F4D
+  - boho-type:: food
+  - boho-created:: 2026-01-11T23:53:21Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^44be2742-302e-4525-b71d-89efa18df258
+  - boho-id:: 44BE2742-302E-4525-B71D-89EFA18DF258
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 5ABD51B3-9238-43D5-9555-F9D96D32F5C5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:29Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f3c38e78-3d93-4aa0-95d6-5b48cd5a31dc
+  - boho-id:: F3C38E78-3D93-4AA0-95D6-5B48CD5A31DC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 446F35AB-0CDB-4906-9DDD-136E86AC2F0A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:49Z
+  - boho-json:: {"items":[{"time":"2026-01-04T22:40:46Z","text":"celery"},{"text":"vitamins one taken","time":"2026-01-04T19:44:21Z"},{"time":"2026-01-04T17:30:33Z","text":"coffee"},{"time":"2026-01-04T17:28:57Z","text":"loop green drink"},{"text":"Congi","time":"2026-01-04T17:09:53Z"},{"time":"2026-01-04T16:27:00Z","text":"carrots green peas"},{"text":"banana","time":"2026-01-04T14:21:06Z"}],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d1944638-9e67-465a-b2b9-687c3ce3cf34
+  - boho-id:: D1944638-9E67-465A-B2B9-687C3CE3CF34
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:24Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f4a2b1eb-13ea-4b35-87cf-8a57b959ff9e
+  - boho-id:: F4A2B1EB-13EA-4B35-87CF-8A57B959FF9E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Inbox #BohoBuilder #Note ^5eda5d5f-4921-4f56-8a25-6473d21ce0aa
+  - boho-id:: 5EDA5D5F-4921-4F56-8A25-6473D21CE0AA
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Inbox","subtitle":"Paula made me a hat and itâ€™s great"}
+  - {{/boho-entry}}- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^12c99242-7f22-471e-bbe4-6de8f809a95f
+  - boho-id:: 12C99242-7F22-471E-BBE4-6DE8F809A95F
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-status:: done
+  - boho-json:: {"items":["Mum visit","Reagan","Buda"],"text":"Today's Priorities"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3c741de4-c801-4dfb-b823-249862d349d0
+  - boho-id:: 3C741DE4-C801-4DFB-B823-249862D349D0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:05Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^824c8eb6-77dd-4892-8f75-5d1776b051a4
+  - boho-id:: 824C8EB6-77DD-4892-8F75-5D1776B051A4
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:46:57Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^53519f07-5eb4-49d2-b972-748d722e27b7
+  - boho-id:: 53519F07-5EB4-49D2-B972-748D722E27B7
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-status:: done
+  - boho-json:: {"text":"Today's Priorities","items":["Regan","Buda","Work"]}
+  - {{/boho-entry}}- {{boho-entry}} Yoga #BohoBuilder #Note ^f3543d3c-1430-4ce2-8db9-7c30e50a3dc8
+  - boho-id:: F3543D3C-1430-4CE2-8DB9-7C30E50A3DC8
+  - boho-type:: note
+  - boho-created:: 2026-01-12T00:46:57Z
+  - boho-json:: {"text":"Yoga","subtitle":"Mathew Rosenberg 10 min"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^47a97e9f-3439-45d6-b952-0971b40245ab
+  - boho-id:: 47A97E9F-3439-45D6-B952-0971B40245AB
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d1d77efa-14d9-40ea-af5f-006953c31738
+  - boho-id:: D1D77EFA-14D9-40EA-AF5F-006953C31738
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: note
+  - boho-created:: 2026-01-12T00:38:26Z
+  - boho-json:: {"subtitle":"Brunch with Reagan ðŸ™â¤ï¸âœŠðŸ”¥ðŸš€","text":"Inbox"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^999d91b8-d881-402b-8220-1667dda0462d
+  - boho-id:: 999D91B8-D881-402B-8220-1667DDA0462D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^dbe33023-a45a-4988-89ae-e5d5755a538c
+  - boho-id:: DBE33023-A45A-4988-89AE-E5D5755A538C
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T00:38:27Z
+  - boho-status:: open
+  - boho-date:: 2026-01-02
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7fd8f3cb-9e68-4bbc-a56f-52d6e19a412e
+  - boho-id:: 7FD8F3CB-9E68-4BBC-A56F-52D6E19A412E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:47Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^69660162-7ce1-4eca-addb-4956a4454803
+  - boho-id:: 69660162-7CE1-4ECA-ADDB-4956A4454803
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: E553CC58-46EA-4827-AA91-143EC4D576D0
+  - boho-type:: note
+  - boho-created:: 2026-01-12T00:47:03Z
+  - boho-json:: {"text":"Test Logseq 2 - Food Log","subtitle":"#FoodLog"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^dd469d44-13de-4807-afe7-bf051e916b27
+  - boho-id:: DD469D44-13DE-4807-AFE7-BF051E916B27
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^98594ca9-538e-4b7e-a85e-db508cc3768e
+  - boho-id:: 98594CA9-538E-4B7E-A85E-DB508CC3768E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:46:59Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5f0256c2-1295-4a28-b42f-87d8645564a0
+  - boho-id:: 5F0256C2-1295-4A28-B42F-87D8645564A0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:00Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ebf9317b-3ec4-4c13-a286-bb8a07bfd0a3
+  - boho-id:: EBF9317B-3EC4-4C13-A286-BB8A07BFD0A3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c031754d-6702-49e8-8a5e-bfd944547a6b
+  - boho-id:: C031754D-6702-49E8-8A5E-BFD944547A6B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:00Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7b7cdc7b-a367-45c9-a379-eb1674996659
+  - boho-id:: 7B7CDC7B-A367-45C9-A379-EB1674996659
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:08Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^982e7217-349a-4ca3-b3a6-981c6c11f91f
+  - boho-id:: 982E7217-349A-4CA3-B3A6-981C6C11F91F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^91736841-5476-4b9f-aae0-2b09dad382ef
+  - boho-id:: 91736841-5476-4B9F-AAE0-2B09DAD382EF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:04Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^17d278f1-dc72-4cb6-84dd-de6db68a1aef
+  - boho-id:: 17D278F1-DC72-4CB6-84DD-DE6DB68A1AEF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:05Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^14bb36c8-5a3b-43a8-941c-e12dfd3942ee
+  - boho-id:: 14BB36C8-5A3B-43A8-941C-E12DFD3942EE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:46:57Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bcb12a8d-011a-416e-838b-3eeb6666c2ea
+  - boho-id:: BCB12A8D-011A-416E-838B-3EEB6666C2EA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Test Logseq #BohoBuilder #Note ^e1ee6ed4-dcb0-4e55-9f23-138a6830d603
+  - boho-id:: E1EE6ED4-DCB0-4E55-9F23-138A6830D603
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Test Logseq","subtitle":"Test"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Inbox","subtitle":"boho-builder-secret-key-2024\n\nAPI key: boho-builder-secret-key-2024\n\nDataboho.ca\n\n\nName (\"medi\nchitecture\nice migrati\nâ€¢ Mu Aneni\nSupreme Torren\nphp?o=marty-\noi http:\/foca\nTH ONASETEL 0080\nNew Tab\nBohoBuilder Dashboard\nG Google\ndataboho.ca\nbohobuilder\nSolaris v21 (Rich)\nToday's Sunlight\nFOCUS\nToday's Priorities\nBe kind and remember to remember that all is well...\nRHYTHM\nG\nDaily Tasks\nNOURISH\nPANTRY\nIndoor Run\nMindfulness Session\nInbox\nÐ²Ð¾Ñ€Ð¾Ð½Ñƒ Ð”Ð¾Ñ€Ð¾Ð´\n....\n.....\nInbox\nFood Log\nâ€¢ 07:34 PM"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3c377be3-89c9-475a-b01b-b0088c068b12
+  - boho-id:: 3C377BE3-89C9-475A-B01B-B0088C068B12
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b8bab3dc-f9f6-48c4-84b6-57b7a3e18238
+  - boho-id:: B8BAB3DC-F9F6-48C4-84B6-57B7A3E18238
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0c74695d-6f8e-4f35-81fe-566f65e32512
+  - boho-id:: 0C74695D-6F8E-4F35-81FE-566F65E32512
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2750461e-6077-41c4-a012-05e555f1f80f
+  - boho-id:: 2750461E-6077-41C4-A012-05E555F1F80F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c0ea6fc5-bba3-4c3c-b6f3-3ff9517f6156
+  - boho-id:: C0EA6FC5-BBA3-4C3C-B6F3-3FF9517F6156
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^eacba8e1-175c-4412-9f97-a4b0235a637d
+  - boho-id:: EACBA8E1-175C-4412-9F97-A4B0235A637D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:01Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^746d792c-32b0-4c9c-b5c8-eb4e1369ac13
+  - boho-id:: 746D792C-32B0-4C9C-B5C8-EB4E1369AC13
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:11Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0c8848b1-9765-4f12-ae73-8b9f438c36d6
+  - boho-id:: 0C8848B1-9765-4F12-AE73-8B9F438C36D6
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:50Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a82e89ff-198a-4a87-bb1e-7b77a02c7914
+  - boho-id:: A82E89FF-198A-4A87-BB1E-7B77A02C7914
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:48Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d6b123e9-e3aa-45e2-a28c-b8f0e4fc883c
+  - boho-id:: D6B123E9-E3AA-45E2-A28C-B8F0E4FC883C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:48Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Outdoor walk with Buddha #BohoBuilder #Note ^0ca9ea20-66b0-469b-bb2c-a84a4d4ef2ae
+  - boho-id:: 0CA9EA20-66B0-469B-BB2C-A84A4D4EF2AE
+  - boho-type:: note
+  - boho-created:: 2026-01-12T00:59:05Z
+  - boho-json:: {"subtitle":"Outdoor walk with Buddha","text":"Outdoor walk with Buddha"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^3a7dfbe3-add1-469a-8797-97124066af68
+  - boho-id:: 3A7DFBE3-ADD1-469A-8797-97124066AF68
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-status:: open
+  - boho-date:: 2026-01-07
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a7a6c633-2ecb-4f1e-aab3-54c1d29d3f97
+  - boho-id:: A7A6C633-2ECB-4F1E-AAB3-54C1D29D3F97
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:47:03Z
+  - boho-json:: {"text":"Food Log","items":[{"time":"2026-01-10T21:28:39Z","text":"Water 500 ml"},{"text":"Mum's Tomato Soup","time":"2026-01-10T21:26:19Z"},{"text":"Coffee w Honey - Starbucks","time":"2026-01-10T21:26:06Z"},{"time":"2026-01-10T21:25:46Z","text":"Sausage Egg and Savoury Oats - Fantastic Breakfast by Reagan!"},{"text":"Coffee black","time":"2026-01-10T11:58:59Z"},{"text":"Water 500 ml","time":"2026-01-10T11:58:46Z"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^04da7d2b-10a5-4769-aa06-e820dd0024d5
+  - boho-id:: 04DA7D2B-10A5-4769-AA06-E820DD0024D5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^be47e328-c286-4341-b760-a6e9800654f2
+  - boho-id:: BE47E328-C286-4341-B760-A6E9800654F2
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bec42714-6c94-4c21-ad2a-ec1235370a90
+  - boho-id:: BEC42714-6C94-4C21-AD2A-EC1235370A90
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:49Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b98380c4-313b-4769-833d-bfb5afaea7e3
+  - boho-id:: B98380C4-313B-4769-833D-BFB5AFAEA7E3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:50Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^aed6d723-cf47-4529-b271-d27e8dc9f9e3
+  - boho-id:: AED6D723-CF47-4529-B271-D27E8DC9F9E3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:03Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^00680824-ed11-41d0-a136-4aa7228e0ce9
+  - boho-id:: 00680824-ED11-41D0-A136-4AA7228E0CE9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^229083e4-6745-4411-912a-60165998c81e
+  - boho-id:: 229083E4-6745-4411-912A-60165998C81E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:10Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a5c1b5d5-97bc-497d-9346-c0917d713d88
+  - boho-id:: A5C1B5D5-97BC-497D-9346-C0917D713D88
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:02Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4b842333-0d82-4d5e-90ac-d1dc06f7b4f0
+  - boho-id:: 4B842333-0D82-4D5E-90AC-D1DC06F7B4F0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7e215519-954d-49e3-971a-be73105b7238
+  - boho-id:: 7E215519-954D-49E3-971A-BE73105B7238
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:22:49Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^4a2ed0a6-d751-4f45-b16b-8917bb7f489a
+  - boho-id:: 4A2ED0A6-D751-4F45-B16B-8917BB7F489A
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T03:22:44Z
+  - boho-status:: open
+  - boho-date:: 2026-01-03
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3843c270-aea4-4c19-ad24-454c9f500395
+  - boho-id:: 3843C270-AEA4-4C19-AD24-454C9F500395
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:08Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^76b7a652-e314-4804-92a3-8c1922757cd8
+  - boho-id:: 76B7A652-E314-4804-92A3-8C1922757CD8
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T00:47:06Z
+  - boho-status:: open
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^8dc83cde-946c-44ed-9101-8f1b28d44999
+  - boho-id:: 8DC83CDE-946C-44ED-9101-8F1B28D44999
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Inbox","subtitle":"Walking #Buda"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b1d12b5e-44be-47eb-9223-b57a9b0bc028
+  - boho-id:: B1D12B5E-44BE-47EB-9223-B57A9B0BC028
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^516d3f49-d63c-4e79-8229-80e5e049ff7c
+  - boho-id:: 516D3F49-D63C-4E79-8229-80E5E049FF7C
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-status:: open
+  - boho-json:: {"text":"Today's Priorities","items":["Reagan","Buda","Work"]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Bug - Day Closer Component ","subtitle":"Top page title - sub header should include daily intentions, derived from early days entry \n\nReagan idea "}
+  - {{/boho-entry}}
+- {{boho-entry}} databoho.ca #BohoBuilder #Note ^7d27e4fe-0f20-4132-8603-3d9d90614391
+  - boho-id:: 7D27E4FE-0F20-4132-8603-3D9D90614391
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"subtitle":"API KEY:: boho-builder-secret-key-2024\n\n","text":"databoho.ca"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3ecda43d-c7a3-4fcf-89cc-1b9ea9546628
+  - boho-id:: 3ECDA43D-C7A3-4FCF-89CC-1B9EA9546628
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:03Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7fb17d51-4fb3-4141-9c12-cee6ffcc006e
+  - boho-id:: 7FB17D51-4FB3-4141-9C12-CEE6FFCC006E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^080a7735-a0ff-4ba2-bdfa-e191198630a5
+  - boho-id:: 080A7735-A0FF-4BA2-BDFA-E191198630A5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3c741de4-c801-4dfb-b823-249862d349d0
+  - boho-id:: 3C741DE4-C801-4DFB-B823-249862D349D0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:52Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^9e21974e-c704-4613-b760-3decccdae38d
+  - boho-id:: 9E21974E-C704-4613-B760-3DECCCDAE38D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3030d762-eb50-4ef0-86a6-9fcd7516fdc2
+  - boho-id:: 3030D762-EB50-4EF0-86A6-9FCD7516FDC2
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^71a6ba0e-df64-44a0-bd3a-b2f722cfa15a
+  - boho-id:: 71A6BA0E-DF64-44A0-BD3A-B2F722CFA15A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:55Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Test Logseq 2 - Food Log #BohoBuilder #Note ^e553cc58-46ea-4827-aa91-143ec4d576d0
+  - boho-id:: E553CC58-46EA-4827-AA91-143EC4D576D0
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"subtitle":"#FoodLog","text":"Test Logseq 2 - Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^21b37f28-46fd-4854-bb6f-99b4561fbcdf
+  - boho-id:: 21B37F28-46FD-4854-BB6F-99B4561FBCDF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^fa40f88c-1ede-4e94-9de6-5b8df0622dec
+  - boho-id:: FA40F88C-1EDE-4E94-9DE6-5B8DF0622DEC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^89b52ac5-c49c-4991-a40c-c3a5e4373055
+  - boho-id:: 89B52AC5-C49C-4991-A40C-C3A5E4373055
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:58Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^920976d6-5918-4b96-976f-32ac1b789adc
+  - boho-id:: 920976D6-5918-4B96-976F-32AC1B789ADC
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T00:59:06Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2b374d61-376e-432f-8eb6-1a23bffffc24
+  - boho-id:: 2B374D61-376E-432F-8EB6-1A23BFFFFC24
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^751a9276-5f97-4082-aade-c28c53d9bc2e
+  - boho-id:: 751A9276-5F97-4082-AADE-C28C53D9BC2E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:07Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6564f8ca-fec6-42c8-a90e-6ca88c19ee65
+  - boho-id:: 6564F8CA-FEC6-42C8-A90E-6CA88C19EE65
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Inbox","subtitle":"Paula made me a hat and itâ€™s great"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ebf9317b-3ec4-4c13-a286-bb8a07bfd0a3
+  - boho-id:: EBF9317B-3EC4-4C13-A286-BB8A07BFD0A3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:58Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^36e38f07-8cae-4583-837d-f3bf7b1d7158
+  - boho-id:: 36E38F07-8CAE-4583-837D-F3BF7B1D7158
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:23:01Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^34e8738b-0239-4d6c-919b-51ea89effc69
+  - boho-id:: 34E8738B-0239-4D6C-919B-51EA89EFFC69
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^6da6506d-2f5a-4001-ae78-b7a3220df483
+  - boho-id:: 6DA6506D-2F5A-4001-AE78-B7A3220DF483
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"subtitle":"Completed a 20 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^98594ca9-538e-4b7e-a85e-db508cc3768e
+  - boho-id:: 98594CA9-538E-4B7E-A85E-DB508CC3768E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:53Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T00:59:09Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5454729d-9300-44d2-9da7-1334a1d49679
+  - boho-id:: 5454729D-9300-44D2-9DA7-1334A1D49679
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c5be5cc1-d242-47b4-a583-f3e9908961ea
+  - boho-id:: C5BE5CC1-D242-47B4-A583-F3E9908961EA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:50Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^21cfc73e-3d46-46f8-b956-47fc158539ff
+  - boho-id:: 21CFC73E-3D46-46F8-B956-47FC158539FF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1d97a2fb-0ef4-4688-9609-9c98385276ee
+  - boho-id:: 1D97A2FB-0EF4-4688-9609-9C98385276EE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8d04e20f-c61b-41d3-9b24-a5e6b4bff189
+  - boho-id:: 8D04E20F-C61B-41D3-9B24-A5E6B4BFF189
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}- {{boho-entry}} Inbox #BohoBuilder #Note ^dd8c0c26-da91-4628-b44c-6b1a65ff1432
+  - boho-id:: DD8C0C26-DA91-4628-B44C-6B1A65FF1432
+  - boho-type:: note
+  - boho-created:: 2026-01-12T03:23:05Z
+  - boho-json:: {"text":"Inbox","subtitle":"Happy New Year !!ðŸš€ðŸ¥³â¤ï¸ðŸ™âœŠâœ…"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5a7d1fdd-4dc1-44f4-90a4-dabf5310356a
+  - boho-id:: 5A7D1FDD-4DC1-44F4-90A4-DABF5310356A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[{"time":"2026-01-07T22:41:14Z","text":"green juice"},{"text":"banana","time":"2026-01-07T21:36:24Z"},{"text":"black coffee","time":"2026-01-07T21:02:58Z"},{"text":"banana","time":"2026-01-07T20:09:23Z"},{"time":"2026-01-07T17:38:49Z","text":"Lentil soup"},{"text":"Congi","time":"2026-01-07T15:51:06Z"},{"time":"2026-01-07T15:50:58Z","text":"Banana"}],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7caa511f-6bf7-4957-a25b-6ac69c0e2012
+  - boho-id:: 7CAA511F-6BF7-4957-A25B-6AC69C0E2012
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7fccfc1d-1c66-45b3-96d5-c8f527bdd160
+  - boho-id:: 7FCCFC1D-1C66-45B3-96D5-C8F527BDD160
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^16c9fa6b-e388-4b38-aec4-1fb0e626fb6f
+  - boho-id:: 16C9FA6B-E388-4B38-AEC4-1FB0E626FB6F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:12Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7bc5de63-b0aa-43f5-ba09-4698c8e68d71
+  - boho-id:: 7BC5DE63-B0AA-43F5-BA09-4698C8E68D71
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^982e7217-349a-4ca3-b3a6-981c6c11f91f
+  - boho-id:: 982E7217-349A-4CA3-B3A6-981C6C11F91F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T00:59:12Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2a403ca4-79eb-4165-8fb4-8ae12f7c642e
+  - boho-id:: 2A403CA4-79EB-4165-8FB4-8AE12F7C642E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Chicken potato carrot snow peas broccoli","time":"2026-01-12T00:18:10Z"},{"text":"Coconut Water 500ml","time":"2026-01-11T20:39:27Z"},{"time":"2026-01-11T20:39:05Z","text":"Banana"},{"time":"2026-01-11T20:38:57Z","text":"Coffee Black"},{"time":"2026-01-11T20:38:48Z","text":"Eggs Sausage Savoury Oats"},{"time":"2026-01-11T12:05:05Z","text":"Coconut water 500ml"}]}
+  - {{/boho-entry}}  - boho-json:: {"items":[{"time":"2026-01-12T00:18:10Z","text":"Chicken potato carrot snow peas broccoli"},{"text":"Coconut Water 500ml","time":"2026-01-11T20:39:27Z"},{"text":"Banana","time":"2026-01-11T20:39:05Z"},{"text":"Coffee Black","time":"2026-01-11T20:38:57Z"},{"text":"Eggs Sausage Savoury Oats","time":"2026-01-11T20:38:48Z"},{"text":"Coconut water 500ml","time":"2026-01-11T12:05:05Z"}],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a4c33ef5-fd15-4017-9ed4-0eccea8a556a
+  - boho-id:: A4C33EF5-FD15-4017-9ED4-0ECCEA8A556A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:22:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^cb0d8b1e-c685-408a-b2f1-8314f46965be
+  - boho-id:: CB0D8B1E-C685-408A-B2F1-8314F46965BE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Outdoor walk with Buddha #BohoBuilder #Note ^0ca9ea20-66b0-469b-bb2c-a84a4d4ef2ae
+  - boho-id:: 0CA9EA20-66B0-469B-BB2C-A84A4D4EF2AE
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"subtitle":"Outdoor walk with Buddha","text":"Outdoor walk with Buddha"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T13:36:51Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b7ad0ccb-0c76-4d6c-9213-8e71bf33c363
+  - boho-id:: B7AD0CCB-0C76-4D6C-9213-8E71BF33C363
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:26Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 19A53677-7F8C-4E16-91D6-8E5D2FF364D1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:52Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1d4c85fe-1de0-4e3f-96a2-e3466d44369d
+  - boho-id:: 1D4C85FE-1DE0-4E3F-96A2-E3466D44369D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:22:53Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^0b402062-300a-4669-b527-7197d1709cfb
+  - boho-id:: 0B402062-300A-4669-B527-7197D1709CFB
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3bca03a0-4376-45cf-b7eb-1e450f097202
+  - boho-id:: 3BCA03A0-4376-45CF-B7EB-1E450F097202
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:54Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^69660162-7ce1-4eca-addb-4956a4454803
+  - boho-id:: 69660162-7CE1-4ECA-ADDB-4956A4454803
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:22:54Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5adf0916-3581-4d3d-b8a7-d9e8d22f4c6e
+  - boho-id:: 5ADF0916-3581-4D3D-B8A7-D9E8D22F4C6E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:22:54Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^8e9dda40-c8b6-4c98-aa6e-e8615889af82
+  - boho-id:: 8E9DDA40-C8B6-4C98-AA6E-E8615889AF82
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-status:: open
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:07Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^92294fcc-6b14-4a86-8a69-441dfdd9684a
+  - boho-id:: 92294FCC-6B14-4A86-8A69-441DFDD9684A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:48Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2bd27e6e-cfb1-493f-b46e-9bae8a78355f
+  - boho-id:: 2BD27E6E-CFB1-493F-B46E-9BAE8A78355F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:17Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^cb6883da-3adf-489b-ab0f-774515df3d7d
+  - boho-id:: CB6883DA-3ADF-489B-AB0F-774515DF3D7D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:53Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7fc22793-b125-489b-9a20-231223e9c86c
+  - boho-id:: 7FC22793-B125-489B-9A20-231223E9C86C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T13:36:49Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4664c67c-543a-4841-90f9-f06880ef74d9
+  - boho-id:: 4664C67C-543A-4841-90F9-F06880EF74D9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:53Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c44e1511-21e7-44bb-a3b6-185120084747
+  - boho-id:: C44E1511-21E7-44BB-A3B6-185120084747
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:23:00Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b76d9db1-2020-4c80-b01f-4475e6efb064
+  - boho-id:: B76D9DB1-2020-4C80-B01F-4475E6EFB064
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:05Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^61ff9c0b-f0d7-496a-82d8-ecfdd9fd227d
+  - boho-id:: 61FF9C0B-F0D7-496A-82D8-ECFDD9FD227D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^3a7dfbe3-add1-469a-8797-97124066af68
+  - boho-id:: 3A7DFBE3-ADD1-469A-8797-97124066AF68
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T03:23:02Z
+  - boho-status:: open
+  - boho-date:: 2026-01-07
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e7e3b4df-6fe7-4cdc-8b62-dffd07c9d874
+  - boho-id:: E7E3B4DF-6FE7-4CDC-8B62-DFFD07C9D874
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T03:23:02Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^aed6d723-cf47-4529-b271-d27e8dc9f9e3
+  - boho-id:: AED6D723-CF47-4529-B271-D27E8DC9F9E3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T13:36:47Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2750461e-6077-41c4-a012-05e555f1f80f
+  - boho-id:: 2750461E-6077-41C4-A012-05E555F1F80F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:47Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^028cc94c-19c8-46ae-ad9c-28f4b46455af
+  - boho-id:: 028CC94C-19C8-46AE-AD9C-28F4B46455AF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T03:23:04Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7f4b17ed-0902-4988-a610-0f1d1e34fb69
+  - boho-id:: 7F4B17ED-0902-4988-A610-0F1D1E34FB69
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Fogtown Purchase #BohoBuilder #Note ^2c921256-9f72-4815-970f-6779bdbdfe4d
+  - boho-id:: 2C921256-9F72-4815-970F-6779BDBDFE4D
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"subtitle":"Thank you for your order!\nOrder #: 164244438 | Est. Delivery time: 50 - 60 min\nStatus\nText Updates: On\n0\nText Update. You'll receive a text message when your order\nis out for delivery!\nYour order has been sent to the dispensary.\nYour order is being prepared.\nYour order is on its way!\nYour order has arrived! Time to enjoy!\nFOGTOWN\n- flower shop -\nFogtown Midtown\n2152 Yonge St, Toronto, ON\nM4S 2A8, Canada\nÂ© Item\nBC OZ\nBC OZ - Chrome Cake -\nIndica\n28g\nORDER: 164244438\nQty: 1 $135.00\nSubtotal:\nSales Taxes:\nTip:\nORDER TOTAL:\n$135.00\n$17.55\n$3.00\n$155.55","text":"Fogtown Purchase"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:18Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^04da7d2b-10a5-4769-aa06-e820dd0024d5
+  - boho-id:: 04DA7D2B-10A5-4769-AA06-E820DD0024D5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:48Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^c07a0e87-f9c2-49c9-b619-1005d1179bde
+  - boho-id:: C07A0E87-F9C2-49C9-B619-1005D1179BDE
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"subtitle":"Completed a 20 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e8aa3234-cfb5-4fd2-bf5a-89b50cf54116
+  - boho-id:: E8AA3234-CFB5-4FD2-BF5A-89B50CF54116
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:07Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c5e1c26f-4cef-4aa8-9fb5-b0d160a3edc0
+  - boho-id:: C5E1C26F-4CEF-4AA8-9FB5-B0D160A3EDC0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:25Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^40449439-ae64-4b79-bf87-09dc7c0db990
+  - boho-id:: 40449439-AE64-4B79-BF87-09DC7C0DB990
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8bc2ed1d-bd40-4101-ba7a-7466cfe2643c
+  - boho-id:: 8BC2ED1D-BD40-4101-BA7A-7466CFE2643C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:18Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0d5de622-6209-4d59-9536-54824a26d6d1
+  - boho-id:: 0D5DE622-6209-4D59-9536-54824A26D6D1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:17Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Sita - Dog Collar #BohoBuilder #Note ^47163ace-e4fe-4c91-b821-b7c553354d1b
+  - boho-id:: 47163ACE-E4FE-4C91-B821-B7C553354D1B
+  - boho-type:: note
+  - boho-created:: 2026-01-12T14:40:23Z
+  - boho-json:: {"text":"Sita - Dog Collar","subtitle":"https:\/\/www.amazon.ca\/dp\/B0F9TF82SL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ca367268-f63e-4ce4-a096-c72c0e546d8e
+  - boho-id:: CA367268-F63E-4CE4-A096-C72C0E546D8E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:16Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^636eb24e-5d46-4de2-b537-683cdfcb2b5b
+  - boho-id:: 636EB24E-5D46-4DE2-B537-683CDFCB2B5B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:11Z
+  - boho-json:: {"text":"Food Log","items":[{"time":"2026-01-05T00:54:20Z","text":"Banana"},{"time":"2026-01-05T00:05:46Z","text":"chicken potato peppers tomato"},{"time":"2026-01-04T23:46:35Z","text":"chicken"}]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a4910121-de55-40ae-a8c7-8bf28fb58e5a
+  - boho-id:: A4910121-DE55-40AE-A8C7-8BF28FB58E5A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^ee908ce9-31f4-4aa3-a649-14b429477b38
+  - boho-id:: EE908CE9-31F4-4AA3-A649-14B429477B38
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"subtitle":"Completed a 20 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:08Z
+  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3a55e1ac-8cb0-4686-8a12-08edce693125
+  - boho-id:: 3A55E1AC-8CB0-4686-8A12-08EDCE693125
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:10Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} FOGTOWN ORDER #BohoBuilder #Note ^748946ed-5fb2-4cb0-8097-0bbc677ceaf5
+  - boho-id:: 748946ED-5FB2-4CB0-8097-0BBC677CEAF5
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-date:: 2026-01-11
+  - boho-json:: {"subtitle":"Sun Jan 11 2026 12:17:03 PM\nContinue\nThank you for your payment.\n$121.74\nTax\nHide Details\n$ 12.87\nTotal\nShipping Information\n141 Davisville Avenue, PH2 buzz 4609 Toronto Ontario M4S\n1G7\n$121.74\nBilling Information\nPH2-141 Davisville Road Toronto Ontario M4S1G5\n6479154609\nPaid By Visa XXXX4905\nAuthorization Code: 133516\nTransaction ID: 81406525505\nInvoice Number: 606839302\nDescription: Order in VapeGoat","text":"FOGTOWN ORDER"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:22Z
+  - boho-date:: 2026-01-11
+  - boho-json:: {"subtitle":"Sun Jan 11 2026 12:17:03 PM\nContinue\nThank you for your payment.\n$121.74\nTax\nHide Details\n$ 12.87\nTotal\nShipping Information\n141 Davisville Avenue, PH2 buzz 4609 Toronto Ontario M4S\n1G7\n$121.74\nBilling Information\nPH2-141 Davisville Road Toronto Ontario M4S1G5\n6479154609\nPaid By Visa XXXX4905\nAuthorization Code: 133516\nTransaction ID: 81406525505\nInvoice Number: 606839302\nDescription: Order in VapeGoat","text":"FOGTOWN ORDER"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d0e6d42b-a245-4399-9ed1-74c7dcdf7e71
+  - boho-id:: D0E6D42B-A245-4399-9ED1-74C7DCDF7E71
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:50Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^36fccdac-69fb-4511-b05a-9ca1b28bf149
+  - boho-id:: 36FCCDAC-69FB-4511-B05A-9CA1B28BF149
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:50Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^dd8c0c26-da91-4628-b44c-6b1a65ff1432
+  - boho-id:: DD8C0C26-DA91-4628-B44C-6B1A65FF1432
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"subtitle":"Happy New Year !!ðŸš€ðŸ¥³â¤ï¸ðŸ™âœŠâœ…","text":"Inbox"}
+  - {{/boho-entry}}  - boho-type:: note
+  - boho-created:: 2026-01-12T14:40:09Z
+  - boho-json:: {"text":"Inbox","subtitle":"Happy New Year !!ðŸš€ðŸ¥³â¤ï¸ðŸ™âœŠâœ…"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3c741de4-c801-4dfb-b823-249862d349d0
+  - boho-id:: 3C741DE4-C801-4DFB-B823-249862D349D0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:51Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^695d6335-ac9c-4b66-91a8-266943c3b251
+  - boho-id:: 695D6335-AC9C-4B66-91A8-266943C3B251
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:15Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5a7d1fdd-4dc1-44f4-90a4-dabf5310356a
+  - boho-id:: 5A7D1FDD-4DC1-44F4-90A4-DABF5310356A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:51Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"green juice","time":"2026-01-07T22:41:14Z"},{"time":"2026-01-07T21:36:24Z","text":"banana"},{"text":"black coffee","time":"2026-01-07T21:02:58Z"},{"text":"banana","time":"2026-01-07T20:09:23Z"},{"text":"Lentil soup","time":"2026-01-07T17:38:49Z"},{"text":"Congi","time":"2026-01-07T15:51:06Z"},{"time":"2026-01-07T15:50:58Z","text":"Banana"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a2fb4340-1b18-49ba-a3d5-c126bcb3bea2
+  - boho-id:: A2FB4340-1B18-49BA-A3D5-C126BCB3BEA2
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:51Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^d4a9679c-ec63-4fca-ae3c-5c49076ea9b6
+  - boho-id:: D4A9679C-EC63-4FCA-AE3C-5C49076EA9B6
+  - boho-type:: note
+  - boho-created:: 2026-01-12T13:36:51Z
+  - boho-date:: 2026-01-09
+  - boho-json:: {"text":"Inbox","subtitle":"boho-builder-secret-key-2024\n\nAPI key: boho-builder-secret-key-2024\n\nDataboho.ca\n\n\nName (\"medi\nchitecture\nice migrati\nâ€¢ Mu Aneni\nSupreme Torren\nphp?o=marty-\noi http:\/foca\nTH ONASETEL 0080\nNew Tab\nBohoBuilder Dashboard\nG Google\ndataboho.ca\nbohobuilder\nSolaris v21 (Rich)\nToday's Sunlight\nFOCUS\nToday's Priorities\nBe kind and remember to remember that all is well...\nRHYTHM\nG\nDaily Tasks\nNOURISH\nPANTRY\nIndoor Run\nMindfulness Session\nInbox\nÐ²Ð¾Ñ€Ð¾Ð½Ñƒ Ð”Ð¾Ñ€Ð¾Ð´\n....\n.....\nInbox\nFood Log\nâ€¢ 07:34 PM"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^22c318a4-6170-4fa5-b0c7-9f3dab78123f
+  - boho-id:: 22C318A4-6170-4FA5-B0C7-9F3DAB78123F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:51Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c5aa988f-cdc6-4eb2-b88b-319c947eff55
+  - boho-id:: C5AA988F-CDC6-4EB2-B88B-319C947EFF55
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: note
+  - boho-created:: 2026-01-12T14:40:18Z
+  - boho-json:: {"subtitle":"Top page title - sub header should include daily intentions, derived from early days entry \n\nReagan idea ","text":"Bug - Day Closer Component "}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d7a1463d-65cc-4097-a499-f835379790bc
+  - boho-id:: D7A1463D-65CC-4097-A499-F835379790BC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d6b123e9-e3aa-45e2-a28c-b8f0e4fc883c
+  - boho-id:: D6B123E9-E3AA-45E2-A28C-B8F0E4FC883C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: note
+  - boho-created:: 2026-01-12T13:36:52Z
+  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^d9d47c91-8c38-47a7-8dc4-6bf154c1f30e
+  - boho-id:: D9D47C91-8C38-47A7-8DC4-6BF154C1F30E
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"subtitle":"Completed a 15 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T14:40:10Z
+  - boho-json:: {"subtitle":"Completed a 15 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^b0ce7d5b-69c4-43d9-b0ed-e48c8068b0bf
+  - boho-id:: B0CE7D5B-69C4-43D9-B0ED-E48C8068B0BF
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:44Z
+  - boho-status:: open
+  - boho-date:: 2026-01-12
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T17:11:07Z
+  - boho-status:: open
+  - boho-date:: 2026-01-12
+  - {{/boho-entry}}  - boho-id:: A82E89FF-198A-4A87-BB1E-7B77A02C7914
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:05Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7caa511f-6bf7-4957-a25b-6ac69c0e2012
+  - boho-id:: 7CAA511F-6BF7-4957-A25B-6AC69C0E2012
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:14Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2b374d61-376e-432f-8eb6-1a23bffffc24
+  - boho-id:: 2B374D61-376E-432F-8EB6-1A23BFFFFC24
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:53Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bb863fc3-6ed8-48d8-b2e9-be18dba6b87f
+  - boho-id:: BB863FC3-6ED8-48D8-B2E9-BE18DBA6B87F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:23Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2196e3e4-9b86-484b-bff8-4311d4ca67f9
+  - boho-id:: 2196E3E4-9B86-484B-BFF8-4311D4CA67F9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:06Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^fb1b00ad-1174-4f80-b650-72498b6a206b
+  - boho-id:: FB1B00AD-1174-4F80-B650-72498B6A206B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-created:: 2026-01-12T18:18:07Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7fb17d51-4fb3-4141-9c12-cee6ffcc006e
+  - boho-id:: 7FB17D51-4FB3-4141-9C12-CEE6FFCC006E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:54Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1d97a2fb-0ef4-4688-9609-9c98385276ee
+  - boho-id:: 1D97A2FB-0EF4-4688-9609-9C98385276EE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:13Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:54Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^dad7f091-371a-4127-8e5f-31c2d36abcd9
+  - boho-id:: DAD7F091-371A-4127-8E5F-31C2D36ABCD9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:04Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7fccfc1d-1c66-45b3-96d5-c8f527bdd160
+  - boho-id:: 7FCCFC1D-1C66-45B3-96D5-C8F527BDD160
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:55Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3030d762-eb50-4ef0-86a6-9fcd7516fdc2
+  - boho-id:: 3030D762-EB50-4EF0-86A6-9FCD7516FDC2
+  - boho-type:: food
+  - boho-created:: 2026-01-12T13:36:55Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ea851cb0-475d-482b-b9b9-bd51f2692c53
+  - boho-id:: EA851CB0-475D-482B-B9B9-BD51F2692C53
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 21B37F28-46FD-4854-BB6F-99B4561FBCDF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:04Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^765abde3-359a-4c42-8f64-1743e669921a
+  - boho-id:: 765ABDE3-359A-4C42-8F64-1743E669921A
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T22:10:51Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^aa865e5a-7751-4f6d-bb41-7f146c4f4038
+  - boho-id:: AA865E5A-7751-4F6D-BB41-7F146C4F4038
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:07Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^600ba49c-f283-4464-9a42-465af1f9dfee
+  - boho-id:: 600BA49C-F283-4464-9A42-465AF1F9DFEE
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}  - boho-id:: 0590E9DF-B8EB-4709-98A2-C2315FA0314D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:19Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^fa40f88c-1ede-4e94-9de6-5b8df0622dec
+  - boho-id:: FA40F88C-1EDE-4E94-9DE6-5B8DF0622DEC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:26Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^c2694611-0c5f-435a-a2b4-b634640a78b1
+  - boho-id:: C2694611-0C5F-435A-A2B4-B634640A78B1
+  - boho-type:: note
+  - boho-created:: 2026-01-12T14:40:06Z
+  - boho-json:: {"text":"Inbox","subtitle":"Impact Kitchen Mexican Bowl\nGF #FoodLog"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3f460b6e-8ecf-43eb-842d-368d3cd539a7
+  - boho-id:: 3F460B6E-8ECF-43EB-842D-368D3CD539A7
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:07Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b1e1319d-a31c-4225-b372-c5533c175253
+  - boho-id:: B1E1319D-A31C-4225-B372-C5533C175253
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:07Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^61ff9c0b-f0d7-496a-82d8-ecfdd9fd227d
+  - boho-id:: 61FF9C0B-F0D7-496A-82D8-ECFDD9FD227D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 4C353B82-44EA-48D5-B533-89ADD8DA7395
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:09Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^23065b5b-a8f3-42cf-8974-7e3eef1d2b67
+  - boho-id:: 23065B5B-A8F3-42CF-8974-7E3EEF1D2B67
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: F4F5C9A0-6C8E-4353-BB0D-A623D7BE8F11
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:08Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bcac45a0-d0c5-4aa5-8c77-7439c7da0ef8
+  - boho-id:: BCAC45A0-D0C5-4AA5-8C77-7439C7DA0EF8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:09Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^806b51e5-2b3f-4016-9b62-de225be5135c
+  - boho-id:: 806B51E5-2B3F-4016-9B62-DE225BE5135C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: AED6D723-CF47-4529-B271-D27E8DC9F9E3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:06Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^392ac859-301f-4d11-a53e-68828acaf995
+  - boho-id:: 392AC859-301F-4D11-A53E-68828ACAF995
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:10Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^892f2bb8-1887-482f-a8d1-2d5bcaf45e76
+  - boho-id:: 892F2BB8-1887-482F-A8D1-2D5BCAF45E76
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 40E55DBF-2F91-4B46-BEEA-72F616368D2A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:17Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^18d0dd20-4267-49b9-b7b4-7b5bae33ab2c
+  - boho-id:: 18D0DD20-4267-49B9-B7B4-7B5BAE33AB2C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 2A403CA4-79EB-4165-8FB4-8AE12F7C642E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:13Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Chicken potato carrot snow peas broccoli","time":"2026-01-12T00:18:10Z"},{"time":"2026-01-11T20:39:27Z","text":"Coconut Water 500ml"},{"time":"2026-01-11T20:39:05Z","text":"Banana"},{"text":"Coffee Black","time":"2026-01-11T20:38:57Z"},{"text":"Eggs Sausage Savoury Oats","time":"2026-01-11T20:38:48Z"},{"text":"Coconut water 500ml","time":"2026-01-11T12:05:05Z"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Groceries coconut oil #BohoBuilder #Note ^b177f56b-0d97-4e17-ba92-709a26fe34a9
+  - boho-id:: B177F56B-0D97-4E17-BA92-709A26FE34A9
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Groceries coconut oil","subtitle":"Groceries coconut oil"}
+  - {{/boho-entry}}  - boho-id:: 468FA1BA-A8B6-43FA-984B-302EB9C020F1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:52Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^1a83fb00-80e4-45ac-81d1-1a2a0581759f
+  - boho-id:: 1A83FB00-80E4-45AC-81D1-1A2A0581759F
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T22:10:49Z
+  - boho-status:: open
+  - boho-date:: 2026-01-04
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b8f18a52-a1d9-4749-92e7-fae8a6b975e1
+  - boho-id:: B8F18A52-A1D9-4749-92E7-FAE8A6B975E1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:17Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^19a53677-7f8c-4e16-91d6-8e5d2ff364d1
+  - boho-id:: 19A53677-7F8C-4E16-91D6-8E5D2FF364D1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 3E03D19D-2C46-4FCF-9789-EB0E52642DB5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:51Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^538396d1-7024-48ee-87f6-d0063a5ef07f
+  - boho-id:: 538396D1-7024-48EE-87F6-D0063A5EF07F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:15Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Water plants to do #BohoBuilder #Note ^a0bbeaac-773f-4fdf-bc8d-bb3c6573d4e0
+  - boho-id:: A0BBEAAC-773F-4FDF-BC8D-BB3C6573D4E0
+  - boho-type:: note
+  - boho-created:: 2026-01-12T18:18:07Z
+  - boho-json:: {"text":"Water plants to do","subtitle":"Water plants to do"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^92294fcc-6b14-4a86-8a69-441dfdd9684a
+  - boho-id:: 92294FCC-6B14-4A86-8A69-441DFDD9684A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: F1679808-0899-4C07-B8AC-A05CD5BC9E30
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:20Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^30c64f3b-a353-4526-aa27-6f8cf2d12ba6
+  - boho-id:: 30C64F3B-A353-4526-AA27-6F8CF2D12BA6
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: B33CB773-4842-4CE9-B45B-F3822C6DD34C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:24Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^44699545-260e-4952-a208-30823e39f14d
+  - boho-id:: 44699545-260E-4952-A208-30823E39F14D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: C07A0E87-F9C2-49C9-B619-1005D1179BDE
+  - boho-type:: note
+  - boho-created:: 2026-01-12T14:40:21Z
+  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}
+- {{boho-entry}} Work #BohoBuilder #Note ^7f3555d3-d607-4fcb-be10-b13f2773f2c8
+  - boho-id:: 7F3555D3-D607-4FCB-BE10-B13F2773F2C8
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"subtitle":"Shubham OneOnOne\n\n\nshubham One Onone Jau8, 2026.\n- Normal CR\n4 Require Approval\nFrom Jasmine\n- Project FMDPS\nâ†’ Big Project\nâ†’ Craig\n- Wearable - March\n- Adam\n- Jun 20- CP.\n- tabujre\n\nshubham One Onone Jau8, 2026.\n- Normal CR\n4 Require Approval\nFrom Jasmine\n- Project FMDPS\nâ†’ Big Project\nâ†’ Craig\n- Wearable - March\n- Adam\n- Jun 20- CP.\n- tabujre","text":"Work"}
+  - {{/boho-entry}}  - boho-id:: 58F416FC-A606-47AE-BCE2-AA0FFD8F0E77
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:30Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^387f5c02-226a-479e-be98-b03f97b984b5
+  - boho-id:: 387F5C02-226A-479E-BE98-B03F97B984B5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}  - boho-id:: 7F4B17ED-0902-4988-A610-0F1D1E34FB69
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:23Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0325339c-e1b5-4f1a-aaff-245f1090c5a8
+  - boho-id:: 0325339C-E1B5-4F1A-AAFF-245F1090C5A8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: E1CE2915-452F-4AFF-8B3C-283CEA9BF1CF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:24Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4c02d6f0-7c70-4a1e-9ba5-6033287a5714
+  - boho-id:: 4C02D6F0-7C70-4A1E-9BA5-6033287A5714
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:24Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^cb6883da-3adf-489b-ab0f-774515df3d7d
+  - boho-id:: CB6883DA-3ADF-489B-AB0F-774515DF3D7D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: CB0D8B1E-C685-408A-B2F1-8314F46965BE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T14:40:24Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^889a66c1-18c8-4e79-b5d4-4c08a7cc2284
+  - boho-id:: 889A66C1-18C8-4E79-B5D4-4C08A7CC2284
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}  - boho-id:: 9E1EE89D-2867-49BE-B5BB-A7011FE454D3
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T18:18:06Z
+  - boho-status:: open
+  - boho-date:: 2026-01-10
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b76d9db1-2020-4c80-b01f-4475e6efb064
+  - boho-id:: B76D9DB1-2020-4C80-B01F-4475E6EFB064
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:06Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^9147434e-4b3c-4e59-bc81-f7337ba04080
+  - boho-id:: 9147434E-4B3C-4E59-BC81-F7337BA04080
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^640e5efb-ea18-40a5-aa41-a2fb42ad00bb
+  - boho-id:: 640E5EFB-EA18-40A5-AA41-A2FB42AD00BB
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:11Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e0179b34-9615-4d40-bda7-041ae33fcf7c
+  - boho-id:: E0179B34-9615-4D40-BDA7-041AE33FCF7C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3186111f-11fc-4f0f-ab6f-10a577c44354
+  - boho-id:: 3186111F-11FC-4F0F-AB6F-10A577C44354
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:11Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d579c2d6-930a-427b-82e5-f401838225e8
+  - boho-id:: D579C2D6-930A-427B-82E5-F401838225E8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^480ecc61-e35d-47c4-a2d4-c5cfebf0ea98
+  - boho-id:: 480ECC61-E35D-47C4-A2D4-C5CFEBF0EA98
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^d9d47c91-8c38-47a7-8dc4-6bf154c1f30e
+  - boho-id:: D9D47C91-8C38-47A7-8DC4-6BF154C1F30E
+  - boho-type:: note
+  - boho-created:: 2026-01-12T18:18:08Z
+  - boho-json:: {"subtitle":"Completed a 15 minute session.","text":"Mindfulness Session"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ffaf474b-eba3-42e0-978b-60d815ddf30a
+  - boho-id:: FFAF474B-EBA3-42E0-978B-60D815DDF30A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d3340bb8-7d98-48c0-b613-afd0e00d4e37
+  - boho-id:: D3340BB8-7D98-48C0-B613-AFD0E00D4E37
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7f1c0dd9-8df7-47d9-b82a-1a1dbee4f55b
+  - boho-id:: 7F1C0DD9-8DF7-47D9-B82A-1A1DBEE4F55B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^89744454-e685-45e4-aac3-f772e5ad3827
+  - boho-id:: 89744454-E685-45E4-AAC3-F772E5AD3827
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-status:: open
+  - boho-date:: 2026-01-08
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^748471e4-ca7f-4969-9cc7-828c5f511b41
+  - boho-id:: 748471E4-CA7F-4969-9CC7-828C5F511B41
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8fd50c3a-1833-4adc-baec-df72b9af1cfe
+  - boho-id:: 8FD50C3A-1833-4ADC-BAEC-DF72B9AF1CFE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:10Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^85cbf91e-8d1c-402e-b243-4a269d4382cc
+  - boho-id:: 85CBF91E-8D1C-402E-B243-4A269D4382CC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f084a366-37ec-456a-973a-e98e7692fa1d
+  - boho-id:: F084A366-37EC-456A-973A-E98E7692FA1D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^e85c670b-3327-41e0-ad05-027596d3069b
+  - boho-id:: E85C670B-3327-41E0-AD05-027596D3069B
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T22:10:53Z
+  - boho-status:: open
+  - boho-date:: 2026-01-06
+  - boho-json:: {"items":[{"text":"Take vitamins","completed":true},{"text":"Walk","completed":false},{"completed":false,"text":"Water"}],"text":"Daily Routine"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^61f88cbc-8c88-4952-8507-3b284c0a7194
+  - boho-id:: 61F88CBC-8C88-4952-8507-3B284C0A7194
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3cbf2b15-d2b6-4b80-b96f-f25f3d1b0513
+  - boho-id:: 3CBF2B15-D2B6-4B80-B96F-F25F3D1B0513
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3843c270-aea4-4c19-ad24-454c9f500395
+  - boho-id:: 3843C270-AEA4-4C19-AD24-454C9F500395
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:11Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a82e89ff-198a-4a87-bb1e-7b77a02c7914
+  - boho-id:: A82E89FF-198A-4A87-BB1E-7B77A02C7914
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^43b9f363-d2ac-42ab-9849-113713485753
+  - boho-id:: 43B9F363-D2AC-42AB-9849-113713485753
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:52Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Coffe Black","time":"2026-01-12T17:19:20Z"},{"time":"2026-01-12T17:19:12Z","text":"Congi"},{"text":"Coffee Black","time":"2026-01-12T13:37:15Z"},{"time":"2026-01-12T13:37:03Z","text":"Water 500ml"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} IMAGE SHOWS ? #BohoBuilder #Note ^2f375575-91e1-4534-a4f0-195f16e44c4a
+  - boho-id:: 2F375575-91E1-4534-A4F0-195F16E44C4A
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-date:: 2026-01-11
+  - boho-json:: {"text":"IMAGE SHOWS ?","subtitle":"BohoBuilder-ioS |\nmaster\nA BohoBuilder ) O Jeffrey's iPhone\nBohoRuilder-iOS \\ - RohoRuilder \\ - ViewModels ) â€¢ HomeviewModel )\n748\n749\n750\n\/\/ Union of all IDs currently in Logseq for today\n\/\/ Force unwrap safe because we checked for nil above\nlet allLogseqIDs = bohoLogIDs!.union(foodLogIDs!)\n752\n753\n754\nlet todayKey = DateFormatter.yyyyMMdd.string(from: today)\n\/\/ Filter cards that belong\nto today\nMome viewmoue1: Loadeu Trom TILe\nLogseqInboxService: Fetched 406 IDs from inbox\nLogseqInboxService: Fetched 406 IDs from inbox\nStepsService: Synced step count 3017 to icloud for 2026-01-11\nActivityLog: [Health] Steps Synced - Step Count\nBohoBuilder Dashboard\n+\ndataboho.ca\/solaris_dashboard.html\n88\nG ANTMINER\nâ€¢ Health\nDownload Movies...\nB\nbohobuilder\nSolaris v2.1 (Rich)\nThe Archive\nRunning BohoBuilder on Jeffrey's iPhone\nS = +\nLine: \/oz Col: 21\n(â€¢) Filtor\nABP\nol http:\/\/localhost:30.. or Workflows - n8n[....\ny Contact us | ontari...\nCP compoundcreative...\n((boho-entry)}\nToday's Priorities BohoBu\n:\nC All Bookmarks\nâ€¢ 10:12 AM\nSeat\nCh\nRecents\ne Shared\nFavorites\n4 Applicatic\nJAN 11 (\nJAN 10\nHANTE\nTest Image\nJAN TI Inbox T800OS - Amazon.ca 3-in-1 |\nDog Training Bark Collar with 3300ft...\nInbox\nT800OS - Amazon.ca 3-in-1 Dog Training\nBark Collar with 3300ft Remote - Bark....\nSita - Dog Collar\nhttps:\/\/www.amazon.ca\/dp\/BOF9TF82SL?\nref_=ppx_hzsearch_conn_dt_b_fed_asin_titl.\nInbox\nAbtronix apptronix Feral working robotics\n\nBohoBuilder-ioS |\nmaster\nA BohoBuilder ) O Jeffrey's iPhone\nBohoRuilder-iOS \\ - RohoRuilder \\ - ViewModels ) â€¢ HomeviewModel )\n748\n749\n750\n\/\/ Union of all IDs currently in Logseq for today\n\/\/ Force unwrap safe because we checked for nil above\nlet allLogseqIDs = bohoLogIDs!.union(foodLogIDs!)\n752\n753\n754\nlet todayKey = DateFormatter.yyyyMMdd.string(from: today)\n\/\/ Filter cards that belong\nto today\nMome viewmoue1: Loadeu Trom TILe\nLogseqInboxService: Fetched 406 IDs from inbox\nLogseqInboxService: Fetched 406 IDs from inbox\nStepsService: Synced step count 3017 to icloud for 2026-01-11\nActivityLog: [Health] Steps Synced - Step Count\nBohoBuilder Dashboard\n+\ndataboho.ca\/solaris_dashboard.html\n88\nG ANTMINER\nâ€¢ Health\nDownload Movies...\nB\nbohobuilder\nSolaris v2.1 (Rich)\nThe Archive\nRunning BohoBuilder on Jeffrey's iPhone\nS = +\nLine: \/oz Col: 21\n(â€¢) Filtor\nABP\nol http:\/\/localhost:30.. or Workflows - n8n[....\ny Contact us | ontari...\nCP compoundcreative...\n((boho-entry)}\nToday's Priorities BohoBu\n:\nC All Bookmarks\nâ€¢ 10:12 AM\nSeat\nCh\nRecents\ne Shared\nFavorites\n4 Applicatic\nJAN 11 (\nJAN 10\nHANTE\nTest Image\nJAN TI Inbox T800OS - Amazon.ca 3-in-1 |\nDog Training Bark Collar with 3300ft...\nInbox\nT800OS - Amazon.ca 3-in-1 Dog Training\nBark Collar with 3300ft Remote - Bark....\nSita - Dog Collar\nhttps:\/\/www.amazon.ca\/dp\/BOF9TF82SL?\nref_=ppx_hzsearch_conn_dt_b_fed_asin_titl.\nInbox\nAbtronix apptronix Feral working robotics"}
+  - {{/boho-entry}}- {{boho-entry}} Walk Buda #BohoBuilder #Note ^605a0f3d-8bb5-4cbb-81a5-ca7178c8a212
+  - boho-id:: 605A0F3D-8BB5-4CBB-81A5-CA7178C8A212
+  - boho-type:: note
+  - boho-created:: 2026-01-12T22:10:50Z
+  - boho-json:: {"text":"Walk Buda","subtitle":"Frisbee at the park"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3a55e1ac-8cb0-4686-8a12-08edce693125
+  - boho-id:: 3A55E1AC-8CB0-4686-8A12-08EDCE693125
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:47Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2dd99d90-b9cd-45f3-8157-c75ff1376647
+  - boho-id:: 2DD99D90-B9CD-45F3-8157-C75FF1376647
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:16Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} 30 minute outdoor play with Buda #BohoBuilder #Note ^4b8cd422-34b0-4334-b1ea-7fbef4ba3de2
+  - boho-id:: 4B8CD422-34B0-4334-B1EA-7FBEF4BA3DE2
+  - boho-type:: note
+  - boho-created:: 2026-01-12T18:18:18Z
+  - boho-date:: 2026-01-02
+  - boho-json:: {"subtitle":"Went to the park with buda for about half and hour for the third time today to throw frisby â€¦ he should be tired tonight ;) ","text":"30 minute outdoor play with Buda"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^73e40c83-5ab1-4b60-be12-8e18bc993f03
+  - boho-id:: 73E40C83-5AB1-4B60-BE12-8E18BC993F03
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:19Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4b69757a-6a8c-4ad3-b3ce-f81a985d6726
+  - boho-id:: 4B69757A-6A8C-4AD3-B3CE-F81A985D6726
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8606632c-67af-4841-9642-2659d11b063e
+  - boho-id:: 8606632C-67AF-4841-9642-2659D11B063E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:12Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^b0ce7d5b-69c4-43d9-b0ed-e48c8068b0bf
+  - boho-id:: B0CE7D5B-69C4-43D9-B0ED-E48C8068B0BF
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T22:39:08Z
+  - boho-status:: open
+  - boho-date:: 2026-01-12
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0a34046d-a598-4635-9de5-9e010d0e4fa5
+  - boho-id:: 0A34046D-A598-4635-9DE5-9E010D0E4FA5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^2196e3e4-9b86-484b-bff8-4311d4ca67f9
+  - boho-id:: 2196E3E4-9B86-484B-BFF8-4311D4CA67F9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:51Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c5e1c26f-4cef-4aa8-9fb5-b0d160a3edc0
+  - boho-id:: C5E1C26F-4CEF-4AA8-9FB5-B0D160A3EDC0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^73e92680-5914-458e-93d4-80db6db65815
+  - boho-id:: 73E92680-5914-458E-93D4-80DB6DB65815
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b8650dd1-50e5-49a0-81b6-d65b15f87fbe
+  - boho-id:: B8650DD1-50E5-49A0-81B6-D65B15F87FBE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a4910121-de55-40ae-a8c7-8bf28fb58e5a
+  - boho-id:: A4910121-DE55-40AE-A8C7-8BF28FB58E5A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:54Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8ea9bc7b-2422-4c13-8d85-c1cb27e70240
+  - boho-id:: 8EA9BC7B-2422-4C13-8D85-C1CB27E70240
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e2566e57-0e3e-4d32-a3b5-36c11579dc35
+  - boho-id:: E2566E57-0E3E-4D32-A3B5-36C11579DC35
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8a794cf2-567b-4968-82ff-2518608dbe05
+  - boho-id:: 8A794CF2-567B-4968-82FF-2518608DBE05
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:09Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^08316500-cf2c-4188-b38c-4841159f980a
+  - boho-id:: 08316500-CF2C-4188-B38C-4841159F980A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:53Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6212c6aa-084e-42ab-a2b9-a308790d366f
+  - boho-id:: 6212C6AA-084E-42AB-A2B9-A308790D366F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:09Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6a974b2b-bc79-4a13-802c-b3cbed41906c
+  - boho-id:: 6A974B2B-BC79-4A13-802C-B3CBED41906C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Inbox #BohoBuilder #Note ^71e2e27b-91b5-4f03-879d-77369ef6545c
+  - boho-id:: 71E2E27B-91B5-4F03-879D-77369EF6545C
+  - boho-type:: note
+  - boho-created:: 2026-01-12T22:10:49Z
+  - boho-date:: 2026-01-12
+  - boho-json:: {"text":"Inbox","subtitle":"T8000S - Amazon.ca\n\n3-in-1 Dog Training Bark Collar\nwith 3300ft Remote - Bark\nControl, Dog Status Display, FSK\nTech for Reliable Signal, IPX7\nWaterproof, Adjustable for\nSmall, Medium & Large Dogs,\nControl Up to 3 Dogs\nBrand: Generic\n5.0 1\nV (4)\nSearch this page\n$9900 ($99.00\/count)\n00g\n3 IN 1\nClick to see full view\nOr $1798 \/mo (6 mo). Select from 1 plan\nvprime Tomorrow\nColour\nBlack\nMaterial\nNylon\nBrand\nGeneric\nClosure type\nHook & Loop\nBreed\nSmall, Medium, Large\nrecommendation\nIncluded\nAsk Rufus\nProduct Manual, Receiver Collar,\ny See more\nIs the collar rechargeable?\nCan it be used In the rain?\nDoes it come with a training guide?\nAsk something else\nAbout this item\nâ€¢ [3-In-1 Versatile Functionalityl: Combine remote\ndog training, auto bark control, and real-time dog\nstatue dienlau in a cinale nowerful evetam - norfart\nPa\nAd"}
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^dd8c0c26-da91-4628-b44c-6b1a65ff1432
+  - boho-id:: DD8C0C26-DA91-4628-B44C-6B1A65FF1432
+  - boho-type:: note
+  - boho-created:: 2026-01-12T22:39:08Z
+  - boho-json:: {"text":"Inbox","subtitle":"Happy New Year !!ðŸš€ðŸ¥³â¤ï¸ðŸ™âœŠâœ…"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d7a1463d-65cc-4097-a499-f835379790bc
+  - boho-id:: D7A1463D-65CC-4097-A499-F835379790BC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:25Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^52890c81-4a5f-4e67-a6fd-bdd5aa12e28f
+  - boho-id:: 52890C81-4A5F-4E67-A6FD-BDD5AA12E28F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^43a9ccf0-75dc-4757-a650-833dfc3e3641
+  - boho-id:: 43A9CCF0-75DC-4757-A650-833DFC3E3641
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^89b52ac5-c49c-4991-a40c-c3a5e4373055
+  - boho-id:: 89B52AC5-C49C-4991-A40C-C3A5E4373055
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:27Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1e181d37-d508-4cbc-a8d8-73857765ab9e
+  - boho-id:: 1E181D37-D508-4CBC-A8D8-73857765AB9E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4364eb80-2c23-4969-9863-9fa840149c33
+  - boho-id:: 4364EB80-2C23-4969-9863-9FA840149C33
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} FOGTOWN ORDER #BohoBuilder #Note ^748946ed-5fb2-4cb0-8097-0bbc677ceaf5
+  - boho-id:: 748946ED-5FB2-4CB0-8097-0BBC677CEAF5
+  - boho-type:: note
+  - boho-created:: 2026-01-12T18:18:28Z
+  - boho-date:: 2026-01-11
+  - boho-json:: {"subtitle":"Sun Jan 11 2026 12:17:03 PM\nContinue\nThank you for your payment.\n$121.74\nTax\nHide Details\n$ 12.87\nTotal\nShipping Information\n141 Davisville Avenue, PH2 buzz 4609 Toronto Ontario M4S\n1G7\n$121.74\nBilling Information\nPH2-141 Davisville Road Toronto Ontario M4S1G5\n6479154609\nPaid By Visa XXXX4905\nAuthorization Code: 133516\nTransaction ID: 81406525505\nInvoice Number: 606839302\nDescription: Order in VapeGoat","text":"FOGTOWN ORDER"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a65d9ee2-f316-4408-861f-9b7a4e6f0c33
+  - boho-id:: A65D9EE2-F316-4408-861F-9B7A4E6F0C33
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b67fa2b8-d939-4336-ac8f-cdb5685e9cf0
+  - boho-id:: B67FA2B8-D939-4336-AC8F-CDB5685E9CF0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:11Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8bc2ed1d-bd40-4101-ba7a-7466cfe2643c
+  - boho-id:: 8BC2ED1D-BD40-4101-BA7A-7466CFE2643C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^14145f66-1a70-402f-8f88-141e847a4471
+  - boho-id:: 14145F66-1A70-402F-8F88-141E847A4471
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^95a0b5e1-3ee3-4a5e-83b5-502b7ee50d55
+  - boho-id:: 95A0B5E1-3EE3-4A5E-83B5-502B7EE50D55
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0537462d-3afe-46c7-82fd-a0876ba04615
+  - boho-id:: 0537462D-3AFE-46C7-82FD-A0876BA04615
+  - boho-type:: food
+  - boho-created:: 2026-01-12T18:18:30Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Sita - Dog Collar #BohoBuilder #Note ^47163ace-e4fe-4c91-b821-b7c553354d1b
+  - boho-id:: 47163ACE-E4FE-4C91-B821-B7C553354D1B
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"subtitle":"https:\/\/www.amazon.ca\/dp\/B0F9TF82SL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2","text":"Sita - Dog Collar"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^17d278f1-dc72-4cb6-84dd-de6db68a1aef
+  - boho-id:: 17D278F1-DC72-4CB6-84DD-DE6DB68A1AEF
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:39Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^4d311f31-2727-40e1-ad9a-7b1d016f1ef8
+  - boho-id:: 4D311F31-2727-40E1-AD9A-7B1D016F1EF8
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T22:39:12Z
+  - boho-status:: open
+  - boho-json:: {"text":"Today's Priorities","items":["Mum thank you","Reagan appreciation","Buda appreciation "]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1e57fca5-3344-4b7a-84ed-0e4330816055
+  - boho-id:: 1E57FCA5-3344-4B7A-84ED-0E4330816055
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[{"time":"2026-01-06T11:40:01Z","text":"Banana"}],"text":"Food Log"}
+  - {{/boho-entry}}- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^636eb24e-5d46-4de2-b537-683cdfcb2b5b
+  - boho-id:: 636EB24E-5D46-4DE2-B537-683CDFCB2B5B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[{"time":"2026-01-05T00:54:20Z","text":"Banana"},{"time":"2026-01-05T00:05:46Z","text":"chicken potato peppers tomato"},{"text":"chicken","time":"2026-01-04T23:46:35Z"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^003dc7a7-a81d-4bc3-9e31-f55df86fc652
+  - boho-id:: 003DC7A7-A81D-4BC3-9E31-F55DF86FC652
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-status:: open
+  - boho-date:: 2026-01-05
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^cc812b41-98ca-40fb-84f2-231293c82796
+  - boho-id:: CC812B41-98CA-40FB-84F2-231293C82796
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Bedtime Buda Walk #BohoBuilder #Note ^14936861-cb8e-41c0-94aa-840129e27a48
+  - boho-id:: 14936861-CB8E-41C0-94AA-840129E27A48
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"subtitle":"Buda and I went out and came across our neighbour getting out of the elevator with her dog. Unfortunately I wasnâ€™t holding onto Budas leash and he reacted at dog barking. Luckily the woman had control of her dog. And I grabbed Buda. The door closed as she was saying jesus fuckâ€¦ We waited in the garbage chute room, until they had safely returned to their home. ","text":"Bedtime Buda Walk"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ca367268-f63e-4ce4-a096-c72c0e546d8e
+  - boho-id:: CA367268-F63E-4CE4-A096-C72C0E546D8E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:10:50Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f2ad7d4d-d956-4875-83f8-368b68115379
+  - boho-id:: F2AD7D4D-D956-4875-83F8-368B68115379
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1dd94245-9238-40d7-8891-c3d0b4bee82e
+  - boho-id:: 1DD94245-9238-40D7-8891-C3D0B4BEE82E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Mindfulness Session #BohoBuilder #Note ^80527295-d6d4-4310-b6ab-fcef5456b914
+  - boho-id:: 80527295-D6D4-4310-B6AB-FCEF5456B914
+  - boho-type:: note
+  - boho-created:: 2026-01-12T22:10:52Z
+  - boho-json:: {"text":"Mindfulness Session","subtitle":"Completed a 20 minute session."}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^58f416fc-a606-47ae-bce2-aa0ffd8f0e77
+  - boho-id:: 58F416FC-A606-47AE-BCE2-AA0FFD8F0E77
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ad61d120-7e21-4a7b-82f9-8ec5aa527d11
+  - boho-id:: AD61D120-7E21-4A7B-82F9-8EC5AA527D11
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^5abd51b3-9238-43d5-9555-f9d96d32f5c5
+  - boho-id:: 5ABD51B3-9238-43D5-9555-F9D96D32F5C5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f4f5c9a0-6c8e-4353-bb0d-a623d7be8f11
+  - boho-id:: F4F5C9A0-6C8E-4353-BB0D-A623D7BE8F11
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:47Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^392ac859-301f-4d11-a53e-68828acaf995
+  - boho-id:: 392AC859-301F-4D11-A53E-68828ACAF995
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^fa40f88c-1ede-4e94-9de6-5b8df0622dec
+  - boho-id:: FA40F88C-1EDE-4E94-9DE6-5B8DF0622DEC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3d466ced-b44f-45ec-b44b-681c8c22abfe
+  - boho-id:: 3D466CED-B44F-45EC-B44B-681C8C22ABFE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:07Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^31c22eb1-e920-4ffe-b283-08d4859f24a3
+  - boho-id:: 31C22EB1-E920-4FFE-B283-08D4859F24A3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^40e55dbf-2f91-4b46-beea-72f616368d2a
+  - boho-id:: 40E55DBF-2F91-4B46-BEEA-72F616368D2A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^66bcc972-1f79-4592-ad25-c49d9f83da0b
+  - boho-id:: 66BCC972-1F79-4592-AD25-C49D9F83DA0B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^df515edd-85bb-4e55-a778-9557b11e8c77
+  - boho-id:: DF515EDD-85BB-4E55-A778-9557B11E8C77
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:08Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Personal #BohoBuilder #Note ^40791f21-1789-45c5-8546-00a5caa7b6d1
+  - boho-id:: 40791F21-1789-45C5-8546-00A5CAA7B6D1
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Personal","subtitle":"Breakfast "}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d1944638-9e67-465a-b2b9-687c3ce3cf34
+  - boho-id:: D1944638-9E67-465A-B2B9-687C3CE3CF34
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a0aed0e6-eb0c-4557-8c0e-2f90a416eabd
+  - boho-id:: A0AED0E6-EB0C-4557-8C0E-2F90A416EABD
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^346f4e18-b856-4583-9655-31101594e25b
+  - boho-id:: 346F4E18-B856-4583-9655-31101594E25B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c5c4fcc9-b117-45a4-a77d-a5fc0878bc5c
+  - boho-id:: C5C4FCC9-B117-45A4-A77D-A5FC0878BC5C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:09Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c12b7c4a-a859-48af-8e91-5ff8f80bc303
+  - boho-id:: C12B7C4A-A859-48AF-8E91-5FF8F80BC303
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^538396d1-7024-48ee-87f6-d0063a5ef07f
+  - boho-id:: 538396D1-7024-48EE-87F6-D0063A5EF07F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f2147e99-c827-417e-8379-45f0c426e5e0
+  - boho-id:: F2147E99-C827-417E-8379-45F0C426E5E0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^229083e4-6745-4411-912a-60165998c81e
+  - boho-id:: 229083E4-6745-4411-912A-60165998C81E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b802ad33-f528-46e4-a3ad-cc8f957a2526
+  - boho-id:: B802AD33-F528-46E4-A3AD-CC8F957A2526
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:10Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^192fa483-e157-4fdc-9c83-c7ec84d16fd8
+  - boho-id:: 192FA483-E157-4FDC-9C83-C7EC84D16FD8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^9e1ee89d-2867-49be-b5bb-a7011fe454d3
+  - boho-id:: 9E1EE89D-2867-49BE-B5BB-A7011FE454D3
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-status:: open
+  - boho-date:: 2026-01-10
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^aa865e5a-7751-4f6d-bb41-7f146c4f4038
+  - boho-id:: AA865E5A-7751-4F6D-BB41-7F146C4F4038
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^463af573-d94e-4d7a-ab50-59ba3aab79a9
+  - boho-id:: 463AF573-D94E-4D7A-AB50-59BA3AAB79A9
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0590e9df-b8eb-4709-98a2-c2315fa0314d
+  - boho-id:: 0590E9DF-B8EB-4709-98A2-C2315FA0314D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b3f3e8b8-0e57-4994-a424-f31eb6a3e09a
+  - boho-id:: B3F3E8B8-0E57-4994-A424-F31EB6A3E09A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ee3f09b6-62d4-45b8-b526-5e682e005518
+  - boho-id:: EE3F09B6-62D4-45B8-B526-5E682E005518
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b8f18a52-a1d9-4749-92e7-fae8a6b975e1
+  - boho-id:: B8F18A52-A1D9-4749-92E7-FAE8A6B975E1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^707ce873-8367-43e2-bd4b-0aa5071736b4
+  - boho-id:: 707CE873-8367-43E2-BD4B-0AA5071736B4
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3ecda43d-c7a3-4fcf-89cc-1b9ea9546628
+  - boho-id:: 3ECDA43D-C7A3-4FCF-89CC-1B9EA9546628
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b33cb773-4842-4ce9-b45b-f3822c6dd34c
+  - boho-id:: B33CB773-4842-4CE9-B45B-F3822C6DD34C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1018888e-9071-4f20-9908-b0e174e44761
+  - boho-id:: 1018888E-9071-4F20-9908-B0E174E44761
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^fdf16409-470a-4b8d-9365-cb9d11f7dcae
+  - boho-id:: FDF16409-470A-4B8D-9365-CB9D11F7DCAE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Laundry Card $20 add - Value Code 7335163 #BohoBuilder #Note ^20282784-4edf-4a37-b23f-146fd145bdbb
+  - boho-id:: 20282784-4EDF-4A37-B23F-146FD145BDBB
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-date:: 2025-08-01
+  - boho-json:: {"subtitle":"Coinamatic\nLaundry & Beyond. Simply Clean\nValue Purchasing System\nÐ¨ Payment Status\nValue Code Purchase Successful.\nYour value code is:\n7335163\nAn email has been sent to your email box.\nYou can continue with the following options:\nâ€¢ Continue: go back to value purchasing system.\nâ€¢ Send Email Again: send another notification of your value code to your email box, in case the last one get lost.\nâ€º Continue\nâ€¢ Send Email Again\nCoinamatic\nLaundry & Beyond. Simply Clean.\nCopyright Â© 2002-2026 KioSoft Technologies. All Rights Reserved. VERSION: 2.22.1.1 \/\/ Last Updates: 2025-08-01 \/\/ 0.0516 s","text":"Laundry Card $20 add - Value Code 7335163"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1d2e341d-0f95-4687-97b6-53bbcfd0614b
+  - boho-id:: 1D2E341D-0F95-4687-97B6-53BBCFD0614B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b8d7fd37-c99e-423a-a97e-caf3a4293ff0
+  - boho-id:: B8D7FD37-C99E-423A-A97E-CAF3A4293FF0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:13Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7f528a47-e4ee-44e5-919c-23c43165927e
+  - boho-id:: 7F528A47-E4EE-44E5-919C-23C43165927E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b795aefa-fbe5-41c4-bf14-0c2d073ab053
+  - boho-id:: B795AEFA-FBE5-41C4-BF14-0C2D073AB053
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^773224e6-0f6e-46e4-9fa4-e60ca4a2d31d
+  - boho-id:: 773224E6-0F6E-46E4-9FA4-E60CA4A2D31D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ff503aeb-bd87-4038-a021-d4f63b39ce01
+  - boho-id:: FF503AEB-BD87-4038-A021-D4F63B39CE01
+  - boho-type:: food
+  - boho-created:: 2026-01-12T22:39:14Z
+  - boho-json:: {"text":"Food Log","items":[{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-06T01:09:33Z"},{"text":"Chicken rice raw vegetables","time":"2026-01-06T01:08:58Z"},{"text":"Electrolytes Water 500 ml","time":"2026-01-05T20:39:33Z"},{"text":"Water 500ml","time":"2026-01-05T20:39:05Z"},{"time":"2026-01-05T15:24:11Z","text":"Water 500 ml"},{"time":"2026-01-05T15:23:59Z","text":"Black Coffee"},{"text":"Oatmeal Berries Apple and Ginger","time":"2026-01-05T15:23:30Z"},{"text":"Banana","time":"2026-01-05T15:22:57Z"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^687a61cf-276d-4a55-923f-036bb25b7f29
+  - boho-id:: 687A61CF-276D-4A55-923F-036BB25B7F29
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^10b6235e-5e2d-45f1-a6b5-4ee572172261
+  - boho-id:: 10B6235E-5E2D-45F1-A6B5-4EE572172261
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0368bed2-8be2-4ace-8b09-56dda1d54e65
+  - boho-id:: 0368BED2-8BE2-4ACE-8B09-56DDA1D54E65
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:40Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bf1f01a2-63be-4350-ae43-2e2612899898
+  - boho-id:: BF1F01A2-63BE-4350-AE43-2E2612899898
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:41Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e6b7bc5c-e5fd-4ede-9deb-9bb9cf8a7539
+  - boho-id:: E6B7BC5C-E5FD-4EDE-9DEB-9BB9CF8A7539
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-json:: {"items":[{"time":"2026-01-09T00:06:01Z","text":"Edamame Salad"},{"text":"Congi","time":"2026-01-09T00:05:43Z"},{"time":"2026-01-09T00:05:32Z","text":"Chicken rice broccoli carrots snow peas"}],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^e85c670b-3327-41e0-ad05-027596d3069b
+  - boho-id:: E85C670B-3327-41E0-AD05-027596D3069B
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:46:42Z
+  - boho-status:: open
+  - boho-date:: 2026-01-06
+  - boho-json:: {"text":"Daily Routine","items":[{"completed":true,"text":"Take vitamins"},{"text":"Walk","completed":false},{"completed":false,"text":"Water"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^270c2150-822f-4207-b690-797b6d1af5f3
+  - boho-id:: 270C2150-822F-4207-B690-797B6D1AF5F3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:43Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^446f35ab-0cdb-4906-9ddd-136e86ac2f0a
+  - boho-id:: 446F35AB-0CDB-4906-9DDD-136E86AC2F0A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"text":"Food Log","items":[{"time":"2026-01-04T22:40:46Z","text":"celery"},{"text":"vitamins one taken","time":"2026-01-04T19:44:21Z"},{"time":"2026-01-04T17:30:33Z","text":"coffee"},{"time":"2026-01-04T17:28:57Z","text":"loop green drink"},{"time":"2026-01-04T17:09:53Z","text":"Congi"},{"time":"2026-01-04T16:27:00Z","text":"carrots green peas"},{"text":"banana","time":"2026-01-04T14:21:06Z"}]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^43b9f363-d2ac-42ab-9849-113713485753
+  - boho-id:: 43B9F363-D2AC-42AB-9849-113713485753
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:44Z
+  - boho-json:: {"items":[{"text":"Coffe Black","time":"2026-01-12T17:19:20Z"},{"text":"Congi","time":"2026-01-12T17:19:12Z"},{"text":"Coffee Black","time":"2026-01-12T13:37:15Z"},{"text":"Water 500ml","time":"2026-01-12T13:37:03Z"}],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4ea10280-bb8c-4202-a03c-348bc961701c
+  - boho-id:: 4EA10280-BB8C-4202-A03C-348BC961701C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b67fa2b8-d939-4336-ac8f-cdb5685e9cf0
+  - boho-id:: B67FA2B8-D939-4336-AC8F-CDB5685E9CF0
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^7f1c0dd9-8df7-47d9-b82a-1a1dbee4f55b
+  - boho-id:: 7F1C0DD9-8DF7-47D9-B82A-1A1DBEE4F55B
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:45Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6ab53bcb-3569-44a9-b641-46d946ec8a0c
+  - boho-id:: 6AB53BCB-3569-44A9-B641-46D946EC8A0C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^12c99242-7f22-471e-bbe4-6de8f809a95f
+  - boho-id:: 12C99242-7F22-471E-BBE4-6DE8F809A95F
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T23:46:46Z
+  - boho-status:: done
+  - boho-json:: {"items":["Mum visit","Reagan","Buda"],"text":"Today's Priorities"}
+  - {{/boho-entry}}
+- {{boho-entry}} Test Image #BohoBuilder #Note ^2b033074-cd33-4579-9861-3ca58868c6af
+  - boho-id:: 2B033074-CD33-4579-9861-3CA58868C6AF
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:32Z
+  - boho-json:: {"subtitle":"JAN TI\nInbox\nT800OS - Amazon.ca 3-in-1 Dog Training\nBark Collar with 3300ft Remote - Bark....","text":"Test Image"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0f492ddf-dfbe-4314-a1cf-da09f8590af6
+  - boho-id:: 0F492DDF-DFBE-4314-A1CF-DA09F8590AF6
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f9d0950d-8a7d-4372-aca5-c726baf46151
+  - boho-id:: F9D0950D-8A7D-4372-ACA5-C726BAF46151
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^4869090e-c273-4d16-a30b-1c3482e814fc
+  - boho-id:: 4869090E-C273-4D16-A30B-1C3482E814FC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0cd5db8f-2e9d-4fde-a2b9-1ae9fa800b4e
+  - boho-id:: 0CD5DB8F-2E9D-4FDE-A2B9-1AE9FA800B4E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c5be5cc1-d242-47b4-a583-f3e9908961ea
+  - boho-id:: C5BE5CC1-D242-47B4-A583-F3E9908961EA
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3e03d19d-2c46-4fcf-9789-eb0e52642db5
+  - boho-id:: 3E03D19D-2C46-4FCF-9789-EB0E52642DB5
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:33Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^d94f4949-b5d0-4b8e-acf5-4dce6b5e70e8
+  - boho-id:: D94F4949-B5D0-4B8E-ACF5-4DCE6B5E70E8
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^67149554-81b6-4549-b48a-a9fa14d8b86e
+  - boho-id:: 67149554-81B6-4549-B48A-A9FA14D8B86E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^eacba8e1-175c-4412-9f97-a4b0235a637d
+  - boho-id:: EACBA8E1-175C-4412-9F97-A4B0235A637D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^4d311f31-2727-40e1-ad9a-7b1d016f1ef8
+  - boho-id:: 4D311F31-2727-40E1-AD9A-7B1D016F1EF8
+  - boho-type:: priority
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-status:: open
+  - boho-json:: {"text":"Today's Priorities","items":["Mum thank you","Reagan appreciation","Buda appreciation "]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ad2fb8c7-a681-4de6-a2bc-543c873cbf57
+  - boho-id:: AD2FB8C7-A681-4DE6-A2BC-543C873CBF57
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^e568b8e9-afbc-4da2-bf66-e169b02e4d1c
+  - boho-id:: E568B8E9-AFBC-4DA2-BF66-E169B02E4D1C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^f6af1a9a-4712-4c23-969f-fcfc952bbebe
+  - boho-id:: F6AF1A9A-4712-4C23-969F-FCFC952BBEBE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^b98380c4-313b-4769-833d-bfb5afaea7e3
+  - boho-id:: B98380C4-313B-4769-833D-BFB5AFAEA7E3
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^49d2d09c-a7a3-455f-9f4c-43d906152c30
+  - boho-id:: 49D2D09C-A7A3-455F-9F4C-43D906152C30
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:34Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8606632c-67af-4841-9642-2659d11b063e
+  - boho-id:: 8606632C-67AF-4841-9642-2659D11B063E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^896138f1-0df1-4b8d-b8b9-d46d21b8dbde
+  - boho-id:: 896138F1-0DF1-4B8D-B8B9-D46D21B8DBDE
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^8a794cf2-567b-4968-82ff-2518608dbe05
+  - boho-id:: 8A794CF2-567B-4968-82FF-2518608DBE05
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^468fa1ba-a8b6-43fa-984b-302eb9c020f1
+  - boho-id:: 468FA1BA-A8B6-43FA-984B-302EB9C020F1
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^ee802b67-d99c-4239-973a-677eca260055
+  - boho-id:: EE802B67-D99C-4239-973A-677ECA260055
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^6b57f57b-d5ff-414f-b00f-fff4ef8accd6
+  - boho-id:: 6B57F57B-D5FF-414F-B00F-FFF4EF8ACCD6
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^bec42714-6c94-4c21-ad2a-ec1235370a90
+  - boho-id:: BEC42714-6C94-4C21-AD2A-EC1235370A90
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0c8848b1-9765-4f12-ae73-8b9f438c36d6
+  - boho-id:: 0C8848B1-9765-4F12-AE73-8B9F438C36D6
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^748471e4-ca7f-4969-9cc7-828c5f511b41
+  - boho-id:: 748471E4-CA7F-4969-9CC7-828C5F511B41
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:35Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c44ea622-f0f3-4d22-b205-da939583bf0e
+  - boho-id:: C44EA622-F0F3-4D22-B205-DA939583BF0E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^965869c9-9838-4893-a986-2645890bc978
+  - boho-id:: 965869C9-9838-4893-A986-2645890BC978
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^dd21ea22-e762-4e85-b279-e39ba50eb1ec
+  - boho-id:: DD21EA22-E762-4E85-B279-E39BA50EB1EC
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^1a83fb00-80e4-45ac-81d1-1a2a0581759f
+  - boho-id:: 1A83FB00-80E4-45AC-81D1-1A2A0581759F
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-status:: open
+  - boho-date:: 2026-01-04
+  - {{/boho-entry}}
+- {{boho-entry}} Inbox #BohoBuilder #Note ^03c490af-ad41-4910-b70a-85b1c7617c39
+  - boho-id:: 03C490AF-AD41-4910-B70A-85B1C7617C39
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"subtitle":"Abtronix apptronix Feral working robotics","text":"Inbox"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^640e5efb-ea18-40a5-aa41-a2fb42ad00bb
+  - boho-id:: 640E5EFB-EA18-40A5-AA41-A2FB42AD00BB
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^362620a7-54dd-415b-9569-4d694d18421e
+  - boho-id:: 362620A7-54DD-415B-9569-4D694D18421E
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^da2f8e05-2be1-4245-9d0c-73a29e91475d
+  - boho-id:: DA2F8E05-2BE1-4245-9D0C-73A29E91475D
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:36Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^621588c6-ab40-41fc-aa59-2378a442379f
+  - boho-id:: 621588C6-AB40-41FC-AA59-2378A442379F
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3186111f-11fc-4f0f-ab6f-10a577c44354
+  - boho-id:: 3186111F-11FC-4F0F-AB6F-10A577C44354
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^c52c08b7-d403-4a01-afb6-ccabb5d40d9c
+  - boho-id:: C52C08B7-D403-4A01-AFB6-CCABB5D40D9C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^0ae9f52f-b92c-44f3-9dc6-21fa77b8f0e7
+  - boho-id:: 0AE9F52F-B92C-44F3-9DC6-21FA77B8F0E7
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^36b649af-db9e-4f48-9767-482078ce0d1c
+  - boho-id:: 36B649AF-DB9E-4F48-9767-482078CE0D1C
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1f6d8302-b705-43c4-ad41-4cea44e59e28
+  - boho-id:: 1F6D8302-B705-43C4-AD41-4CEA44E59E28
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Walk Buda #BohoBuilder #Note ^605a0f3d-8bb5-4cbb-81a5-ca7178c8a212
+  - boho-id:: 605A0F3D-8BB5-4CBB-81A5-CA7178C8A212
+  - boho-type:: note
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"subtitle":"Frisbee at the park","text":"Walk Buda"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^3843c270-aea4-4c19-ad24-454c9f500395
+  - boho-id:: 3843C270-AEA4-4C19-AD24-454C9F500395
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:37Z
+  - boho-json:: {"items":[],"text":"Food Log"}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^a4910121-de55-40ae-a8c7-8bf28fb58e5a
+  - boho-id:: A4910121-DE55-40AE-A8C7-8BF28FB58E5A
+  - boho-type:: food
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-json:: {"text":"Food Log","items":[]}
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^4a2ed0a6-d751-4f45-b16b-8917bb7f489a
+  - boho-id:: 4A2ED0A6-D751-4F45-B16B-8917BB7F489A
+  - boho-type:: routine
+  - boho-created:: 2026-01-12T23:48:38Z
+  - boho-status:: open
+  - boho-date:: 2026-01-03
+  - {{/boho-entry}}
+- {{boho-entry}} Daily Routine #BohoBuilder #Routine ^9dfcfc7a-700e-42ec-9fb4-28e16c60ca95
+  - boho-id:: 9DFCFC7A-700E-42EC-9FB4-28E16C60CA95
+  - boho-type:: routine
+  - boho-created:: 2026-01-13T18:17:38Z
+  - boho-status:: open
+  - boho-date:: 2026-01-13
+  - {{/boho-entry}}  - boho-type:: routine
+  - boho-created:: 2026-01-13T16:03:42Z
+  - boho-status:: open
+  - boho-date:: 2026-01-13
+  - {{/boho-entry}}
+- {{boho-entry}} Today's Priorities #BohoBuilder #Priorities ^47b6d42e-ce78-4eac-905f-9743ced7e665
+  - boho-id:: 47B6D42E-CE78-4EAC-905F-9743CED7E665
+  - boho-type:: priority
+  - boho-created:: 2026-01-13T20:07:20Z
+  - boho-status:: open
+  - boho-json:: {"text":"Today's Priorities","items":["Upper body - loosen","Reagan","Buda"]}
+  - {{/boho-entry}}
+- {{boho-entry}} Food Log #BohoBuilder #FoodLog ^1c4e350f-a47f-42da-af4a-993dbe4cd9da
+  - boho-id:: 1C4E350F-A47F-42DA-AF4A-993DBE4CD9DA
+  - boho-type:: food
+  - boho-created:: 2026-01-13T20:07:09Z
+  - boho-json:: {"items":[{"text":"organic lentil soup","time":"2026-01-13T20:07:06Z"}],"text":"Food Log"}
+  - {{/boho-entry}}

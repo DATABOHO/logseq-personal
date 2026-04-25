@@ -1,0 +1,13 @@
+- template:: project-note
+- **Status**:: In Progress
+- **Goal**::
+- **Current Phase**::
+  -
+- **Next Steps**::
+  - [ ]
+- **Blockers**::
+  -
+- **Notes**::
+  -
+- **Related**::
+  - [[ðŸ’¼ Professional]]

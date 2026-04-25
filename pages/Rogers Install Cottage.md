@@ -1,0 +1,8 @@
+- Installation of Internet at the Cottage
+- 703-111 Davisville Avenue
+- Date:- Feb 24 @ 2:30pm
+- Installer:- Robert
+- WIFI SSID: COT
+- WIFI PASSWORD: Cot@Gr99
+- Router: Hitron Coda 5810
+- Router Login: Gr9mmmm9%%

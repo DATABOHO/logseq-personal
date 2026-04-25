@@ -1,0 +1,28 @@
+- Lab Nexus
+	- DB
+		- [[Lab Nexus/DB/Core Engines]]
+		- [[Lab Nexus/DB/Replication & Backup]]
+		- [[Lab Nexus/DB/Optimization]]
+		- [[Lab Nexus/DB/Time-Series]]
+	- Analytics
+		- [[Lab Nexus/Analytics/Python Stack]]
+		- [[Lab Nexus/Analytics/BI Dashboards]]
+		- [[Lab Nexus/Analytics/Reporting & Automation]]
+		- [[Lab Nexus/Analytics/Mini Apps]]
+	- Net
+		- [[Lab Nexus/Net/Packet Analysis]]
+		- [[Lab Nexus/Net/Firewalls & Segmentation]]
+		- [[Lab Nexus/Net/Traffic Testing]]
+		- [[Lab Nexus/Net/Security Play]]
+	- Auto
+		- [[Lab Nexus/Auto/Workflow Basics]]
+		- [[Lab Nexus/Auto/Alerts & Notifications]]
+		- [[Lab Nexus/Auto/ETL Pipelines]]
+		- [[Lab Nexus/Auto/SOC-Style Automations]]
+	- Project
+		- [[Lab Nexus/Project/Mini SOC]]
+		- [[Lab Nexus/Project/Replication Lab]]
+		- [[Lab Nexus/Project/Analytics Dashboard]]
+		- [[Lab Nexus/Project/End-to-End Automation]]
+		- [[Lab Nexus/Project/Lab Setup]]
+	-

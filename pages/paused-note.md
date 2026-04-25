@@ -1,0 +1,5 @@
+- template:: paused-note
+- â¸ï¸ Paused
+  - What this was about:
+  - Why it paused:
+  - What would make it feel lighter:

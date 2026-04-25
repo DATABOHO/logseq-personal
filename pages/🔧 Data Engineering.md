@@ -1,0 +1,62 @@
+# Data Engineering
+
+General data engineering concepts, patterns, and best practices.
+
+---
+## ðŸ—ï¸ Core Concepts
+### ETL/ELT Patterns
+- Extract, Transform, Load
+- Data pipeline design
+- Batch vs streaming
+### Data Quality
+- Validation rules
+- Data profiling
+- Anomaly detection
+### Data Modeling
+- Dimensional modeling
+- Normalization
+- Star vs snowflake schemas
+
+---
+## ðŸ“ Design Patterns
+### Pipeline Patterns
+- **Incremental Loading**: Only process new/changed data
+- **Idempotency**: Safe to run multiple times
+- **Error Handling**: Graceful failures and retries
+### Data Validation
+- Schema validation
+- Business rule validation
+- Referential integrity
+
+---
+## ðŸ› ï¸ Technologies
+### Databases
+- Oracle
+- PostgreSQL
+- Others you use
+### Languages
+- SQL
+- Python
+### Tools
+- Data pipeline tools
+- Monitoring and observability
+- Version control
+
+---
+## ðŸ“š Learning Resources
+
+```query
+{:title "Data Engineering Learnings"
+ :query [:find (pull ?b [*])
+         :where
+         [?b :block/content ?c]
+         [(clojure.string/includes? ?c "#learning")]
+         [(clojure.string/includes? ?c "data")]]
+ :collapsed? false}
+```
+
+---
+## ðŸ”— Related
+- [[ðŸ“Š Atria Database]] - Specific implementation
+- [[ðŸ› ï¸ Tools & Tech]] - Practical references
+- [[ðŸ“š Learning]] - Current learning goals

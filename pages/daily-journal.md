@@ -1,0 +1,34 @@
+- template:: daily-journal
+- ðŸŒ¤ï¸ State
+  - Energy:
+  - Mood:
+  - Body:
+- ðŸ§˜â€â™‚ï¸ Meditation / Breath (light)
+  - Type:
+  - Length:
+  - Noticed:
+- ðŸ§  Observations
+  -
+- ðŸ§­ Attention
+  - Pulling me toward:
+  - Pulling me away:
+- ðŸ¥— Food (signals, not macros)
+  - Meals:
+  - How it felt after:
+- ðŸ• Buda / Walking Rhythm
+  - Walks:
+  - Pace / vibe:
+  - What Buda reflected:
+- ðŸ’§ Body Care
+  - Sleep:
+  - Hydration:
+  - Movement:
+  - Tension / Pain:
+- ðŸ§˜ Reflection
+  -
+- ðŸŒ± Living
+  - Connection:
+  - Play:
+  - Nature:
+- âœ… Gentle tasks
+  -

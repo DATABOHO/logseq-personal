@@ -1,0 +1,46 @@
+- Costco
+  background-color:: red
+	- Coffee - $20
+	- SNACKS
+		- Protein Bars - $14
+	- MEATS
+		- Chicken Cooked - $8
+		- Ground Beef/Pork $14
+	- Dairy
+		- Cheese $8
+		- Heavy Cream $8
+	- FRUIT
+		- Green Apples $4
+		- Bananas $3
+	- VEGETABLE
+		- Ginger $3
+		- Broccoli - $3
+	-
+- Costco
+  background-color:: red
+	- Coffee - $20
+	- SNACKS
+		- Protein Bars - $14
+	- MEATS
+		- Chicken Cooked - $8
+		- Ground Beef/Pork $14
+	- Dairy
+		- Cheese $8
+		- Heavy Cream $8
+	- FRUIT
+		- Green Apples $4
+		- Bananas $3
+	- VEGETABLE
+		- Ginger $3
+		- Broccoli - $3
+	-
+- PetSmart
+  background-color:: red
+	- Wet dog food x10 cans - $45
+-
+-
+- PetSmart
+  background-color:: red
+	- Wet dog food x10 cans - $45
+-
+-

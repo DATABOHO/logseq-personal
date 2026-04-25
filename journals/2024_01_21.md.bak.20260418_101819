@@ -1,0 +1,72 @@
+-
+	- DONE Daily_Checklist
+	  todoist-id:: [7617225634](https://todoist.com/showTask?id=7617225634)
+	  SCHEDULED: <2024-01-21 Sun>
+		- Date:: [[Jan 21th, 2024]]
+		  Time:: 06:29
+			- DONE DAILY_CHECKLIST
+			  todoist-id:: [7617229002](https://todoist.com/showTask?id=7617229002)
+			  SCHEDULED: <2024-01-21 Sun>
+				- DONE Apple Cider Vinegar
+				  todoist-id:: [7617234286](https://todoist.com/showTask?id=7617234286)
+				  collapsed:: true
+				  SCHEDULED: <2024-01-21 Sun>
+					- time::
+				- DONE Meds
+				  collapsed:: true
+					- time::
+				- DONE Protein in the morning
+				  collapsed:: true
+					- time::
+				- DONE Fruit & Vegetable Smoothie
+				  collapsed:: true
+					- time::
+				- DONE Vitamins
+				  collapsed:: true
+					- time::
+				- DONE Avacado
+				  collapsed:: true
+					- time::
+				- DONE Metamucil
+				  collapsed:: true
+					- time::
+				- DONE Steps = 12k +
+				- DONE Meditate
+				  collapsed:: true
+					- time::
+				- DONE Take Breaks
+				- DONE Shower before 12
+				  collapsed:: true
+					- time::
+- DONE #Daily_Checklist
+  todoist-id:: [7615713086](https://todoist.com/showTask?id=7615713086)
+  SCHEDULED: <2024-01-20 Sat>
+- Imported during personal-graph migration from personal-graph
+  source-path:: C:\logseq\personal-graph\journals\2024_01_21.md
+	- Habit Tracker
+		- Daily_Checklist
+			- Date:: [[Jan 21st, 2024]]
+			  Time:: 12:45
+				- DONE Apple Cider Vinegar #habit-tracker
+				- DONE Sauerkraut #habit-tracker
+				- DONE Fruit & Vegetable Smoothie #habit-tracker
+				  :LOGBOOK:
+				  CLOCK: [2024-01-21 Sun 13:18:32]--[2024-01-21 Sun 13:18:47] =>  00:00:15
+				  :END:
+				- DONE Medicinal Mushrooms #habit-tracker
+				- DONE Vitamins #habit-tracker
+				  :LOGBOOK:
+				  CLOCK: [2024-01-21 Sun 13:23:27]--[2024-01-21 Sun 13:23:29] =>  00:00:02
+				  :END:
+				- DONE Protein in the morning #habit-tracker
+				- DONE Avocado #habit-tracker
+				- DONE Metamucil #habit-tracker
+				- DONE Steps = 12k + #habit-tracker
+				- DONE Meds #habit-tracker
+				- DONE Meditate #habit-tracker
+				- DONE Take Breaks #habit-tracker
+				- DONE Shower before 12 #habit-tracker
+	- {{renderer :trackhabits_zpjrbxip}}
+	-
+	-
+	-

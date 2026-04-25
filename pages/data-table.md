@@ -1,0 +1,11 @@
+- template:: data-table
+- **Table**::
+- **Schema**::
+- **Purpose**::
+- **Key Columns**::
+  -
+- **Relationships**::
+  -
+- **Notes**::
+  -
+- **Related**:: [[ðŸ“Š Atria Database]]

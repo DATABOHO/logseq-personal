@@ -1,0 +1,7 @@
+- https://www.youtube.com/watch?v=xbtaG4jErKg
+	- Coolant leak issue after front end hit ground. Pothole. Left front side -  check for coolant leak
+	- https://duckduckgo.com/?q=hyundai+laird&atb=v337-1&ia=web#:~:text=More%20Results-,Gyro%20Hyundai,-Automotive%20repair%20shop
+	- Hyundai - Laird - [+1 416 422 6588](tel:+14164226588)
+		- book appointment for estimate
+			- Esther - left vm 10am [[Mar 11th, 2023]]jobrien 416-422-6600
+			-

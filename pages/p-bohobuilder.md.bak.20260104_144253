@@ -1,0 +1,370 @@
+- **Project:** BohoBuilder iOS App
+  type:: #project-note
+  status:: Active
+  platform:: iOS
+  language:: Swift
+  framework:: SwiftUI
+  started:: [[2024-12-24]]
+  
+- ## ðŸ“± Overview
+	- **Description:** A modern iOS productivity app for quick capture of ideas, notes, and screenshots with beautiful card-based organization
+	- **Architecture:** MVVM (Model-View-ViewModel)
+	- **Deployment Target:** iOS 17.0
+	- **Repository:** `~/BohoBuilder/`
+	- **Bundle ID:** `com.yourcompany.BohoBuilder`
+	  
+- ## âœ¨ Core Features
+	- ### Quick Capture (Incoming Page)
+		- Auto-focused text editor for immediate input
+		- Screenshot paste detection from clipboard
+		- Image preview with compression (70% JPEG)
+		- Inline icon picker (20 SF Symbols)
+		- Inline color picker (6 vibrant colors)
+		- Category field for organization
+		- Save & Clear functionality
+		  
+	- ### Card Management
+		- Create custom cards with text, images, icons, colors
+		- Edit existing cards (pencil button in detail view)
+		- Delete cards (swipe-to-delete or trash button with confirmation)
+		- View cards in scrolling list with glassmorphism design
+		- Detail view with full card information
+		  
+	- ### Data Persistence
+		- UserDefaults + Codable for automatic saving
+		- Survives app restarts
+		- Image storage as compressed Data
+		- Category support for organization
+		  
+	- ### Navigation
+		- Tab-based navigation (TabView)
+		- Incoming tab (default landing page)
+		- Cards tab (saved collection)
+		- Meditate tab (meditation timer)
+		- Shared ViewModel between tabs
+		  
+	- ### Meditation Timer
+		- Configurable session duration (5-60 minutes)
+		- Adjustable bell intervals (1-15 minutes)
+		- Custom audio file selection (MP3)
+		- 1-minute preparation countdown
+		- Deep bell sounds at intervals and completion
+		- Ava voice welcome message
+		- Background audio looping
+		- Session history and statistics
+		- Pause/resume/stop controls
+		- Settings persistence
+		  
+- ## ðŸ—ï¸ Technical Architecture
+	- ### Models
+		- `CardItem.swift` - Card data model
+		- `Category.swift` - Category model with icons
+		- `MeditationSession.swift` - Session tracking model
+		- `MeditationTimer.swift` - Timer logic and phase management
+		  
+	- ### ViewModels
+		- `HomeViewModel.swift` - Card management
+		- `MeditationViewModel.swift` - Session management and statistics
+		  
+	- ### Views
+		- `MainTabView.swift` - Root view with tab navigation
+		- `IncomingView.swift` - Quick capture landing page
+		- `HomeView.swift` - Card list view
+		- `CardDetailView.swift` - Individual card details
+		- `AddEditCardView.swift` - Form for creating/editing cards
+		- `MeditationConfigView.swift` - Meditation session configuration
+		- `MeditationTimerView.swift` - Active meditation timer
+		- `SessionHistoryView.swift` - Session history and stats
+		- Components:
+			- `CardView.swift` - Reusable card component
+			- `FloatingActionButton.swift` - FAB component
+			- `CustomTextEditor.swift` - UITextView wrapper
+			- `ImagePicker.swift` - iOS image picker
+			- `ImagePicker+macOS.swift` - macOS file picker
+			- `DocumentPicker.swift` - Document import
+		  
+	- ### Services
+		- `MockDataService.swift` - Sample data generation
+		- `OCRService.swift` - Vision framework text extraction
+		- `TTSService.swift` - Text-to-speech with Ava voice
+		- `DocumentService.swift` - PDF and text file extraction
+		- `AudioService.swift` - Meditation audio and bell sounds
+		  
+	- ### App Entry Points
+		- `BohoBuilderApp.swift` - iOS app entry
+		- `BohoBuilderApp+macOS.swift` - macOS app entry
+		  
+	- ### Design System
+		- `DesignSystem.swift`
+			- Colors: Vibrant HSL-based palette (purple, blue, pink, orange, green, teal)
+			- Typography: Rounded system fonts
+			- Spacing: Consistent spacing scale
+			- Shadows: Glassmorphism effects
+			  
+- ## ðŸŽ¨ UI/UX Features
+	- Gradient backgrounds (deep blue-purple)
+	- Glassmorphism card effects
+	- Spring animations for interactions
+	- Haptic feedback on taps
+	- Pull-to-refresh
+	- Improved button responsiveness (contentShape modifier)
+	- Auto-focus on text editor
+	  
+- ## ðŸ“‚ Project Structure
+	```
+	BohoBuilder/
+	â”œâ”€â”€ BohoBuilder.xcodeproj/
+	â”œâ”€â”€ BohoBuilder/
+	â”‚   â”œâ”€â”€ App/
+	â”‚   â”‚   â””â”€â”€ BohoBuilderApp.swift
+	â”‚   â”œâ”€â”€ Models/
+	â”‚   â”‚   â””â”€â”€ CardItem.swift
+	â”‚   â”œâ”€â”€ ViewModels/
+	â”‚   â”‚   â””â”€â”€ HomeViewModel.swift
+	â”‚   â”œâ”€â”€ Views/
+	â”‚   â”‚   â”œâ”€â”€ MainTabView.swift
+	â”‚   â”‚   â”œâ”€â”€ IncomingView.swift
+	â”‚   â”‚   â”œâ”€â”€ HomeView.swift
+	â”‚   â”‚   â”œâ”€â”€ CardDetailView.swift
+	â”‚   â”‚   â”œâ”€â”€ AddEditCardView.swift
+	â”‚   â”‚   â””â”€â”€ Components/
+	â”‚   â”‚       â”œâ”€â”€ CardView.swift
+	â”‚   â”‚       â””â”€â”€ FloatingActionButton.swift
+	â”‚   â”œâ”€â”€ Services/
+	â”‚   â”‚   â””â”€â”€ MockDataService.swift
+	â”‚   â””â”€â”€ Resources/
+	â”‚       â”œâ”€â”€ Assets.xcassets/
+	â”‚       â””â”€â”€ Info.plist
+	â””â”€â”€ .gitignore
+	```
+	
+- ## ðŸ“… Development Timeline
+	- ### [[2024-12-24]]
+		- âœ… Initial project setup and structure
+		- âœ… Created MVVM architecture
+		- âœ… Implemented HomeView with gradient background
+		- âœ… Created CardView component with glassmorphism
+		- âœ… Added FloatingActionButton
+		- âœ… Implemented MockDataService
+		- âœ… Created DesignSystem with vibrant colors
+		- âœ… Added Git repository initialization
+		- âœ… Fixed Assets.xcassets for compilation
+		- âœ… Built and ran in iOS Simulator (iPhone 17 Pro)
+		- âœ… Deployed to physical iPhone
+		- âœ… Added data persistence (UserDefaults)
+		- âœ… Created AddEditCardView with icon/color pickers
+		- âœ… Implemented edit functionality
+		- âœ… Added delete with confirmation
+		- âœ… Created CardDetailView with edit/delete buttons
+		- âœ… Implemented Incoming Page for quick capture
+		- âœ… Added tab navigation (Incoming + Cards)
+		- âœ… Added image paste support for screenshots
+		- âœ… Improved button responsiveness
+		- âœ… Added category field for organization
+		- âœ… **UI Redesign: Digital Monk's Workbook Aesthetic**
+			- Redesigned DesignSystem with bright, minimal colors
+			- Changed background from dark gradient to soft cream (#F9F9F6)
+			- Updated cards to pure white with subtle borders
+			- Changed text to high-contrast dark (#262626)
+			- Replaced vibrant HSL colors with soft pastels
+			- Added Home button to Incoming Page toolbar
+			- Fixed auto-navigation: saves now switch to Cards tab
+			- Improved text readability throughout app
+			- Subtle shadows for depth (8px blur, 8% opacity)
+			- Clean, zen aesthetic for focused productivity
+		- âœ… **Ultra-Minimal Grayscale Redesign**
+			- Moved to pure grayscale palette (white, black, grays)
+			- Single subtle accent color (blue-gray)
+			- Card colors now barely-visible gray tints
+			- Fixed keyboard overlap with extra padding
+			- Added keyboard dismissal on scroll
+			- Reduced shadow opacity to 4%
+			- Pure flat design, no gradients
+			- Ultimate minimalism for monk-like focus
+		- âœ… **Text Editor & Navigation Fixes**
+			- Created CustomTextEditor with UITextView wrapper
+			- Set textContainerInset to 2pt left/right for full text visibility
+			- Set lineFragmentPadding to 0 for edge-to-edge text
+			- Fixed card navigation by removing conflicting tap gesture
+			- Cards now open properly when tapped
+		- âœ… **Category Management System**
+			- Created Category model with name and icon association
+			- Added 6 default categories (Inbox, Work, Personal, Ideas, Goals, Notes)
+			- Replaced icon picker with category dropdown
+			- Icon auto-selects based on chosen category
+			- Added + button to create new categories
+			- NewCategoryView sheet with name input and icon grid selector
+			- Categories persist in IncomingView state
+		- âœ… **Photo Capture & OCR**
+			- Added camera and photo library permissions
+			- Created ImagePicker wrapper for UIImagePickerController
+			- Added Camera and Photos buttons to IncomingView
+			- Image preview with remove button
+			- OCRService using Vision framework for text recognition
+			- Extract Text button with loading indicator
+			- Extracted text auto-appends to notes field
+			- Images save with cards (JPEG 70% compression)
+		- âœ… **Soft Groovy Color Scheme**
+			- Warm peachy cream background (#FFF5EB)
+			- Soft coral accent color (#F28C73)
+			- Warm brown text for readability
+			- Groovy pastel card colors (lavender, sky blue, peachy pink, sage green)
+			- Retro-inspired aesthetic
+			- Rounded typography for friendly feel
+		- âœ… **Solarized Light Theme**
+			- Applied official Solarized Light palette
+			- Base3 background (#FDF6E3)
+			- Solarized Blue accent (#268BD2)
+			- Professional, easy on eyes
+			- Card colors from Solarized palette (magenta, blue, orange, green, cyan)
+		- âœ… **Image Display in Cards**
+			- CardView shows 120px image thumbnail
+			- Scaled to fill with clipping
+			- CardDetailView shows full-size image
+			- Proper aspect ratio handling
+			- Rounded corners and shadows
+		- âœ… **Text-to-Speech**
+			- Created TTSService with AVSpeechSynthesizer
+			- Premium Samantha voice support
+			- Natural speech rate (0.5)
+			- Play/pause/resume/stop controls
+			- Speaker button in CardDetailView toolbar
+			- Dynamic button states
+			- Reads card subtitle text
+		- âœ… **Document Import**
+			- Created DocumentPicker wrapper
+			- Created DocumentService for text extraction
+			- PDF support using PDFKit
+			- Plain text file support (.txt)
+			- Document button in IncomingView
+			- Auto-appends extracted text to notes
+			- Secure file access handling
+			- Added comprehensive debug logging
+		- âœ… **TTS Voice Improvements**
+			- Automatic best voice selection
+			- Enhanced quality prioritized
+			- Console logging shows selected voice
+			- Slower natural rate (0.45)
+			- Note: Enhanced voices require physical device
+		- âœ… **Image Persistence Bug Fix**
+			- Fixed CardItem.init to properly assign image and category properties
+			- Images now save correctly with cards
+			- Added debug logging to track image data flow
+			  
+	- ### [[2024-12-25]]
+		- âœ… **Meditation Timer Feature (Complete)**
+			- Created MeditationSession model for session tracking
+			- Created MeditationTimer with countdown logic and phase management
+			- Built AudioService for ambient audio and bell sounds
+			- Created MeditationViewModel with session logging and statistics
+			- Built MeditationConfigView with duration/interval/audio pickers
+			- Created MeditationTimerView with live countdown display
+			- Built SessionHistoryView with stats and session list
+			- Added Meditation tab to MainTabView
+			- **Features:**
+				- 1-minute preparation countdown
+				- Configurable session duration (5-60 minutes)
+				- Adjustable bell intervals (1-15 minutes in 1-min increments)
+				- Custom audio file selection (MP3 support)
+				- Deep bell sound (system sound 1013) with organic tone
+				- Start bell after prep countdown
+				- Three-bell sequence at completion
+				- Ava Premium voice welcome message
+				- Background audio looping at 30% volume
+				- Pause/resume/stop controls
+				- Session notes and history
+				- Aggregate statistics (total time, sessions, average)
+				- Settings persistence (bell interval, audio file)
+			- **Technical Details:**
+				- Used Timer.scheduledTimer for reliable countdown
+				- Combine subscription for UI updates
+				- Security-scoped resource access for custom audio
+				- Bookmark data for persistent file access
+				- UserDefaults for session history and preferences
+				- AVAudioPlayer for background audio
+				- AudioServicesPlaySystemSound for bells
+		- âœ… **macOS Version (In Progress)**
+			- Created platform-specific code structure
+			- Built BohoBuilderApp+macOS.swift with window configuration
+			- Created ImagePicker+macOS.swift using NSOpenPanel
+			- Added platform checks (#if os(iOS) / #if os(macOS))
+			- Created Info-macOS.plist
+			- Updated DesignSystem with macOS-specific typography
+			- Added macOS target to Xcode project
+			- **Status:** Target created, needs source file sharing
+			- **Next:** Add files to macOS target build phases
+			
+	- ### [[2024-12-26]]
+		- âœ… **Xcode Cloud CI/CD Setup**
+			- Connected GitHub repository to Xcode Cloud
+			- Generated Personal Access Token (PAT) for authentication
+			- Fixed scheme sharing issue - schemes weren't committed to Git
+			- Enabled "Shared" for both BohoBuilder and BohoBuilder_MacOS schemes
+			- Successfully triggered Build 8 via git push
+			- Build succeeded in 1 minute on macOS Tahoe 26.2
+			- Downloaded and verified app archive (26.1 MB)
+		- âœ… **macOS App Completion**
+			- Fixed project.pbxproj build errors (invalid entries)
+			- Built and launched BohoBuilder_MacOS.app successfully
+			- Added app logo to window title bar using toolbar modifier
+			- Configured automatic code signing with Apple Development certificate
+			- App running with branded window appearance
+		- âœ… **iCloud Sync Configuration**
+			- Verified iOS target has iCloud capability enabled
+			- iOS containers: `iCloud.com.yourcompany.BohoBuilder`, `iCloud.compoundcreative.BohoBuilder`
+			- macOS needs iCloud capability added with matching container
+			- Documented sync setup process for cross-device data sharing
+			- Cards sync via iCloud Documents at `~/Library/Mobile Documents/`
+		- âœ… **Document Import Enhancement**
+			- Added thumbnail generation for imported documents
+			- Created UIImage+Scaling.swift extension for image resizing
+			- Document attachments now preview with thumbnails
+			- Optional OCR text extraction from document thumbnails
+			- Documents attach to cards with URL and thumbnail data
+		- âœ… **Auto-Clear Placeholder Text**
+			- Implemented automatic placeholder clearing in CustomTextEditor
+			- Placeholder disappears when user taps to edit
+			- Restores placeholder if field is empty after editing
+			- Uses UITextViewDelegate methods for smooth UX
+		- âœ… **Build Error Fixes**
+			- Fixed `isShowingPlaceholder` access level (removed private keyword)
+			- Resolved UIImage+Scaling.swift missing from project references
+			- Cleaned up build artifacts and DerivedData
+		- ðŸ”§ **In Progress:**
+			- Adding iCloud capability to macOS target for sync
+			- Need to add UIImage+Scaling.swift to Xcode project targets
+		  
+- ## ðŸŽ¯ Pending Features
+	- ### High Priority
+		- [ ] Custom app icon (meditation silhouette in triangle)
+		- [ ] Display images in CardView and CardDetailView
+		  
+	- ### Future Enhancements
+		- [ ] Search and filter cards
+		- [ ] Category management UI
+		- [ ] iCloud sync
+		- [ ] Export/share functionality
+		- [ ] Home screen widgets
+		- [ ] Apple Watch companion app
+		- [ ] Dark mode improvements
+		- [ ] Accessibility enhancements
+		  
+- ## ðŸ› Known Issues
+	- None currently
+	  
+- ## ðŸ“ Notes
+	- App opens directly to Incoming Page for immediate capture
+	- All data persists automatically via UserDefaults
+	- Images compressed to 70% JPEG quality for storage
+	- Button tap areas expanded with contentShape modifier
+	- Shared ViewModel between tabs for data consistency
+	  
+- ## ðŸ”— Related
+	- [[ðŸ’¼ Professional]]
+	- [[ðŸ› ï¸ Tools & Tech]]
+	- [[Swift]]
+	- [[SwiftUI]]
+	- [[iOS Development]]
+	  
+- ## ðŸ·ï¸ Tags
+	#ios #swift #swiftui #mvvm #productivity #app-development #mobile

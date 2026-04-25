@@ -1,0 +1,5 @@
+- template:: sleep-reentry
+- ðŸ›Œ Sleep Re-entry
+  - How the night actually went:
+  - What the body needs this morning:
+  - One permission I'm granting today:

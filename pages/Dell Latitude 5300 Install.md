@@ -1,0 +1,8 @@
+- Installing Linux Pop_OS! 22.04 LTS
+- sha256_sum-::```
+  94d04ec9d77297062d73d5248771782eb9f960085b5cb38881acfa700959cd3b
+  ```
+- ```94d04ec9d77297062d73d5248771782eb9f960085b5cb38881acfa700959cd3b
+  ```
+-
+-

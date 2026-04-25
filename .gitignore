@@ -1,0 +1,17 @@
+
+# Logseq internal version/cache files
+logseq/version-files/
+
+# Private pages with secrets
+pages/Admin.md
+pages/API_Key.md
+pages/Focus App.md
+journals/2026_04_04.md
+journals/2025_04_01.md
+logseq/version-files/
+
+# More private pages with secrets
+pages/Nomic GPT4ALL.md
+
+# More private pages with secrets
+pages/Nomic GPT4ALL.md

@@ -1,0 +1,12 @@
+- template:: technical-concept
+- **What it is**::
+  -
+- **Why it matters**::
+  -
+- **How it works**::
+  -
+- **Examples**::
+  -
+- **Related concepts**::
+  - [[]]
+- **Tags**:: #learning
