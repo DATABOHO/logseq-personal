@@ -15,3 +15,10 @@ pages/Nomic GPT4ALL.md
 
 # More private pages with secrets
 pages/Nomic GPT4ALL.md
+
+# OS junk
+.DS_Store
+
+# Logseq backups
+logseq/bak/
+*.bak.*
