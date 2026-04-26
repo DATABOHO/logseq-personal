@@ -1,0 +1,1246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:haydenull/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Agenda
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:_-j0Y-IEPGVlIK6IJ85qs
+SUMMARY:Regan- drop by
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230616
+DESCRIPTION:project: Jun 16th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-cbfd-44a6-bc43-0ec864217733
+END:VEVENT
+BEGIN:VEVENT
+UID:1j7GULoNf7h6SMGZJyrhq
+SUMMARY:Clean up balcony
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230407
+DESCRIPTION:project: Apr 7th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e3-1ac5-45d9-888c-19c96aaea790
+END:VEVENT
+BEGIN:VEVENT
+UID:2sIoeCPq_qA4BaMm2e_Xx
+SUMMARY:Shower
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:project: Apr 19th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686b3-7b56-4bbf-a517-85ffdd7bac4d
+END:VEVENT
+BEGIN:VEVENT
+UID:cS_h-eoJs7-hiaCjuGPYf
+SUMMARY:TODAY
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250222
+DESCRIPTION:project: Feb 22nd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-d870-4266-b2e9-93db101af1a5
+END:VEVENT
+BEGIN:VEVENT
+UID:bpbdv5UCuyj0YuuF1ltGb
+SUMMARY:Groceries
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230225
+DESCRIPTION:project: Feb 25th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-ddfc-446b-848a-957b8d4586bb
+END:VEVENT
+BEGIN:VEVENT
+UID:3QqBwPf1q2BXBSCc4VpyL
+SUMMARY:Get Bitcoin Wallet Address
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-54a6-4ad6-998d-56c935463681
+END:VEVENT
+BEGIN:VEVENT
+UID:tq5JFLMVWbubh243TKu5j
+SUMMARY:Book appointment with #DrTirmizi #Contacts #Appointments
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230213
+DESCRIPTION:project: Feb 13th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-9c86-4feb-b479-5dde67e2f61c
+END:VEVENT
+BEGIN:VEVENT
+UID:Jeg5sqBdb_UhtXSocb6zx
+SUMMARY:ask #Reagan if she is ok with a trip to Hamilton to visit the Haywa
+	rds and see the Jeff Haywards Art Exhibit on We will have lunch at the Hay
+	wards
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230224
+DESCRIPTION:project: Feb 24th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-9158-49c5-a7e4-630fbf88ed90
+END:VEVENT
+BEGIN:VEVENT
+UID:Uhr30Y_Dfmd_aKdqJKeJN
+SUMMARY:wash dishes
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:project: Apr 25th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fb-f42c-43ea-bebe-14bc8b87f274
+END:VEVENT
+BEGIN:VEVENT
+UID:Hen6jTYWFN4V9Rd1toWPn
+SUMMARY:#Groceries Green Apples
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-3b52-4cbb-b05c-c6fc094d0a7d
+END:VEVENT
+BEGIN:VEVENT
+UID:LIgIOqoxylJdhbAW_nhfV
+SUMMARY:Lentil Stew
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230614
+DESCRIPTION:project: Jun 14th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-71c1-422e-9802-99eee2572d52
+END:VEVENT
+BEGIN:VEVENT
+UID:l9l4Y7R_9tGi3OCyDSHP-
+SUMMARY:Drop off packed and labeled package at Canada Post
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-88ac-425f-8b02-b89b715e4b93
+END:VEVENT
+BEGIN:VEVENT
+UID:N05WAfdR6EfJguRrf_xs6
+SUMMARY:Check to see if I have this
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230302
+DESCRIPTION:project: Mar 2nd\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-386a-485d-8d5b-629c65e31a37
+END:VEVENT
+BEGIN:VEVENT
+UID:zBk143r9-AsTGvb20wuH0
+SUMMARY:Taxes
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230305
+DESCRIPTION:project: Mar 4th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-9736-4deb-ace3-8a33156d7fd4
+END:VEVENT
+BEGIN:VEVENT
+UID:6QlHVYQ_fjBLvQJDfNEjx
+SUMMARY:3 Z Drop ALien OG
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230407
+DESCRIPTION:project: Apr 7th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e3-b2b7-4e1f-bdbb-62ca9d4bb665
+END:VEVENT
+BEGIN:VEVENT
+UID:2jkqkXZudaUqcYiQmufV0
+SUMMARY:Book time time-off at work Sep 18th\, 2023 for Chiropractor at 1:00
+	-3:00 PMx``
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230917
+DESCRIPTION:project: Sep 17th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-b461-4ef5-a0e0-70be092d50ab
+END:VEVENT
+BEGIN:VEVENT
+UID:MdAFy-rfmxhvjxc9sag1f
+SUMMARY:Groceries
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:project: Feb 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-cd55-4ca3-92b0-ac90de537b05
+END:VEVENT
+BEGIN:VEVENT
+UID:4lgyN7FQoPSkrIb-d2mH6
+SUMMARY:Drop off packed and labeled package at Canada Post
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-4990-406a-ba3e-f2b82df97656
+END:VEVENT
+BEGIN:VEVENT
+UID:Go0yY9_1E702oSOBLR721
+SUMMARY:Make remaining #Payment $900 Mar 7th\, 2023
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230306
+DESCRIPTION:project: Mar 6th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-1952-4c03-bfac-e716069c8fb1
+END:VEVENT
+BEGIN:VEVENT
+UID:kK1Ymjbn3r_Tb7V4U_egV
+SUMMARY:Dan Soder Show - When and Where is it
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230214
+DESCRIPTION:project: Feb 14th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-73e7-4e14-9538-17d7300bdd71
+END:VEVENT
+BEGIN:VEVENT
+UID:7V7I5Stm-hrobRhCTKBrO
+SUMMARY:Drink Smoothy
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-5d41-4738-8e10-f38d54a01aae
+END:VEVENT
+BEGIN:VEVENT
+UID:96fL4Kb8ZAcTWRQhrsvKd
+SUMMARY:Clean towels
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20240128
+DESCRIPTION:project: Jan 28th\, 2024\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-bf09-4c9e-98b5-507b89eb3d8f
+END:VEVENT
+BEGIN:VEVENT
+UID:FEsvynZv_gkYvBqvoWxsC
+SUMMARY:Make Lentil Stew
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230225
+DESCRIPTION:project: Feb 25th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-fb6f-4399-9aeb-30fde31b9159
+END:VEVENT
+BEGIN:VEVENT
+UID:Gv-7iFQ-D-MwfJeJSo4jG
+SUMMARY:Pack up chair for shipping
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-404e-4b51-8059-34964bd2a1a5
+END:VEVENT
+BEGIN:VEVENT
+UID:_j6u_MGMQNPArBRAgvz47
+SUMMARY:Deep Relax
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:project: Apr 25th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fb-d01d-419e-bd0a-c588067656a2
+END:VEVENT
+BEGIN:VEVENT
+UID:h75B7arq7ZrypzWKibjEt
+SUMMARY:Setup ' Focus App ' for Logseq Personal Graph
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-1ba9-46f3-a4f0-7e05ebf39cc2
+END:VEVENT
+BEGIN:VEVENT
+UID:Tw09OR7_ni1r7J64vFdIn
+SUMMARY:Gas - Fill up [Car]
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:project: Feb 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-2646-4f1d-bfb6-d09168918d03
+END:VEVENT
+BEGIN:VEVENT
+UID:03wRxYEi2mqj1AfW8uCIa
+SUMMARY:Get Logseq Personal Graph Setup
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-3e8e-4e2a-b4a7-b2144b92bf4b
+END:VEVENT
+BEGIN:VEVENT
+UID:l5o6stwKjkgx8om_OuCZt
+SUMMARY:Vacuum Mop Bedrooom Hallway Living Room
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T173000Z
+DESCRIPTION:project: Apr 26th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56f8-0c2f-43e8-8ebc-0312f6ab7750
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:CPOuMCM-16hZjUmN3C2PQ
+SUMMARY:on invoice
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20251202
+DESCRIPTION:project: Dec 2nd\, 2025\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e2-7832-4193-b29e-05ed723faace
+END:VEVENT
+BEGIN:VEVENT
+UID:KD1aEdFI97h7iA1Hv1oct
+SUMMARY:Vacuum & Mop Office
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T154500Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-3b0d-4407-a0d4-081d19ff9ec1
+DURATION:PT19M
+END:VEVENT
+BEGIN:VEVENT
+UID:kI3iLyOjuT3kstvZDrIxZ
+SUMMARY:Magnesium x 2 @ 4:15
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230516
+DESCRIPTION:project: May 16th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-f670-4d41-b599-5bdbd28a7729
+END:VEVENT
+BEGIN:VEVENT
+UID:5I7oGqjym2yyyl5tRQGxv
+SUMMARY:Set up a new focus app.
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260420
+DESCRIPTION:project: Apr 20th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ea78dd-0880-46a5-b70d-6113734b5527
+END:VEVENT
+BEGIN:VEVENT
+UID:yD0K6Zrf_AihvTiXwPQos
+SUMMARY:I left a voicemail with Strive Physiotherapy to return my call abou
+	t a referral appointment
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:project: Apr 15th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e2-03ce-488f-9e29-953e13266de1
+END:VEVENT
+BEGIN:VEVENT
+UID:KzgPApkZdRUg6cq5Y6fi1
+SUMMARY:ask [Jeff Hayward] if the gallery is open Sundays
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230224
+DESCRIPTION:project: Feb 24th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-b0a0-4005-b006-7561cf778ad5
+END:VEVENT
+BEGIN:VEVENT
+UID:yoelpRDfE-AN4WRWeLabW
+SUMMARY:#Install Mar 6th\, 2023 #Everything" file explorer application that
+	 lists all files and folders on your system.
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230305
+DESCRIPTION:project: Mar 5th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-e68e-405e-a641-79643416a8de
+END:VEVENT
+BEGIN:VEVENT
+UID:CB7GWrcdILsod_C4OqokO
+SUMMARY:Meditate
+DTSTAMP:20260426T183656Z
+DTSTART:20260427T162100Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-0e32-4075-af17-a48e6f529141
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:ppfYR6p2MBvCpg6V_LYNe
+SUMMARY:MEDITATE
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260420
+DESCRIPTION:project: Apr 20th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ea78dd-558d-4988-9483-c0f1740ad750
+END:VEVENT
+BEGIN:VEVENT
+UID:yApKEK-VVjAWB6ClASjym
+SUMMARY:document month of June expenses
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230524
+DESCRIPTION:project: May 24th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-583b-4fa6-bee0-5b729027954d
+END:VEVENT
+BEGIN:VEVENT
+UID:kWXZNZTD-bBd9BUOFHQaz
+SUMMARY:Anthropic → regenerate
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:project: Apr 25th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fb-6ce7-4f33-815c-238791286708
+END:VEVENT
+BEGIN:VEVENT
+UID:EnCnhG_VhYqxYGYwDr5W_
+SUMMARY:Stretch Yoga Matt R Routine
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-2170-480e-a866-2839ec9aafb6
+END:VEVENT
+BEGIN:VEVENT
+UID:EqazLwU6PnvM-Ws3NUm40
+SUMMARY:Regan pickup at 11:15 for dr appointment @12:15
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230615
+DESCRIPTION:project: Jun 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-6df0-4117-bd87-e90530ae16b5
+END:VEVENT
+BEGIN:VEVENT
+UID:EpvyiArR11W35OvjjnRVM
+SUMMARY:Treadmill
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260420
+DESCRIPTION:project: Apr 20th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ea78dd-e82e-4acc-a82f-1d7168f41e72
+END:VEVENT
+BEGIN:VEVENT
+UID:ONkcamw0yCakE8d6JJHsh
+SUMMARY:Groceries
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230225
+DESCRIPTION:project: Feb 25th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-00ab-4d12-ba13-f04c1c36463f
+END:VEVENT
+BEGIN:VEVENT
+UID:y3S5blwxBKkKaE6W-CeRC
+SUMMARY:Make Lentil Stew
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230225
+DESCRIPTION:project: Feb 25th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-df50-48d8-a563-9ccab73495f6
+END:VEVENT
+BEGIN:VEVENT
+UID:5Z_hJX3za7mV7__IgWcHz
+SUMMARY:Shower and Clean
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T130000Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-77d8-4610-a430-11752bc44fa6
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:a9VRHH3g1fc-y7zps5Lro
+SUMMARY:Drivers License - Form Mar 6th\, 2023
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230302
+DESCRIPTION:project: Mar 2nd\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-2cbd-4cbb-9fab-5f4d60208256
+END:VEVENT
+BEGIN:VEVENT
+UID:3DRzE8er14ARpvlnwQIUb
+SUMMARY:[Car] wash
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:project: Feb 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-0495-4cb8-bea5-2a206ea21c47
+END:VEVENT
+BEGIN:VEVENT
+UID:6-GcOkilrBIn0r6EDvtq8
+SUMMARY:Make Bed
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-75d2-43af-81f3-e6b29c217916
+END:VEVENT
+BEGIN:VEVENT
+UID:o71rxhyGuELAUAp8Z3h2f
+SUMMARY:Request complete form for Driver Control
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230213
+DESCRIPTION:project: Feb 13th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-5573-4852-8ced-5810f1a24100
+END:VEVENT
+BEGIN:VEVENT
+UID:G8sCLeFzKI_rMeagWteLa
+SUMMARY:#Reagan to print return label at work
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-7e31-4cd9-9b45-50945952286e
+END:VEVENT
+BEGIN:VEVENT
+UID:U81_4Dyso5ppTOHGzACSA
+SUMMARY:Relax and Do Whatever
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T180000Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-a1e7-4edc-810d-634ab5b27756
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:8tcg2-oGZjukgeHRHsqFC
+SUMMARY:#Massage_Chair_Return - Drop off at Canada Post Feb 13th\, 2023
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-0d05-49a3-bb60-d1345a968c3b
+END:VEVENT
+BEGIN:VEVENT
+UID:ClGmGKyjnKzGOZ4ybtK_i
+SUMMARY:Walk BUDA
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250222
+DESCRIPTION:project: Feb 22nd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-2913-45aa-a64c-35dd8666d554
+END:VEVENT
+BEGIN:VEVENT
+UID:MiEwU52q_YlDNL4v_Qp1A
+SUMMARY:Glucosamine 2tbls
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-81a9-4f5e-9461-2714f269685e
+END:VEVENT
+BEGIN:VEVENT
+UID:kjcLbkTAm9ccixxLhVMqp
+SUMMARY:poop
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686a8-969f-48e2-bb38-ab53b8f32e1e
+END:VEVENT
+BEGIN:VEVENT
+UID:pPvewMILyjQ57sVBzPnfM
+SUMMARY:Pay day
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:project: Feb 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-f021-43c2-9474-dff864dfcb07
+END:VEVENT
+BEGIN:VEVENT
+UID:WHKKoDeSFGQd-aYIdnrnq
+SUMMARY:mop floor
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-8666-47bf-afde-69be83eb26fa
+END:VEVENT
+BEGIN:VEVENT
+UID:7bHGQE5-fXatkEWDtuF_o
+SUMMARY:Dan Soder Show - When and Where is it
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230214
+DESCRIPTION:project: Feb 14th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-b6f8-421d-b4fc-03f121ab87c3
+END:VEVENT
+BEGIN:VEVENT
+UID:_C8haAGseN2DNHEhLix0-
+SUMMARY:Shave
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250222
+DESCRIPTION:project: Feb 22nd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-e169-42db-a8a5-ad3175fd140d
+END:VEVENT
+BEGIN:VEVENT
+UID:LINSpOSZYQnRWLf2oM3G4
+SUMMARY:Make and Eat a Healthy Breakfast
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T140000Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-b693-42f6-bfdc-faf4700e5c47
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:rZpDuayxFGQWb2ABqYP0C
+SUMMARY:Vacuum ffc
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686a8-19c0-46ca-a39e-1dc8eacf7500
+END:VEVENT
+BEGIN:VEVENT
+UID:mN12j1KwZ9tD3AskDdKTB
+SUMMARY:Sunlamp 30 mins
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260421
+DESCRIPTION:project: Apr 21st\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e76183-2a43-42a2-b708-2cb0c744825d
+END:VEVENT
+BEGIN:VEVENT
+UID:nT2leFtsP16up1h65XWat
+SUMMARY:Oil change completed
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230616
+DESCRIPTION:project: Jun 16th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-d212-4589-a594-f9a7f3470cd5
+END:VEVENT
+BEGIN:VEVENT
+UID:z4Gmo-B4iMToHeWq4VP_7
+SUMMARY:MEDITATE
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260420
+DESCRIPTION:project: Apr 20th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ea78dd-b2e3-4fb5-84ef-2683ae72c634
+END:VEVENT
+BEGIN:VEVENT
+UID:iQr8fpwHj0BMtwBmokcBL
+SUMMARY:10:57 {{video https://www.youtube.com/watch?v=bNASybOzruM}}  #Watch
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230716
+DESCRIPTION:project: Jul 16th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-dd0c-4ab3-85ac-f7a192c22b5f
+END:VEVENT
+BEGIN:VEVENT
+UID:rRktPc_9v7x2NsrY1klcD
+SUMMARY:Laundry
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230407
+DESCRIPTION:project: Apr 7th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e3-dcb0-4cc0-8265-e4c9eeb56092
+END:VEVENT
+BEGIN:VEVENT
+UID:I19nwT2rP5OE2NbZuItZO
+SUMMARY:Send to DrTirmizi for faxing to Driver Control
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230302
+DESCRIPTION:project: Mar 2nd\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-1f33-461e-81bb-3accefc6ad35
+END:VEVENT
+BEGIN:VEVENT
+UID:RfLbJHgdDQhNIbZEWUrkR
+SUMMARY:Request 30 add and 30 vivance
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230213
+DESCRIPTION:project: Feb 13th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-4bc9-4d30-8acd-00511e312aba
+END:VEVENT
+BEGIN:VEVENT
+UID:OSelNkhw8NA6-65KLgDaV
+SUMMARY:#Taxes #2022 #2021 #2020
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230211
+DESCRIPTION:project: Feb 11th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-c5ef-4194-a541-2fa79f9ff6de
+END:VEVENT
+BEGIN:VEVENT
+UID:Iw5KHJ_jWCafZy7Z23vCh
+SUMMARY:Take Vitamins
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230407
+DESCRIPTION:project: Apr 7th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e3-be57-4bea-831f-8405d8bd46dc
+END:VEVENT
+BEGIN:VEVENT
+UID:klSEWmON8CpLp04IGr6Bn
+SUMMARY:Change address with Cap One
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:project: Apr 15th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e2-5b1a-4082-bc5e-c6ae7a2cb4ab
+END:VEVENT
+BEGIN:VEVENT
+UID:2BtCHSC1OIvvJ8cYcEDE4
+SUMMARY:Yoga 12
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230614
+DESCRIPTION:project: Jun 14th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-216f-487d-b15e-9fa9253e8f30
+END:VEVENT
+BEGIN:VEVENT
+UID:KJZSuvBbtA0kqmiO7qyl_
+SUMMARY:ask [Jeff Hayward] if the gallery is open Sundays
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230224
+DESCRIPTION:project: Feb 24th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-40e6-48c3-9f68-8d27a7061407
+END:VEVENT
+BEGIN:VEVENT
+UID:JNqOwxldkjajzlvOlpDMW
+SUMMARY:Lunch - Lentil Soup Homemade
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T160500Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-4d42-4395-8fd1-ff4a62e5745b
+DURATION:PT15M
+END:VEVENT
+BEGIN:VEVENT
+UID:8E35haVXgC0Il3OanA85_
+SUMMARY:ChatGPT Cancel Subscription
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-15b0-49c3-9a35-cc94db456701
+END:VEVENT
+BEGIN:VEVENT
+UID:JcWVN9KXqgwg0gAR6k1Eb
+SUMMARY:Look at what 'Name Spaces' are in Logseq
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230407
+DESCRIPTION:project: Apr 7th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e3-2227-4a7c-b066-d79f0433d00a
+END:VEVENT
+BEGIN:VEVENT
+UID:dTT5WNvF5ny8rpAzh-dTm
+SUMMARY:Walk Buda
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T150000Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-9503-4407-8aca-c887ef12297e
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:hRdhoQ-KvWQMSzFxGkZNx
+SUMMARY:12:30 Meditate 20 minutes
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260426
+DESCRIPTION:project: Apr 26th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56f8-9264-4e60-b2da-84d3c6db48c8
+END:VEVENT
+BEGIN:VEVENT
+UID:1Zk0jfrvGGujm5dSA4pQy
+SUMMARY:OpenAI → regenerate API key
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:project: Apr 25th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fb-5b76-4f4d-822f-99cc1966a3d0
+END:VEVENT
+BEGIN:VEVENT
+UID:Hp6wH6LCfKJoGw27AKqpv
+SUMMARY:Hydro - 200
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230615
+DESCRIPTION:project: Jun 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-e6dd-4570-b865-159c628ad501
+END:VEVENT
+BEGIN:VEVENT
+UID:Rylc2Qx_Vl2kN7D7Avjyf
+SUMMARY:Build WI app
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260421
+DESCRIPTION:project: Apr 21st\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e76183-c198-49e3-9317-2bb4491744f6
+END:VEVENT
+BEGIN:VEVENT
+UID:fQQqRbQhOPgtgyaUxcn5e
+SUMMARY:Capital One - 150
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230615
+DESCRIPTION:project: Jun 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-007d-4c97-bae3-6015d7433708
+END:VEVENT
+BEGIN:VEVENT
+UID:NLe9qz-xRpgHh2GGznVEU
+SUMMARY:Take #Buda for a #walk Mar 6th\, 2023 in the #cemetery
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230305
+DESCRIPTION:project: Mar 5th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-d4e0-44a1-a62b-caf968dc6d4a
+END:VEVENT
+BEGIN:VEVENT
+UID:8Kkj2Leb6PAnwioLw9N9W
+SUMMARY:Shower
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250222
+DESCRIPTION:project: Feb 22nd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-f925-4ef7-8cbc-375aad91de02
+END:VEVENT
+BEGIN:VEVENT
+UID:3oMabmaIamQaDbkPp4UJZ
+SUMMARY:Telus - 115
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230615
+DESCRIPTION:project: Jun 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-78ec-4634-a10d-24ef61752160
+END:VEVENT
+BEGIN:VEVENT
+UID:CaaR_92y2_JWvrnVW3Wq1
+SUMMARY:Take Advil + Tylenol
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250222
+DESCRIPTION:project: Feb 22nd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-f6ce-4d85-b3a9-2b180e4f7046
+END:VEVENT
+BEGIN:VEVENT
+UID:lQdqWXvsrqrqX-ttt9B-D
+SUMMARY:sun lamp 30
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:project: Apr 19th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686b3-8049-4690-8369-1ae28483fa37
+END:VEVENT
+BEGIN:VEVENT
+UID:23V1Uqwx5AtgIdE0Mkv6m
+SUMMARY:Pack vitamins for the week
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-abdb-49f7-9b37-36b2d22e117e
+END:VEVENT
+BEGIN:VEVENT
+UID:6tye_N2NHrUnipHabgZVm
+SUMMARY:Groceries
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:project: Feb 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-f8ff-4153-bd12-167878eefa3b
+END:VEVENT
+BEGIN:VEVENT
+UID:i1_HMmgL6Af8eBwB-OdSP
+SUMMARY:ask #Reagan if she is ok with a trip to Hamilton to visit the Haywa
+	rds and see the Jeff Haywards Art Exhibit on We will have lunch at the Hay
+	wards
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230224
+DESCRIPTION:project: Feb 24th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-0f3d-4048-a93f-1d910e59c694
+END:VEVENT
+BEGIN:VEVENT
+UID:rr-gczGchgNBlA-qvsGvJ
+SUMMARY:Sepacot x 2 @ 4:15
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230516
+DESCRIPTION:project: May 16th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-5de4-4e15-8680-2f62114fc476
+END:VEVENT
+BEGIN:VEVENT
+UID:ZbUyD8HjHn0OyE50HZEst
+SUMMARY:Reagan Working   work schedule - Enter in dates to logseq journal
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230305
+DESCRIPTION:project: Mar 5th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-6a79-469a-8f19-735769d5ccbd
+END:VEVENT
+BEGIN:VEVENT
+UID:YkW62ttME9QoPRWnF6C11
+SUMMARY:Take out Buda 14:25
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250309
+DESCRIPTION:project: Mar 9th\, 2025\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e3-957b-4811-a5bf-15e9bc268e01
+END:VEVENT
+BEGIN:VEVENT
+UID:NgU8U6iTK0lJD9IEyyio3
+SUMMARY:Should move this account across to the cottage?
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230319
+DESCRIPTION:project: Mar 19th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-2495-4218-a919-21bca74a79a8
+END:VEVENT
+BEGIN:VEVENT
+UID:liQWdFZG-ab8JiYmOpbut
+SUMMARY:Groq → regenerate
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:project: Apr 25th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fb-7c93-4abd-b875-7345bab76291
+END:VEVENT
+BEGIN:VEVENT
+UID:2GlJFwlEClhZn9Y7uoHJC
+SUMMARY:Shower and Clean
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T130000Z
+DESCRIPTION:project: Apr 26th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56f8-91f1-4e75-b50f-330b9959a6af
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:a2Emf3mzSQ__JuKIFh6wb
+SUMMARY:Find out return address for Telus equipment
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:project: Sep 19th\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e2-3b39-44ef-a6d1-c952ca71beab
+END:VEVENT
+BEGIN:VEVENT
+UID:WythP9NrkSdVNKI7jOFxe
+SUMMARY:Book appointment with #DrTirmizi #Contacts #Appointments
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230213
+DESCRIPTION:project: Feb 13th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-4603-45b5-9975-73512d6ab1f0
+END:VEVENT
+BEGIN:VEVENT
+UID:1CjycBGejrCsA1lYGlzB9
+SUMMARY:Take something out for dinner 12:23
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686a8-454b-46aa-b123-6ffe8bc8683f
+END:VEVENT
+BEGIN:VEVENT
+UID:jRXGDohG06QDr0cNCqFjN
+SUMMARY:Blood Work - Second Round Testing
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230302
+DESCRIPTION:project: Mar 2nd\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-ce03-4f10-8f6b-28ecfa4c2be6
+END:VEVENT
+BEGIN:VEVENT
+UID:zJZDbbGvOlWR7AkaPjJOE
+SUMMARY:follow-up on Physiotherapy referral
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:project: Apr 15th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e2-bd9a-4222-b569-fcd94641f77e
+END:VEVENT
+BEGIN:VEVENT
+UID:8GWV3CCFoTnBHoGZv8kxJ
+SUMMARY:Reagan Talk with her about st pattys day parade and haywards email
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230302
+DESCRIPTION:project: Mar 2nd\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-7971-42aa-af93-62351dc615ac
+END:VEVENT
+BEGIN:VEVENT
+UID:OslJtODaozMY1SZTn1_Qc
+SUMMARY:#Reagan #Massage_Chair_Return Email Amazon return label for massage
+	 chair.
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-99c3-4f9f-bb69-89b86bb46726
+END:VEVENT
+BEGIN:VEVENT
+UID:Kuzkd_Aa2Uk1aRZL--YFK
+SUMMARY:#Taxes #2022 #2021 #2020
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230211
+DESCRIPTION:project: Feb 11th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-4395-48cb-ac0b-1b69f0223360
+END:VEVENT
+BEGIN:VEVENT
+UID:LKuXYqEMpHLzOU20ntxb5
+SUMMARY:Sunlamp 30 mins
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260420
+DESCRIPTION:project: Apr 20th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ea78dd-0a32-4e5c-83cc-895cf86352c5
+END:VEVENT
+BEGIN:VEVENT
+UID:rvBDfbZCXdbEMDxaOrmxl
+SUMMARY:#Massage_Chair_Return - Drop off at Canada Post Feb 13th\, 2023
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-612d-44d5-b1a4-c77cffba6bcf
+END:VEVENT
+BEGIN:VEVENT
+UID:UIKSRqqrTVO7bCI_0Oiy5
+SUMMARY:Dispose of Couch.
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230407
+DESCRIPTION:project: Apr 7th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e3-ae85-45b4-a128-be29ea19e8f2
+END:VEVENT
+BEGIN:VEVENT
+UID:zs0oo7R8qX178r5KkGs0r
+SUMMARY:Sandra text back or call
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230305
+DESCRIPTION:project: Mar 4th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-ba4e-4599-84dc-1a8683fcd2fc
+END:VEVENT
+BEGIN:VEVENT
+UID:aq8tHoIcw5T_GFUoQ7h7C
+SUMMARY:Test Dose starting every 14 days.
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e2-6502-4565-8a19-7cf3cab98ff7
+END:VEVENT
+BEGIN:VEVENT
+UID:M2kIE5Hsgo-r4DEUt8rw0
+SUMMARY:Setup Blood Work Appointment -
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230616
+DESCRIPTION:project: Jun 16th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-a116-4e2d-8657-3f26c32c8e89
+END:VEVENT
+BEGIN:VEVENT
+UID:gCu-_2P9qYthmRmqK1-TJ
+SUMMARY:meditate
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:project: Apr 19th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686b3-d26f-4354-b13c-f2e4d0e148b0
+END:VEVENT
+BEGIN:VEVENT
+UID:auSh7SchgR3wwcUMifN3v
+SUMMARY:Book #Buda appointment - Shots
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230224
+DESCRIPTION:project: Feb 24th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-819f-4e15-b584-03ab6c701559
+END:VEVENT
+BEGIN:VEVENT
+UID:jGwpiczHIXAWZADKIQ54X
+SUMMARY:Figure out free way to sync Logseq with iPhone and other devices
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230305
+DESCRIPTION:project: Mar 5th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-8d6d-49e9-9630-2b947b62f398
+END:VEVENT
+BEGIN:VEVENT
+UID:sxZeevL5WptifwkHK4cTi
+SUMMARY:Moira cannot do Jun 9
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230516
+DESCRIPTION:project: May 16th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-6e80-4eb8-97bf-6a017bcdeda5
+END:VEVENT
+BEGIN:VEVENT
+UID:gdM4-sf7KWfbp22gmgF04
+SUMMARY:Take Vitamins
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-b323-4685-a695-2d6ef7ba219a
+END:VEVENT
+BEGIN:VEVENT
+UID:IUaJvIO7g9vSJYlWuFKq7
+SUMMARY:1:30 -2:30  Make lunch. - Lentil soup with a side salad
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260425
+DESCRIPTION:project: Apr 25th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fb-d810-4316-b367-4edf6d043572
+END:VEVENT
+BEGIN:VEVENT
+UID:BcpfjT0yN69RT8EWuW81I
+SUMMARY:Eat lunch - Soup
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250222
+DESCRIPTION:project: Feb 22nd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-8c04-4a2a-b92f-7ebbe201718e
+END:VEVENT
+BEGIN:VEVENT
+UID:56xmU_b11uQvtKlk4k4yJ
+SUMMARY:Exploring Music
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T170000Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-bbe5-4544-999e-7940f6b61971
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:S-2RAL0pkgRSmLM-cJHNu
+SUMMARY:Call Mum
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-42d0-4b04-bec4-6deb6b4916d2
+END:VEVENT
+BEGIN:VEVENT
+UID:esskIQiAzk8G5NbFiyW-H
+SUMMARY:Tidy up Apartment
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250222
+DESCRIPTION:project: Feb 22nd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-308f-4184-98fb-a4335f333a34
+END:VEVENT
+BEGIN:VEVENT
+UID:SSTR0u2fH2XXJ7m6AWAKs
+SUMMARY:Meditate
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T163000Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-d2af-40de-b625-782d0247e5b6
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:Q_PXf9pNhxTvgCIg_QDEt
+SUMMARY:drop amazon returns off at post office and purolator drop box.
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230601
+DESCRIPTION:project: Jun 1st\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e3-42ae-4111-badb-e9b7b2cc87d8
+END:VEVENT
+BEGIN:VEVENT
+UID:IWEWYsk_9WpBodzzi0fAZ
+SUMMARY:Booked Chiropractor Appointment
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230917
+DESCRIPTION:project: Sep 17th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-881b-418a-964a-876c53169d04
+END:VEVENT
+BEGIN:VEVENT
+UID:rY9Cdmg7wUZtANWglxEok
+SUMMARY:Eat Soup
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-951c-48f5-a79f-23323fe0ebb3
+END:VEVENT
+BEGIN:VEVENT
+UID:PxyXlEhonN-qNBE_LE9f_
+SUMMARY:Drive Reagan to work 12:45PM
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230318
+DESCRIPTION:project: Mar 18th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-f9dd-426c-abb1-a4d435e3163c
+END:VEVENT
+BEGIN:VEVENT
+UID:ZICToly44j-9VxMtAtvWl
+SUMMARY:set appointment with Dr. Govin
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:project: Apr 15th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e2-3637-4a31-b1b3-137f63f8cc4b
+END:VEVENT
+BEGIN:VEVENT
+UID:q3a_d3Bfl0KY7y5NhUz7o
+SUMMARY:Complete form - Get case number
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230302
+DESCRIPTION:project: Mar 2nd\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-b941-493b-a0ea-056d1a73c6cc
+END:VEVENT
+BEGIN:VEVENT
+UID:oE1B6XcIfAw3Zk89LdSW6
+SUMMARY:#Reagan #Massage_Chair_Return Email Amazon return label for massage
+	 chair.
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-cd48-4ca1-b7ec-572658f5193f
+END:VEVENT
+BEGIN:VEVENT
+UID:8oJ11kX4J3A5-l48Szg5O
+SUMMARY:Vacuum
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-9061-4042-bfdb-5e02ef9fb272
+END:VEVENT
+BEGIN:VEVENT
+UID:Tm2sT_TPW5GuRjYpOHYw7
+SUMMARY:- Reagan working 11-8
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230614
+DESCRIPTION:project: Jun 14th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-7831-469f-b2a6-f8f0247423df
+END:VEVENT
+BEGIN:VEVENT
+UID:gZ90uCyvr5lOSvd_z3Joc
+SUMMARY:clean up closet at front door
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-0380-496e-9d22-fd073e80cf78
+END:VEVENT
+BEGIN:VEVENT
+UID:M79rkySvxOo8hSbbtP9Yo
+SUMMARY:Get check into account
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230524
+DESCRIPTION:project: May 24th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-8784-4f88-9c30-3cf6e5e848a2
+END:VEVENT
+BEGIN:VEVENT
+UID:tC4m7w5cQdiDL6nub8uHi
+SUMMARY:Take nap
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-ce92-4265-9f26-b5525cb69ece
+END:VEVENT
+BEGIN:VEVENT
+UID:YnUM8BJmjDK_1IiIV11Z7
+SUMMARY:Walk BUDA - Quick
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T190000Z
+DESCRIPTION:project: TimeBoxing\n\nLogseq Deep Link: logseq://graph/persona
+	l-graph?block-id=69ee56fc-4426-4ff5-8fbd-39d1ca43618e
+DURATION:PT15M
+END:VEVENT
+BEGIN:VEVENT
+UID:bq6q8S_hL0-Y97rd0xfAu
+SUMMARY:Pay day
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:project: Feb 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-85a4-4083-88c4-5475ba73fb15
+END:VEVENT
+BEGIN:VEVENT
+UID:Fwrp-EfFT8UVHwMrtJkw4
+SUMMARY:locate case file number
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230318
+DESCRIPTION:project: Mar 18th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-b792-4024-b4a8-e8385bbc6200
+END:VEVENT
+BEGIN:VEVENT
+UID:Rl0JKfsZDs7ML3JrRJdyl
+SUMMARY:[Car] wash
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:project: Feb 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-7e56-4a51-a34b-2120081ff469
+END:VEVENT
+BEGIN:VEVENT
+UID:jt00pJ96ucHRpdRAYlHN2
+SUMMARY:Gas - Fill up [Car]
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230215
+DESCRIPTION:project: Feb 15th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-1565-41f8-ab9e-aa6a48f1bffa
+END:VEVENT
+BEGIN:VEVENT
+UID:gfsMgzjcVhrMSjPc8byeG
+SUMMARY:submit receipt for first colon cleanse to insurance
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230524
+DESCRIPTION:project: May 24th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-e0a6-44a8-8108-1fdf53b90bb5
+END:VEVENT
+BEGIN:VEVENT
+UID:IomBN6d36EYA0x-pF-jlT
+SUMMARY:Dispose of #printer
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230305
+DESCRIPTION:project: Mar 5th\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-5e62-4c5a-a71a-0bcbb2945f50
+END:VEVENT
+BEGIN:VEVENT
+UID:0xKk_RkfY4hByFRa29ox3
+SUMMARY:Pay $750 in parking fines
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260421
+DESCRIPTION:project: Apr 20th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ea78dd-d7d5-46c0-a7d8-2e6f6dde08cd
+END:VEVENT
+BEGIN:VEVENT
+UID:voPiD1OFrcFa5Q8bTJmLE
+SUMMARY:###  Drivers License - Form
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230302
+DESCRIPTION:project: Mar 2nd\, 2023\n\nLogseq Deep Link: logseq://graph/per
+	sonal-graph?block-id=69e392e4-1249-4816-986a-6aadcb02c22a
+END:VEVENT
+BEGIN:VEVENT
+UID:-lQFjvRKGu_Ewj3I7gMcg
+SUMMARY:Pack up chair for shipping
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-935e-42d0-8388-c23df92f6e9c
+END:VEVENT
+BEGIN:VEVENT
+UID:t9XSG7lteiN9TrKdV94hn
+SUMMARY:#Reagan to print return label at work
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230212
+DESCRIPTION:project: Feb 12th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e4-3232-4127-a1f6-780d4bd0109f
+END:VEVENT
+BEGIN:VEVENT
+UID:-KH_dMnihdF08I9hiu4Ao
+SUMMARY:Groceries #Groc
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20250223
+DESCRIPTION:project: Feb 23rd\, 2025\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-89d7-48b9-8c1e-499f54fd3c87
+END:VEVENT
+BEGIN:VEVENT
+UID:xK3SEETCwzdFG0UhUZQMA
+SUMMARY:Shower and Clean
+DTSTAMP:20260426T183656Z
+DTSTART:20260426T130000Z
+DESCRIPTION:project: Apr 26th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56f8-c116-4b8e-bf8a-408740240db5
+DURATION:PT60M
+END:VEVENT
+BEGIN:VEVENT
+UID:DhtKVmxX8tBGbaLRdPmyI
+SUMMARY:Follow up on faxed documents from dr tirmizi
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20230614
+DESCRIPTION:project: Jun 14th\, 2023\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e392e3-ae3c-4f7f-b3ef-e61956ec112b
+END:VEVENT
+BEGIN:VEVENT
+UID:6HGlhCFZZe1MRxytrMtJo
+SUMMARY:Go for walk
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686a8-433b-47d9-b7aa-3ae3446bf694
+END:VEVENT
+BEGIN:VEVENT
+UID:5GkIeFpYeOra7vvxyX1Jj
+SUMMARY:Clean kitchen
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260419
+DESCRIPTION:project: Apr 19th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686b3-7098-44ef-959a-47d41a178d92
+END:VEVENT
+BEGIN:VEVENT
+UID:31LrWdcUrPsL2bhXePQui
+SUMMARY:clean kitchen
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69e686a8-5346-4a3f-a1fd-8f26d906d328
+END:VEVENT
+BEGIN:VEVENT
+UID:_wqYAwBQdcmX-N4fqNAVJ
+SUMMARY:Shower/Shave
+DTSTAMP:20260426T183656Z
+DTSTART;VALUE=DATE:20260418
+DESCRIPTION:project: Apr 18th\, 2026\n\nLogseq Deep Link: logseq://graph/pe
+	rsonal-graph?block-id=69ee56fc-af62-466c-a346-a54f0126e3ef
+END:VEVENT
+END:VCALENDAR
